@@ -19,4 +19,5 @@ The visualizations included a line chart displaying the trend of expenses over t
 Issues Faced
 I encountered some challenges, such as data type mismatches. While collaborating closely with ChatGPT, I discovered that defining a column as varchar(10) and then attempting to insert data longer than 10 characters caused issues. Fortunately, this was easily resolved. Additionally, transferring data from Python to SSMS and Power BI presented some challenges, including various errors.
 
+![Image](https://github.com/user-attachments/assets/cba6c5eb-b18f-406b-8b29-7733af4b92d8)
 
