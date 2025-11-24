@@ -1,0 +1,2000 @@
+Account 532947 - C398 - Branch: Georgia Branch - 2025-12-30 - Card Purchase - $19331.7
+Account 702287 - C563 - Branch: Hawaii Branch - 2025-04-15 - Fee - $1205.53
+Account 721606 - C1443 - Branch: Louisiana Branch - 2025-08-04 - Withdrawal - $15797.45
+Account 532004 - C1321 - Branch: Delaware Branch - 2025-11-11 - Deposit - $13065.22
+Account 662185 - C1121 - Branch: Michigan Branch - 2024-04-28 - Transfer - $7899.69
+Account 984908 - C1394 - Branch: Colorado Branch - 2024-01-30 - ATM - $1418.55
+Account 276310 - C1453 - Branch: Arkansas Branch - 2025-04-15 - Online - $1713.31
+Account 437538 - C1671 - Branch: Georgia Branch - 2024-07-31 - Card Purchase - $4174.78
+Account 933120 - C270 - Branch: Rhode Island Branch - 2025-01-28 - Refund - $12362.38
+Account 675345 - C1286 - Branch: Idaho Branch - 2024-05-03 - Fee - $628.97
+Account 819706 - C123 - Branch: Washington Branch - 2024-04-15 - Card Purchase - $4221.85
+Account 615904 - C1437 - Branch: New Jersey Branch - 2025-11-23 - Online - $19588.15
+Account 955957 - C1760 - Branch: New York Branch - 2024-03-22 - Refund - $9396.16
+Account 721118 - C1647 - Branch: Ohio Branch - 2024-08-07 - POS - $8944.63
+Account 437839 - C723 - Branch: Kansas Branch - 2025-11-05 - Payment - $14922.22
+Account 288942 - C1582 - Branch: Georgia Branch - 2025-11-07 - Refund - $4380.48
+Account 665034 - C1629 - Branch: New Hampshire Branch - 2024-06-03 - Transfer - $421.64
+Account 777705 - C708 - Branch: Hawaii Branch - 2025-02-23 - Deposit - $3276.13
+Account 162717 - C1258 - Branch: Mississippi Branch - 2024-03-06 - Payment - $518.59
+Account 667777 - C1384 - Branch: North Carolina Branch - 2025-01-01 - Online - $7830.65
+Account 845954 - C1588 - Branch: Michigan Branch - 2025-10-14 - ATM - $3287.35
+Account 488458 - C757 - Branch: Georgia Branch - 2024-12-15 - Deposit - $1728.99
+Account 801413 - C203 - Branch: Colorado Branch - 2025-01-09 - Card Purchase - $12895.68
+Account 538441 - C1726 - Branch: Rhode Island Branch - 2025-11-15 - Refund - $15664.93
+Account 427274 - C1344 - Branch: Pennsylvania Branch - 2024-08-30 - Payment - $5969.09
+Account 495857 - C321 - Branch: Florida Branch - 2024-08-29 - Card Purchase - $18128.4
+Account 140806 - C777 - Branch: Wisconsin Branch - 2024-12-04 - Online - $8672.95
+Account 800990 - C756 - Branch: New Jersey Branch - 2025-12-17 - Payment - $14636.09
+Account 257616 - C1864 - Branch: Oregon Branch - 2025-10-28 - Refund - $11148.82
+Account 158894 - C299 - Branch: Maryland Branch - 2024-12-16 - Refund - $746.43
+Account 219089 - C1238 - Branch: Alaska Branch - 2024-05-22 - Payment - $12652.86
+Account 224600 - C1641 - Branch: West Virginia Branch - 2025-11-28 - Online - $6017.38
+Account 672299 - C753 - Branch: North Carolina Branch - 2024-02-27 - Fee - $7055.51
+Account 303643 - C178 - Branch: Texas Branch - 2024-06-02 - POS - $15245.97
+Account 951351 - C466 - Branch: Vermont Branch - 2025-12-16 - Online - $10475.38
+Account 891844 - C1913 - Branch: Missouri Branch - 2024-04-09 - ATM - $1961.83
+Account 381750 - C405 - Branch: California Branch - 2024-06-13 - Refund - $15331.85
+Account 946956 - C454 - Branch: Massachusetts Branch - 2024-06-11 - Transfer - $16445.24
+Account 851995 - C939 - Branch: North Carolina Branch - 2025-12-01 - ATM - $6271.63
+Account 451296 - C1784 - Branch: Utah Branch - 2025-05-31 - Withdrawal - $11911.14
+Account 660782 - C1740 - Branch: New York Branch - 2025-02-11 - Card Purchase - $18038.64
+Account 516564 - C1670 - Branch: Missouri Branch - 2024-02-27 - Refund - $4483.96
+Account 222150 - C1662 - Branch: Texas Branch - 2025-07-24 - POS - $19258.43
+Account 614892 - C1656 - Branch: Rhode Island Branch - 2025-12-04 - POS - $15902.23
+Account 281090 - C1251 - Branch: Utah Branch - 2024-02-26 - Transfer - $2368.51
+Account 828024 - C1963 - Branch: Virginia Branch - 2025-04-03 - Online - $18335.02
+Account 199171 - C1605 - Branch: Georgia Branch - 2024-05-26 - Refund - $7207.25
+Account 986133 - C341 - Branch: New Jersey Branch - 2024-06-18 - Payment - $17349.12
+Account 611213 - C620 - Branch: Massachusetts Branch - 2024-02-02 - Fee - $6463.62
+Account 341582 - C628 - Branch: Florida Branch - 2025-03-31 - ATM - $17364.56
+Account 578076 - C208 - Branch: Massachusetts Branch - 2024-01-05 - Deposit - $8491.79
+Account 471965 - C532 - Branch: New Mexico Branch - 2025-01-04 - Card Purchase - $1336.16
+Account 471434 - C87 - Branch: Massachusetts Branch - 2025-06-28 - Deposit - $13313.86
+Account 298597 - C1459 - Branch: Tennessee Branch - 2025-12-17 - Fee - $13140.5
+Account 276929 - C1684 - Branch: New Hampshire Branch - 2024-09-20 - Withdrawal - $17222.04
+Account 969501 - C1803 - Branch: Alabama Branch - 2025-01-22 - Withdrawal - $19380.79
+Account 608797 - C366 - Branch: Nebraska Branch - 2024-12-23 - Withdrawal - $3044.76
+Account 809779 - C980 - Branch: Pennsylvania Branch - 2024-12-07 - Payment - $15267.25
+Account 242539 - C33 - Branch: South Carolina Branch - 2025-01-12 - Deposit - $18456.4
+Account 788617 - C1374 - Branch: Hawaii Branch - 2025-07-02 - POS - $11000.96
+Account 289346 - C1614 - Branch: Arizona Branch - 2025-07-16 - Payment - $8523.06
+Account 593451 - C1200 - Branch: Arizona Branch - 2025-07-26 - POS - $2619.34
+Account 556738 - C1173 - Branch: Iowa Branch - 2024-02-06 - Refund - $7705.93
+Account 184849 - C965 - Branch: New Hampshire Branch - 2025-08-11 - Refund - $10198.93
+Account 379911 - C770 - Branch: Rhode Island Branch - 2024-08-30 - Payment - $19318.42
+Account 863024 - C1358 - Branch: Indiana Branch - 2024-12-13 - Card Purchase - $8183.03
+Account 875380 - C1325 - Branch: West Virginia Branch - 2025-04-16 - ATM - $13506.19
+Account 971179 - C1851 - Branch: Tennessee Branch - 2024-12-26 - Card Purchase - $14222.54
+Account 185872 - C1789 - Branch: Idaho Branch - 2025-05-01 - Card Purchase - $-49.61
+Account 933983 - C1323 - Branch: Louisiana Branch - 2024-03-09 - POS - $496.35
+Account 283613 - C59 - Branch: Arkansas Branch - 2024-12-11 - Deposit - $248.4
+Account 167973 - C1337 - Branch: Arizona Branch - 2025-09-15 - Fee - $17287.14
+Account 147262 - C918 - Branch: Iowa Branch - 2025-09-17 - Payment - $9623.54
+Account 419968 - C424 - Branch: Illinois Branch - 2025-11-12 - Transfer - $19892.09
+Account 584871 - C829 - Branch: Iowa Branch - 2025-03-08 - Deposit - $15648.53
+Account 781852 - C1725 - Branch: Washington Branch - 2025-10-12 - Refund - $15759.12
+Account 315543 - C854 - Branch: California Branch - 2025-09-09 - ATM - $15294.34
+Account 526819 - C1012 - Branch: Louisiana Branch - 2024-10-21 - Withdrawal - $9975.95
+Account 104197 - C62 - Branch: Arkansas Branch - 2024-01-01 - Payment - $19594.16
+Account 119234 - C1293 - Branch: New York Branch - 2024-02-12 - Payment - $6572.57
+Account 247128 - C1078 - Branch: Illinois Branch - 2024-08-18 - POS - $17975.25
+Account 552024 - C233 - Branch: Delaware Branch - 2024-05-04 - POS - $3287.48
+Account 734696 - C1046 - Branch: Maryland Branch - 2025-03-07 - Card Purchase - $16364.27
+Account 274765 - C27 - Branch: Louisiana Branch - 2024-02-19 - Card Purchase - $11035.75
+Account 438924 - C1379 - Branch: Wyoming Branch - 2025-04-22 - ATM - $17225.25
+Account 623164 - C1523 - Branch: Minnesota Branch - 2025-01-01 - Transfer - $18572.84
+Account 613056 - C1215 - Branch: South Carolina Branch - 2025-08-03 - Refund - $4013.92
+Account 170890 - C619 - Branch: Mississippi Branch - 2025-09-11 - Refund - $7956.18
+Account 887386 - C393 - Branch: Mississippi Branch - 2025-04-16 - Deposit - $18318.21
+Account 655682 - C912 - Branch: South Dakota Branch - 2024-09-06 - Withdrawal - $13340.76
+Account 924080 - C492 - Branch: Delaware Branch - 2024-07-05 - Transfer - $566.38
+Account 164334 - C1170 - Branch: Ohio Branch - 2024-11-10 - Online - $9664.74
+Account 423047 - C1247 - Branch: Wyoming Branch - 2025-02-07 - Card Purchase - $4483.37
+Account 713541 - C1 - Branch: Hawaii Branch - 2024-12-03 - Payment - $18868.45
+Account 699463 - C48 - Branch: Maryland Branch - 2025-03-08 - Payment - $6478.11
+Account 274911 - C795 - Branch: Pennsylvania Branch - 2025-09-15 - Refund - $3947.11
+Account 784846 - C138 - Branch: Pennsylvania Branch - 2025-03-10 - Fee - $9190.78
+Account 307360 - C1667 - Branch: Colorado Branch - 2025-08-18 - Refund - $979.76
+Account 999138 - C356 - Branch: Delaware Branch - 2025-12-30 - POS - $12636.68
+Account 227363 - C1064 - Branch: Tennessee Branch - 2024-03-20 - Withdrawal - $7652.54
+Account 579631 - C914 - Branch: Michigan Branch - 2025-01-04 - ATM - $1169.67
+Account 197881 - C1283 - Branch: South Dakota Branch - 2025-06-21 - Fee - $4250.74
+Account 937503 - C1008 - Branch: North Dakota Branch - 2024-07-15 - Transfer - $5099.43
+Account 221677 - C1279 - Branch: Washington Branch - 2024-02-24 - Online - $3209.59
+Account 109171 - C272 - Branch: New Jersey Branch - 2025-02-23 - POS - $18384.72
+Account 220776 - C1165 - Branch: Arkansas Branch - 2025-10-06 - Refund - $19085.67
+Account 373754 - C1201 - Branch: South Carolina Branch - 2024-01-15 - Online - $3335.36
+Account 208489 - C10 - Branch: Illinois Branch - 2025-06-29 - Payment - $-431.17
+Account 761321 - C1061 - Branch: Alaska Branch - 2024-03-22 - Withdrawal - $-415.44
+Account 360648 - C1791 - Branch: Colorado Branch - 2025-09-22 - Online - $818.87
+Account 258521 - C1351 - Branch: Mississippi Branch - 2024-03-26 - Deposit - $12597.98
+Account 382898 - C600 - Branch: Kansas Branch - 2024-03-18 - Withdrawal - $16264.58
+Account 784846 - C138 - Branch: Arkansas Branch - 2024-06-26 - Payment - $2009.59
+Account 686662 - C236 - Branch: Idaho Branch - 2024-02-01 - Withdrawal - $1944.22
+Account 723222 - C1241 - Branch: South Carolina Branch - 2025-10-10 - Deposit - $5443.47
+Account 834620 - C1997 - Branch: California Branch - 2025-10-29 - Online - $4251.64
+Account 765221 - C1434 - Branch: Maryland Branch - 2024-04-10 - Online - $17457.87
+Account 660862 - C1169 - Branch: Arkansas Branch - 2025-06-23 - Online - $-442.72
+Account 161252 - C953 - Branch: Oregon Branch - 2025-05-02 - Deposit - $8965.62
+Account 765221 - C1434 - Branch: Nebraska Branch - 2024-10-24 - POS - $16470.31
+Account 111761 - C1042 - Branch: Florida Branch - 2025-02-20 - Fee - $12709.26
+Account 814857 - C891 - Branch: Connecticut Branch - 2024-05-27 - POS - $18512.79
+Account 518608 - C1154 - Branch: Illinois Branch - 2024-06-25 - Transfer - $7928.33
+Account 303961 - C640 - Branch: Wyoming Branch - 2024-04-24 - Deposit - $1575.26
+Account 822439 - C518 - Branch: Oklahoma Branch - 2025-07-26 - Deposit - $14518.97
+Account 861756 - C1865 - Branch: Nebraska Branch - 2024-12-10 - Card Purchase - $13906.57
+Account 531411 - C1453 - Branch: Tennessee Branch - 2024-05-31 - Online - $10680.42
+Account 418703 - C1782 - Branch: Alaska Branch - 2025-04-01 - Refund - $18088.3
+Account 714726 - C1510 - Branch: Kentucky Branch - 2025-12-11 - Withdrawal - $18169.99
+Account 605190 - C98 - Branch: Mississippi Branch - 2024-08-05 - Fee - $15740.96
+Account 133714 - C824 - Branch: Ohio Branch - 2024-02-18 - ATM - $18505.19
+Account 595816 - C742 - Branch: Delaware Branch - 2024-10-23 - POS - $14466.31
+Account 526374 - C994 - Branch: Oregon Branch - 2024-09-30 - Payment - $14895.29
+Account 846564 - C730 - Branch: Massachusetts Branch - 2025-08-12 - Withdrawal - $5395.83
+Account 957063 - C311 - Branch: Georgia Branch - 2024-04-11 - Withdrawal - $19793.85
+Account 466169 - C1493 - Branch: Washington Branch - 2024-02-06 - Deposit - $1669.56
+Account 343868 - C1950 - Branch: New Mexico Branch - 2024-09-13 - Card Purchase - $11344.51
+Account 288647 - C225 - Branch: Oregon Branch - 2025-06-25 - Payment - $5265.32
+Account 730087 - C1212 - Branch: New Mexico Branch - 2024-09-11 - Transfer - $14297.87
+Account 775098 - C893 - Branch: Ohio Branch - 2024-08-13 - ATM - $3840.05
+Account 958810 - C513 - Branch: South Carolina Branch - 2024-08-01 - ATM - $11939.86
+Account 848346 - C414 - Branch: California Branch - 2025-06-21 - Online - $1730.87
+Account 571074 - C1505 - Branch: Mississippi Branch - 2024-08-05 - Withdrawal - $2352.48
+Account 645556 - C962 - Branch: Wisconsin Branch - 2024-04-01 - Online - $18804.55
+Account 818892 - C930 - Branch: Wisconsin Branch - 2024-08-23 - Fee - $14318.88
+Account 661953 - C221 - Branch: Minnesota Branch - 2025-03-11 - POS - $9430.5
+Account 820571 - C1585 - Branch: New York Branch - 2024-02-22 - Card Purchase - $5443.13
+Account 318956 - C1738 - Branch: Minnesota Branch - 2024-01-13 - Withdrawal - $6013.19
+Account 690002 - C365 - Branch: New York Branch - 2024-05-01 - POS - $12472.25
+Account 912596 - C2 - Branch: Delaware Branch - 2025-05-10 - Transfer - $819.13
+Account 201746 - C991 - Branch: Nebraska Branch - 2025-11-04 - POS - $10269.02
+Account 766488 - C349 - Branch: Arizona Branch - 2025-11-25 - POS - $8113.81
+Account 673360 - C179 - Branch: Florida Branch - 2025-12-03 - Refund - $2117.85
+Account 240899 - C309 - Branch: Nebraska Branch - 2025-01-09 - Deposit - $8080.14
+Account 358679 - C1015 - Branch: Oklahoma Branch - 2024-11-27 - POS - $18754.11
+Account 953754 - C1249 - Branch: Arizona Branch - 2025-01-11 - Online - $17161.4
+Account 183542 - C1825 - Branch: Arkansas Branch - 2025-09-14 - ATM - $5517.42
+Account 995418 - C364 - Branch: Maine Branch - 2025-12-26 - POS - $16263.31
+Account 156638 - C1482 - Branch: Washington Branch - 2025-06-16 - POS - $6081.8
+Account 402903 - C624 - Branch: New Jersey Branch - 2024-04-30 - ATM - $15064.86
+Account 197709 - C1961 - Branch: Wisconsin Branch - 2025-05-02 - Deposit - $-425.6
+Account 302222 - C84 - Branch: Alabama Branch - 2024-02-18 - Online - $11122.75
+Account 917090 - C1378 - Branch: Colorado Branch - 2025-11-28 - Fee - $14732.82
+Account 712088 - C1105 - Branch: Missouri Branch - 2025-09-26 - Fee - $14561.78
+Account 848066 - C1621 - Branch: Iowa Branch - 2025-11-05 - Fee - $11996.76
+Account 274911 - C795 - Branch: Arkansas Branch - 2024-03-26 - Fee - $13524.52
+Account 239263 - C1697 - Branch: Nebraska Branch - 2025-06-15 - Fee - $13408.6
+Account 381723 - C156 - Branch: Georgia Branch - 2025-09-19 - Transfer - $2201.72
+Account 299165 - C562 - Branch: Vermont Branch - 2024-05-20 - Online - $13590.01
+Account 232785 - C313 - Branch: Colorado Branch - 2025-10-05 - Refund - $13899.94
+Account 187127 - C1095 - Branch: Minnesota Branch - 2024-12-22 - Deposit - $11131.23
+Account 343809 - C116 - Branch: New Hampshire Branch - 2025-07-29 - Withdrawal - $11366.83
+Account 612045 - C744 - Branch: North Dakota Branch - 2024-04-14 - Withdrawal - $17193.34
+Account 552691 - C291 - Branch: Oregon Branch - 2024-02-19 - Deposit - $3563.47
+Account 646822 - C205 - Branch: Kansas Branch - 2025-08-15 - Refund - $4312.83
+Account 956257 - C1420 - Branch: Mississippi Branch - 2025-04-02 - Transfer - $8892.33
+Account 601171 - C1541 - Branch: New Hampshire Branch - 2024-10-09 - Payment - $2753.25
+Account 663758 - C1167 - Branch: New Mexico Branch - 2024-10-07 - Transfer - $8092.43
+Account 988121 - C1866 - Branch: Oregon Branch - 2025-01-31 - ATM - $3512.68
+Account 219970 - C838 - Branch: Louisiana Branch - 2025-03-01 - Transfer - $11238.08
+Account 727258 - C746 - Branch: Kentucky Branch - 2025-02-02 - Deposit - $17554.92
+Account 356832 - C1710 - Branch: Michigan Branch - 2025-06-27 - POS - $1040.1
+Account 440804 - C1731 - Branch: Maine Branch - 2025-10-19 - POS - $16763.32
+Account 727339 - C526 - Branch: Indiana Branch - 2024-11-06 - Transfer - $14845.53
+Account 433547 - C3 - Branch: New Jersey Branch - 2024-12-22 - Card Purchase - $8774.82
+Account 218323 - C1140 - Branch: Florida Branch - 2024-09-11 - Online - $4464.54
+Account 630034 - C1610 - Branch: Louisiana Branch - 2024-05-14 - Refund - $258.23
+Account 277558 - C1548 - Branch: Iowa Branch - 2024-04-27 - Transfer - $16495.44
+Account 994555 - C295 - Branch: North Dakota Branch - 2024-05-02 - Deposit - $19908.56
+Account 150693 - C662 - Branch: New Jersey Branch - 2024-04-07 - Withdrawal - $13361.66
+Account 971179 - C1851 - Branch: Massachusetts Branch - 2024-07-08 - Card Purchase - $12909.48
+Account 548359 - C1700 - Branch: Arkansas Branch - 2024-03-14 - ATM - $11391.83
+Account 541837 - C869 - Branch: South Carolina Branch - 2024-11-01 - Fee - $7848.57
+Account 395430 - C445 - Branch: Mississippi Branch - 2024-09-18 - Online - $3171.9
+Account 625400 - C432 - Branch: Rhode Island Branch - 2025-08-26 - Withdrawal - $3985.06
+Account 276363 - C1369 - Branch: New Mexico Branch - 2025-10-28 - Fee - $2571.57
+Account 851144 - C1084 - Branch: Minnesota Branch - 2025-07-06 - Withdrawal - $18001.26
+Account 416412 - C1906 - Branch: Oklahoma Branch - 2025-01-19 - ATM - $6203.99
+Account 801337 - C246 - Branch: California Branch - 2024-08-19 - Refund - $15075.82
+Account 468789 - C1898 - Branch: Tennessee Branch - 2024-07-16 - Deposit - $8711.06
+Account 116827 - C588 - Branch: Vermont Branch - 2024-06-19 - Fee - $13723.8
+Account 552655 - C806 - Branch: Mississippi Branch - 2024-09-14 - Withdrawal - $17340.77
+Account 655682 - C912 - Branch: Arizona Branch - 2025-10-03 - Fee - $17401.58
+Account 469620 - C817 - Branch: Kentucky Branch - 2024-09-07 - Online - $-104.74
+Account 341884 - C469 - Branch: Rhode Island Branch - 2024-01-14 - POS - $14580.31
+Account 930447 - C14 - Branch: Missouri Branch - 2024-04-06 - Withdrawal - $2986.22
+Account 323724 - C691 - Branch: Nevada Branch - 2025-06-26 - Transfer - $3200.27
+Account 147406 - C1390 - Branch: Wyoming Branch - 2025-01-01 - Fee - $9167.85
+Account 623922 - C1863 - Branch: Colorado Branch - 2024-05-12 - ATM - $16786.33
+Account 269577 - C851 - Branch: Alabama Branch - 2025-07-10 - ATM - $12375.06
+Account 326544 - C1370 - Branch: Michigan Branch - 2025-12-24 - Card Purchase - $6722.98
+Account 831302 - C421 - Branch: Michigan Branch - 2024-02-23 - Withdrawal - $19989.61
+Account 107408 - C1851 - Branch: Kentucky Branch - 2024-09-08 - ATM - $18316.84
+Account 686662 - C236 - Branch: New Mexico Branch - 2024-12-26 - Payment - $18469.01
+Account 119389 - C1831 - Branch: Vermont Branch - 2024-06-28 - Card Purchase - $14757.51
+Account 748116 - C304 - Branch: Arkansas Branch - 2025-10-08 - ATM - $8268.51
+Account 149900 - C810 - Branch: Mississippi Branch - 2025-09-01 - Online - $9143.0
+Account 410949 - C263 - Branch: Missouri Branch - 2024-05-12 - Fee - $15034.35
+Account 928507 - C261 - Branch: Texas Branch - 2024-06-04 - Fee - $2889.96
+Account 313770 - C1029 - Branch: Kentucky Branch - 2024-09-03 - Card Purchase - $12580.59
+Account 224600 - C1641 - Branch: Vermont Branch - 2024-02-04 - Online - $1841.96
+Account 167973 - C1337 - Branch: Alaska Branch - 2025-12-23 - Deposit - $2737.01
+Account 847013 - C1159 - Branch: New Hampshire Branch - 2024-11-28 - Transfer - $10448.55
+Account 317296 - C20 - Branch: Ohio Branch - 2024-06-28 - ATM - $10032.24
+Account 677124 - C1834 - Branch: Ohio Branch - 2024-04-03 - Online - $6813.67
+Account 815805 - C1696 - Branch: Minnesota Branch - 2025-10-29 - Card Purchase - $10106.03
+Account 321537 - C283 - Branch: Georgia Branch - 2024-07-18 - Payment - $4659.81
+Account 416167 - C76 - Branch: Florida Branch - 2025-09-06 - Withdrawal - $12993.51
+Account 243790 - C1986 - Branch: Arizona Branch - 2024-06-17 - Withdrawal - $17424.72
+Account 697702 - C1635 - Branch: Louisiana Branch - 2025-07-01 - Card Purchase - $2233.16
+Account 298448 - C104 - Branch: Louisiana Branch - 2024-05-20 - ATM - $5394.47
+Account 118621 - C1104 - Branch: Oklahoma Branch - 2024-09-07 - Payment - $12431.81
+Account 276192 - C1235 - Branch: Mississippi Branch - 2025-09-27 - POS - $8502.01
+Account 382399 - C1371 - Branch: Massachusetts Branch - 2024-05-23 - Withdrawal - $15162.87
+Account 459179 - C33 - Branch: Vermont Branch - 2024-06-15 - Payment - $9800.72
+Account 272628 - C887 - Branch: Montana Branch - 2025-07-18 - ATM - $14655.85
+Account 385804 - C1406 - Branch: Oklahoma Branch - 2025-07-13 - Refund - $9374.84
+Account 304714 - C1604 - Branch: Massachusetts Branch - 2025-08-02 - Withdrawal - $16629.67
+Account 155076 - C1814 - Branch: Colorado Branch - 2024-04-27 - Transfer - $12268.76
+Account 911646 - C1984 - Branch: Illinois Branch - 2025-11-28 - Deposit - $4077.07
+Account 478286 - C195 - Branch: Arkansas Branch - 2024-10-08 - Transfer - $4799.53
+Account 202715 - C1960 - Branch: Maine Branch - 2025-06-13 - Online - $14327.37
+Account 539751 - C1622 - Branch: Oregon Branch - 2025-03-17 - Payment - $4215.23
+Account 964793 - C1976 - Branch: Mississippi Branch - 2025-05-10 - Fee - $12906.43
+Account 957420 - C663 - Branch: Maine Branch - 2025-12-24 - Online - $15387.99
+Account 315125 - C1560 - Branch: Georgia Branch - 2025-04-23 - Refund - $6397.91
+Account 798620 - C877 - Branch: Mississippi Branch - 2025-11-26 - Refund - $6180.44
+Account 316912 - C1203 - Branch: Iowa Branch - 2025-09-11 - Fee - $18555.37
+Account 672312 - C1857 - Branch: Louisiana Branch - 2025-02-05 - POS - $15680.88
+Account 258618 - C1444 - Branch: Pennsylvania Branch - 2024-12-10 - ATM - $19837.23
+Account 139161 - C912 - Branch: Mississippi Branch - 2025-04-16 - Deposit - $18685.98
+Account 207542 - C1944 - Branch: Wisconsin Branch - 2025-03-23 - Transfer - $17494.24
+Account 563306 - C871 - Branch: Idaho Branch - 2025-03-07 - Transfer - $13968.21
+Account 184898 - C549 - Branch: Texas Branch - 2025-02-10 - POS - $13199.85
+Account 643047 - C1191 - Branch: South Dakota Branch - 2024-01-22 - Payment - $1983.82
+Account 584742 - C592 - Branch: Ohio Branch - 2024-05-06 - POS - $8010.66
+Account 168991 - C187 - Branch: Hawaii Branch - 2024-04-14 - Withdrawal - $5308.12
+Account 108967 - C111 - Branch: Tennessee Branch - 2025-03-01 - Card Purchase - $4657.12
+Account 421566 - C350 - Branch: California Branch - 2025-11-02 - Fee - $8281.3
+Account 209491 - C870 - Branch: Oklahoma Branch - 2025-12-01 - ATM - $13792.27
+Account 786477 - C981 - Branch: Arkansas Branch - 2024-04-07 - Card Purchase - $9612.34
+Account 444721 - C890 - Branch: Arizona Branch - 2024-12-28 - Transfer - $7099.75
+Account 868851 - C963 - Branch: Washington Branch - 2024-03-09 - ATM - $12051.06
+Account 337070 - C236 - Branch: Indiana Branch - 2024-03-27 - Payment - $7082.11
+Account 955613 - C1637 - Branch: Delaware Branch - 2025-05-24 - ATM - $12873.08
+Account 164334 - C1170 - Branch: Georgia Branch - 2024-08-19 - Fee - $10888.31
+Account 269817 - C785 - Branch: Georgia Branch - 2025-06-28 - Payment - $18646.11
+Account 888483 - C930 - Branch: Minnesota Branch - 2025-07-25 - Fee - $14775.75
+Account 374787 - C204 - Branch: Nevada Branch - 2025-06-01 - Withdrawal - $9265.83
+Account 951332 - C1295 - Branch: Oregon Branch - 2025-06-21 - Deposit - $12164.02
+Account 461899 - C831 - Branch: Virginia Branch - 2024-01-09 - POS - $9279.13
+Account 192713 - C736 - Branch: Virginia Branch - 2024-06-21 - Transfer - $17104.97
+Account 899282 - C1770 - Branch: Nebraska Branch - 2025-05-10 - Online - $19430.24
+Account 600598 - C66 - Branch: Iowa Branch - 2024-04-26 - ATM - $18873.29
+Account 810359 - C1673 - Branch: Oklahoma Branch - 2025-11-01 - Fee - $12130.58
+Account 274911 - C795 - Branch: Maryland Branch - 2024-07-10 - Transfer - $6713.93
+Account 107686 - C235 - Branch: Alaska Branch - 2025-01-07 - Online - $3409.52
+Account 482671 - C480 - Branch: Wyoming Branch - 2024-04-28 - Card Purchase - $17195.06
+Account 612558 - C941 - Branch: Maine Branch - 2024-02-18 - ATM - $5868.41
+Account 661953 - C221 - Branch: Kentucky Branch - 2025-01-24 - Card Purchase - $-262.0
+Account 568917 - C113 - Branch: Iowa Branch - 2025-03-17 - POS - $8413.48
+Account 816913 - C895 - Branch: Vermont Branch - 2025-03-06 - Refund - $4541.35
+Account 949517 - C1334 - Branch: New Hampshire Branch - 2024-03-15 - Withdrawal - $13987.86
+Account 457216 - C1500 - Branch: Hawaii Branch - 2025-08-31 - Withdrawal - $3630.34
+Account 812379 - C457 - Branch: Mississippi Branch - 2024-01-05 - Withdrawal - $2738.32
+Account 842967 - C1362 - Branch: Maine Branch - 2025-10-04 - Card Purchase - $4656.62
+Account 540524 - C301 - Branch: Massachusetts Branch - 2025-06-13 - Online - $18646.44
+Account 516564 - C1670 - Branch: Kentucky Branch - 2024-01-23 - Transfer - $522.83
+Account 833886 - C296 - Branch: Alabama Branch - 2025-07-30 - POS - $-155.49
+Account 516620 - C362 - Branch: Tennessee Branch - 2025-03-06 - Withdrawal - $11614.84
+Account 788401 - C1101 - Branch: Delaware Branch - 2024-05-14 - Online - $-406.69
+Account 723439 - C60 - Branch: Idaho Branch - 2025-01-02 - Online - $3794.93
+Account 320944 - C161 - Branch: Virginia Branch - 2025-10-14 - Payment - $19121.47
+Account 836582 - C583 - Branch: North Dakota Branch - 2024-06-14 - Refund - $11550.18
+Account 242593 - C1219 - Branch: Michigan Branch - 2024-11-02 - Fee - $18142.06
+Account 836582 - C583 - Branch: Georgia Branch - 2024-10-16 - Online - $14453.84
+Account 487984 - C260 - Branch: Ohio Branch - 2025-06-09 - Payment - $7824.74
+Account 777190 - C894 - Branch: Idaho Branch - 2025-10-03 - Fee - $4017.13
+Account 792093 - C682 - Branch: Oregon Branch - 2025-12-17 - Fee - $13183.83
+Account 576966 - C858 - Branch: Nevada Branch - 2024-11-26 - POS - $12302.39
+Account 177989 - C1776 - Branch: Louisiana Branch - 2025-08-24 - Fee - $1057.29
+Account 249847 - C102 - Branch: New Mexico Branch - 2024-01-10 - POS - $7469.0
+Account 411887 - C143 - Branch: Illinois Branch - 2025-11-20 - Payment - $15426.5
+Account 595017 - C1844 - Branch: New York Branch - 2024-05-19 - Payment - $332.43
+Account 912874 - C905 - Branch: Arizona Branch - 2025-07-11 - Refund - $15926.51
+Account 219124 - C1788 - Branch: Florida Branch - 2025-04-15 - Fee - $16551.08
+Account 992891 - C1214 - Branch: Kentucky Branch - 2024-09-27 - Card Purchase - $-84.84
+Account 367523 - C1807 - Branch: Vermont Branch - 2024-12-16 - Card Purchase - $8561.41
+Account 364589 - C1752 - Branch: Washington Branch - 2025-03-28 - Card Purchase - $12870.02
+Account 605258 - C1628 - Branch: Hawaii Branch - 2024-04-16 - Payment - $10109.91
+Account 991440 - C1827 - Branch: Louisiana Branch - 2024-10-17 - Deposit - $6516.46
+Account 902452 - C1951 - Branch: South Dakota Branch - 2025-09-25 - Refund - $12355.65
+Account 296451 - C240 - Branch: Tennessee Branch - 2024-06-25 - Card Purchase - $11957.06
+Account 790216 - C1593 - Branch: Kentucky Branch - 2025-04-19 - Withdrawal - $17235.68
+Account 665283 - C955 - Branch: Maryland Branch - 2024-04-28 - ATM - $17076.9
+Account 271464 - C1307 - Branch: Texas Branch - 2025-07-08 - Transfer - $18651.38
+Account 696517 - C721 - Branch: Hawaii Branch - 2025-12-22 - Payment - $13866.13
+Account 913911 - C328 - Branch: Montana Branch - 2024-12-09 - ATM - $16201.22
+Account 454441 - C1586 - Branch: Maine Branch - 2024-11-24 - Withdrawal - $320.4
+Account 481465 - C1666 - Branch: Delaware Branch - 2025-04-01 - POS - $11246.29
+Account 329245 - C1550 - Branch: California Branch - 2025-10-11 - Transfer - $10035.94
+Account 692561 - C1130 - Branch: Wyoming Branch - 2025-11-28 - Online - $6273.46
+Account 625679 - C552 - Branch: New York Branch - 2024-10-25 - POS - $5073.08
+Account 711498 - C1558 - Branch: Maine Branch - 2025-01-06 - Card Purchase - $17716.27
+Account 578575 - C658 - Branch: Washington Branch - 2025-06-14 - Payment - $11133.94
+Account 612045 - C744 - Branch: Virginia Branch - 2025-07-05 - Refund - $7328.16
+Account 798116 - C1743 - Branch: Utah Branch - 2024-11-29 - Refund - $15660.06
+Account 940939 - C758 - Branch: Georgia Branch - 2024-08-19 - Card Purchase - $9763.76
+Account 413884 - C974 - Branch: Maine Branch - 2024-01-17 - Refund - $15271.64
+Account 951332 - C1295 - Branch: Arkansas Branch - 2024-05-01 - Deposit - $947.65
+Account 976869 - C1929 - Branch: Kentucky Branch - 2024-04-14 - Deposit - $14364.16
+Account 429051 - C264 - Branch: Hawaii Branch - 2024-05-16 - ATM - $364.59
+Account 505883 - C1528 - Branch: Florida Branch - 2025-02-05 - Refund - $8255.21
+Account 813567 - C97 - Branch: South Carolina Branch - 2025-03-28 - Refund - $5611.6
+Account 454756 - C381 - Branch: Minnesota Branch - 2024-09-03 - Transfer - $7582.49
+Account 161971 - C1360 - Branch: Oregon Branch - 2025-01-10 - Fee - $10061.28
+Account 480698 - C1461 - Branch: Hawaii Branch - 2025-11-01 - POS - $17917.54
+Account 970863 - C840 - Branch: Texas Branch - 2024-08-14 - Fee - $5855.09
+Account 757337 - C1717 - Branch: Wyoming Branch - 2024-08-24 - ATM - $5145.76
+Account 191718 - C1427 - Branch: Georgia Branch - 2025-10-27 - Payment - $11809.93
+Account 155039 - C1729 - Branch: West Virginia Branch - 2024-05-04 - Transfer - $19349.76
+Account 125379 - C1820 - Branch: North Dakota Branch - 2025-04-06 - Transfer - $12222.97
+Account 954455 - C1810 - Branch: California Branch - 2025-10-10 - Withdrawal - $19471.0
+Account 140291 - C1113 - Branch: California Branch - 2025-01-24 - Deposit - $3407.68
+Account 907813 - C1135 - Branch: Alaska Branch - 2024-12-29 - POS - $9325.74
+Account 383270 - C799 - Branch: South Carolina Branch - 2024-02-10 - Transfer - $9790.44
+Account 960575 - C1205 - Branch: Louisiana Branch - 2024-05-21 - POS - $4879.33
+Account 850157 - C1370 - Branch: New York Branch - 2025-09-10 - ATM - $10091.06
+Account 590754 - C1174 - Branch: Nevada Branch - 2024-07-24 - Deposit - $393.45
+Account 343868 - C1950 - Branch: Minnesota Branch - 2025-09-26 - POS - $8853.16
+Account 798986 - C745 - Branch: Michigan Branch - 2024-05-31 - Refund - $16185.14
+Account 803377 - C916 - Branch: Louisiana Branch - 2025-09-11 - ATM - $4526.55
+Account 416167 - C76 - Branch: Indiana Branch - 2025-07-14 - Payment - $10165.5
+Account 218706 - C1876 - Branch: North Carolina Branch - 2025-09-12 - Payment - $19136.34
+Account 962806 - C1590 - Branch: Mississippi Branch - 2024-04-27 - Refund - $350.99
+Account 255748 - C1315 - Branch: Massachusetts Branch - 2024-07-23 - Deposit - $14704.5
+Account 345588 - C780 - Branch: Hawaii Branch - 2024-05-28 - Payment - $18892.12
+Account 584871 - C829 - Branch: Utah Branch - 2024-10-07 - Card Purchase - $7828.04
+Account 436485 - C446 - Branch: Indiana Branch - 2024-07-05 - POS - $18771.25
+Account 353273 - C420 - Branch: Tennessee Branch - 2025-03-01 - Refund - $1718.75
+Account 766211 - C738 - Branch: Hawaii Branch - 2025-06-07 - Online - $8376.0
+Account 929208 - C1450 - Branch: Delaware Branch - 2024-07-27 - Fee - $17824.27
+Account 504566 - C1223 - Branch: Rhode Island Branch - 2024-02-26 - Online - $-84.47
+Account 629041 - C494 - Branch: South Dakota Branch - 2024-08-14 - Transfer - $3144.05
+Account 590287 - C1557 - Branch: Ohio Branch - 2025-03-07 - Transfer - $13179.83
+Account 496000 - C242 - Branch: Wyoming Branch - 2024-11-07 - ATM - $2574.01
+Account 150693 - C662 - Branch: Hawaii Branch - 2025-12-01 - Deposit - $19439.37
+Account 778058 - C128 - Branch: New York Branch - 2025-09-07 - POS - $14873.91
+Account 892059 - C1107 - Branch: New Jersey Branch - 2025-02-26 - Transfer - $16458.39
+Account 767103 - C1575 - Branch: New Jersey Branch - 2024-06-20 - Refund - $18302.61
+Account 624572 - C642 - Branch: New Hampshire Branch - 2025-04-13 - Card Purchase - $8563.38
+Account 478429 - C1450 - Branch: Arkansas Branch - 2024-11-23 - POS - $10845.54
+Account 985167 - C1663 - Branch: Illinois Branch - 2025-06-23 - Transfer - $3688.8
+Account 992892 - C1925 - Branch: New Jersey Branch - 2024-07-15 - ATM - $19083.64
+Account 530305 - C538 - Branch: Connecticut Branch - 2024-02-26 - Refund - $776.52
+Account 161971 - C1360 - Branch: Indiana Branch - 2025-04-26 - Card Purchase - $3236.03
+Account 903290 - C1353 - Branch: Ohio Branch - 2025-01-03 - Withdrawal - $349.9
+Account 651722 - C297 - Branch: Mississippi Branch - 2025-02-09 - Transfer - $4008.47
+Account 645383 - C419 - Branch: Tennessee Branch - 2025-06-05 - Payment - $3934.35
+Account 725523 - C358 - Branch: Oregon Branch - 2025-01-19 - Deposit - $15054.9
+Account 375357 - C108 - Branch: Alabama Branch - 2024-11-01 - Deposit - $17696.99
+Account 829301 - C459 - Branch: North Carolina Branch - 2024-07-27 - Deposit - $6803.72
+Account 145347 - C1175 - Branch: Michigan Branch - 2025-06-25 - Transfer - $8290.01
+Account 779037 - C449 - Branch: Wyoming Branch - 2024-09-12 - ATM - $2925.76
+Account 477768 - C234 - Branch: Montana Branch - 2025-10-01 - Online - $4309.5
+Account 179357 - C96 - Branch: South Dakota Branch - 2025-05-26 - POS - $3611.85
+Account 261732 - C1989 - Branch: Illinois Branch - 2024-09-20 - Withdrawal - $17581.43
+Account 617581 - C1639 - Branch: Utah Branch - 2025-11-24 - Payment - $3712.0
+Account 982558 - C368 - Branch: Illinois Branch - 2025-07-23 - Withdrawal - $17192.93
+Account 371878 - C1145 - Branch: Georgia Branch - 2024-03-03 - Deposit - $11613.58
+Account 353920 - C490 - Branch: Illinois Branch - 2025-06-22 - POS - $19921.85
+Account 623164 - C1523 - Branch: California Branch - 2025-04-04 - Deposit - $14303.47
+Account 199171 - C1605 - Branch: Illinois Branch - 2024-11-24 - Payment - $6535.06
+Account 569125 - C679 - Branch: Arizona Branch - 2024-09-03 - Refund - $14487.56
+Account 326519 - C1518 - Branch: Hawaii Branch - 2025-03-29 - POS - $4028.45
+Account 692159 - C1587 - Branch: Alabama Branch - 2024-03-06 - Deposit - $12312.83
+Account 224600 - C1641 - Branch: West Virginia Branch - 2025-10-15 - Online - $7728.8
+Account 282150 - C1932 - Branch: Georgia Branch - 2024-07-30 - POS - $6443.71
+Account 797239 - C1969 - Branch: Washington Branch - 2025-12-16 - Refund - $18239.04
+Account 516564 - C1670 - Branch: Wyoming Branch - 2025-05-28 - POS - $19166.72
+Account 156955 - C1634 - Branch: Connecticut Branch - 2025-10-28 - Refund - $17402.12
+Account 305414 - C1426 - Branch: Kentucky Branch - 2024-04-12 - Payment - $9232.63
+Account 158052 - C324 - Branch: Mississippi Branch - 2025-08-10 - Transfer - $15432.66
+Account 247056 - C880 - Branch: Idaho Branch - 2025-02-19 - Refund - $4944.96
+Account 282150 - C1932 - Branch: Florida Branch - 2025-04-02 - Transfer - $16990.61
+Account 870459 - C654 - Branch: Alaska Branch - 2024-10-10 - Online - $14203.7
+Account 409085 - C1704 - Branch: Oregon Branch - 2024-06-02 - Payment - $2696.16
+Account 709282 - C616 - Branch: New Mexico Branch - 2024-11-23 - Withdrawal - $9808.83
+Account 722796 - C675 - Branch: Florida Branch - 2025-08-16 - Fee - $-302.69
+Account 230495 - C783 - Branch: Massachusetts Branch - 2024-12-06 - Fee - $3088.44
+Account 653972 - C1614 - Branch: Utah Branch - 2025-11-24 - Withdrawal - $3388.49
+Account 610831 - C1102 - Branch: Ohio Branch - 2025-02-07 - Payment - $15630.94
+Account 727499 - C1938 - Branch: Pennsylvania Branch - 2024-01-04 - Fee - $14191.51
+Account 389235 - C886 - Branch: South Carolina Branch - 2025-12-22 - Fee - $11509.67
+Account 655562 - C919 - Branch: Louisiana Branch - 2025-08-14 - Withdrawal - $2924.99
+Account 790883 - C1311 - Branch: Arkansas Branch - 2024-02-15 - POS - $12134.78
+Account 662021 - C369 - Branch: Iowa Branch - 2025-12-31 - Withdrawal - $16117.62
+Account 366840 - C990 - Branch: New York Branch - 2025-04-01 - Deposit - $436.59
+Account 700445 - C1356 - Branch: Maine Branch - 2025-12-21 - Transfer - $13067.3
+Account 141604 - C1467 - Branch: Iowa Branch - 2024-12-11 - Online - $15228.48
+Account 782287 - C102 - Branch: Virginia Branch - 2024-10-12 - Withdrawal - $15936.78
+Account 832094 - C1361 - Branch: New Mexico Branch - 2025-07-23 - Fee - $6076.48
+Account 385804 - C1406 - Branch: New Jersey Branch - 2024-08-16 - ATM - $16137.66
+Account 215477 - C801 - Branch: Washington Branch - 2024-09-13 - Refund - $1487.06
+Account 624383 - C46 - Branch: Nevada Branch - 2025-09-04 - Withdrawal - $17503.4
+Account 194819 - C803 - Branch: New Hampshire Branch - 2025-12-08 - POS - $9422.19
+Account 170890 - C619 - Branch: Massachusetts Branch - 2024-11-28 - Card Purchase - $2006.21
+Account 995775 - C1479 - Branch: Wisconsin Branch - 2025-03-25 - Card Purchase - $17849.32
+Account 648823 - C1484 - Branch: Kentucky Branch - 2025-07-03 - Transfer - $-334.4
+Account 147737 - C49 - Branch: Kansas Branch - 2024-09-27 - Card Purchase - $13783.93
+Account 723439 - C60 - Branch: New York Branch - 2025-09-11 - Withdrawal - $12004.66
+Account 795899 - C1655 - Branch: Georgia Branch - 2024-10-27 - Transfer - $2670.85
+Account 692538 - C1532 - Branch: Utah Branch - 2024-08-15 - ATM - $12924.86
+Account 478535 - C1148 - Branch: Connecticut Branch - 2024-05-13 - Payment - $11329.52
+Account 538540 - C964 - Branch: Texas Branch - 2025-07-18 - ATM - $7764.9
+Account 722181 - C1055 - Branch: Alabama Branch - 2025-07-25 - Refund - $12668.84
+Account 170949 - C792 - Branch: Oklahoma Branch - 2024-10-20 - Withdrawal - $531.62
+Account 565172 - C373 - Branch: Alabama Branch - 2025-02-08 - Payment - $10933.58
+Account 847990 - C1427 - Branch: Connecticut Branch - 2024-07-25 - ATM - $7529.81
+Account 199643 - C638 - Branch: Ohio Branch - 2025-03-03 - Payment - $6892.77
+Account 461899 - C831 - Branch: South Dakota Branch - 2024-03-08 - Deposit - $841.66
+Account 593561 - C1291 - Branch: Oklahoma Branch - 2024-11-03 - POS - $9618.0
+Account 877465 - C1891 - Branch: Arizona Branch - 2024-11-28 - Refund - $5059.19
+Account 601886 - C323 - Branch: Texas Branch - 2025-08-18 - POS - $16724.07
+Account 826006 - C715 - Branch: Montana Branch - 2024-02-29 - Fee - $13086.38
+Account 406669 - C1577 - Branch: Arizona Branch - 2025-10-30 - Withdrawal - $18221.94
+Account 358300 - C812 - Branch: Connecticut Branch - 2025-08-14 - Card Purchase - $19780.34
+Account 660697 - C776 - Branch: Arkansas Branch - 2025-10-30 - POS - $3369.67
+Account 848261 - C344 - Branch: Iowa Branch - 2025-02-19 - Fee - $1099.8
+Account 967998 - C413 - Branch: Montana Branch - 2025-10-28 - ATM - $11229.33
+Account 506741 - C1766 - Branch: Nebraska Branch - 2025-04-03 - Deposit - $-302.44
+Account 623164 - C1523 - Branch: Wisconsin Branch - 2025-12-03 - ATM - $13645.34
+Account 246238 - C54 - Branch: Massachusetts Branch - 2025-07-30 - Deposit - $2902.1
+Account 380477 - C547 - Branch: Arkansas Branch - 2025-09-01 - Payment - $19564.98
+Account 221073 - C807 - Branch: Mississippi Branch - 2025-11-17 - ATM - $19991.1
+Account 898141 - C155 - Branch: South Carolina Branch - 2024-09-02 - Refund - $14703.49
+Account 370962 - C771 - Branch: California Branch - 2024-10-30 - Card Purchase - $16448.6
+Account 758156 - C1733 - Branch: Arizona Branch - 2024-02-16 - Fee - $19791.79
+Account 992058 - C690 - Branch: New Jersey Branch - 2025-03-31 - Withdrawal - $1668.59
+Account 304714 - C1604 - Branch: Maine Branch - 2024-09-25 - Card Purchase - $14045.69
+Account 222450 - C1119 - Branch: California Branch - 2025-07-30 - ATM - $3037.66
+Account 154661 - C313 - Branch: Ohio Branch - 2024-10-03 - Card Purchase - $3182.9
+Account 980510 - C41 - Branch: Massachusetts Branch - 2025-12-08 - Refund - $17260.13
+Account 820571 - C1585 - Branch: New York Branch - 2025-09-07 - Online - $15171.93
+Account 587069 - C1245 - Branch: Mississippi Branch - 2025-08-19 - Deposit - $17589.85
+Account 141743 - C641 - Branch: Georgia Branch - 2025-03-17 - Deposit - $1740.36
+Account 555062 - C1261 - Branch: Georgia Branch - 2025-10-08 - Transfer - $10657.88
+Account 723793 - C1523 - Branch: California Branch - 2025-12-28 - Online - $15123.85
+Account 621911 - C1396 - Branch: Tennessee Branch - 2025-02-06 - Deposit - $9960.78
+Account 665648 - C218 - Branch: Oregon Branch - 2025-12-26 - Transfer - $11033.1
+Account 765322 - C621 - Branch: Wyoming Branch - 2024-03-03 - Card Purchase - $17148.94
+Account 653972 - C1614 - Branch: Minnesota Branch - 2024-01-17 - Refund - $6750.72
+Account 831800 - C1812 - Branch: Kansas Branch - 2025-07-23 - Transfer - $15462.59
+Account 109988 - C932 - Branch: Mississippi Branch - 2025-03-30 - Payment - $12981.07
+Account 193416 - C312 - Branch: Colorado Branch - 2025-07-13 - Online - $11318.26
+Account 471197 - C294 - Branch: Massachusetts Branch - 2025-02-10 - Deposit - $12435.72
+Account 171686 - C692 - Branch: South Carolina Branch - 2025-02-15 - Deposit - $11281.98
+Account 722932 - C1302 - Branch: Maine Branch - 2025-09-01 - POS - $9080.79
+Account 516564 - C1670 - Branch: Maryland Branch - 2025-05-18 - Payment - $6281.02
+Account 215197 - C1568 - Branch: New Jersey Branch - 2024-09-20 - Online - $18670.84
+Account 250649 - C51 - Branch: Ohio Branch - 2025-03-24 - Online - $13627.78
+Account 262018 - C1742 - Branch: Missouri Branch - 2025-07-08 - Fee - $5501.77
+Account 586120 - C1597 - Branch: Georgia Branch - 2025-10-10 - Deposit - $11014.59
+Account 238083 - C486 - Branch: Kentucky Branch - 2025-05-20 - Withdrawal - $9262.13
+Account 785476 - C1421 - Branch: South Dakota Branch - 2025-10-22 - Withdrawal - $6098.29
+Account 723439 - C60 - Branch: Virginia Branch - 2025-10-06 - Withdrawal - $-199.33
+Account 380857 - C1673 - Branch: Ohio Branch - 2025-12-18 - Withdrawal - $16529.96
+Account 571687 - C506 - Branch: Illinois Branch - 2025-11-06 - Fee - $11359.41
+Account 673360 - C179 - Branch: Nevada Branch - 2025-05-31 - Refund - $18878.37
+Account 802194 - C1782 - Branch: Alaska Branch - 2024-12-11 - Transfer - $12446.63
+Account 462095 - C554 - Branch: Rhode Island Branch - 2024-05-13 - ATM - $14461.8
+Account 706994 - C852 - Branch: Pennsylvania Branch - 2025-01-16 - Fee - $1271.38
+Account 773483 - C194 - Branch: Oregon Branch - 2025-02-03 - ATM - $11289.21
+Account 836582 - C583 - Branch: Hawaii Branch - 2025-07-06 - Card Purchase - $4338.64
+Account 170283 - C960 - Branch: New Jersey Branch - 2025-01-02 - Online - $4194.55
+Account 323869 - C1231 - Branch: Colorado Branch - 2024-12-21 - Fee - $8715.86
+Account 464086 - C156 - Branch: New Hampshire Branch - 2024-04-30 - Card Purchase - $14069.12
+Account 374364 - C696 - Branch: Kansas Branch - 2024-08-04 - POS - $3085.25
+Account 120054 - C938 - Branch: Oregon Branch - 2024-06-04 - Deposit - $11416.84
+Account 653855 - C1009 - Branch: Minnesota Branch - 2025-05-03 - Fee - $7261.98
+Account 884051 - C1945 - Branch: Delaware Branch - 2025-01-23 - ATM - $17782.95
+Account 346478 - C1229 - Branch: West Virginia Branch - 2025-08-20 - Online - $2010.27
+Account 102411 - C1755 - Branch: West Virginia Branch - 2024-11-23 - Card Purchase - $9014.03
+Account 611213 - C620 - Branch: Illinois Branch - 2024-03-01 - ATM - $124.08
+Account 233299 - C1795 - Branch: Alabama Branch - 2024-08-20 - Card Purchase - $11955.38
+Account 601696 - C1980 - Branch: West Virginia Branch - 2024-02-22 - ATM - $15449.7
+Account 942479 - C142 - Branch: Georgia Branch - 2024-04-18 - Card Purchase - $1848.15
+Account 876537 - C755 - Branch: New Jersey Branch - 2025-10-01 - Deposit - $9598.21
+Account 967998 - C413 - Branch: Oregon Branch - 2024-05-28 - Withdrawal - $12970.53
+Account 242116 - C1618 - Branch: Arizona Branch - 2024-04-10 - Card Purchase - $989.56
+Account 680936 - C1965 - Branch: Virginia Branch - 2025-01-06 - Online - $282.35
+Account 180644 - C637 - Branch: Virginia Branch - 2024-10-29 - POS - $8480.95
+Account 505770 - C1588 - Branch: Mississippi Branch - 2024-12-09 - Refund - $2615.63
+Account 354966 - C593 - Branch: Kansas Branch - 2024-04-17 - Refund - $11464.5
+Account 829441 - C832 - Branch: Ohio Branch - 2024-06-24 - Online - $13890.87
+Account 245576 - C1457 - Branch: Alaska Branch - 2024-11-15 - Card Purchase - $17469.74
+Account 792815 - C430 - Branch: New Hampshire Branch - 2025-09-08 - Payment - $16011.97
+Account 814200 - C1536 - Branch: West Virginia Branch - 2025-01-06 - Card Purchase - $13268.49
+Account 608303 - C1848 - Branch: North Dakota Branch - 2024-08-05 - Fee - $16406.68
+Account 963618 - C712 - Branch: Ohio Branch - 2024-10-29 - Payment - $10697.86
+Account 328546 - C1025 - Branch: Delaware Branch - 2025-01-25 - Online - $18933.24
+Account 281433 - C1402 - Branch: New Jersey Branch - 2024-05-04 - Withdrawal - $13429.37
+Account 221677 - C1279 - Branch: Ohio Branch - 2025-07-08 - ATM - $6013.8
+Account 697316 - C1624 - Branch: Kentucky Branch - 2024-09-08 - ATM - $6112.56
+Account 784846 - C138 - Branch: Nebraska Branch - 2025-11-01 - POS - $7360.36
+Account 791227 - C1854 - Branch: Hawaii Branch - 2024-01-25 - Fee - $10469.21
+Account 548761 - C1970 - Branch: Arkansas Branch - 2024-09-30 - POS - $16913.12
+Account 967286 - C1120 - Branch: West Virginia Branch - 2025-02-16 - Card Purchase - $16665.75
+Account 489804 - C791 - Branch: Maine Branch - 2025-10-01 - Fee - $5173.49
+Account 100136 - C652 - Branch: Virginia Branch - 2025-03-21 - ATM - $3604.73
+Account 280040 - C1219 - Branch: New York Branch - 2024-10-30 - Transfer - $7803.34
+Account 597304 - C1049 - Branch: Indiana Branch - 2024-12-18 - ATM - $3972.54
+Account 980643 - C850 - Branch: Oregon Branch - 2024-01-31 - ATM - $3545.93
+Account 330259 - C61 - Branch: Arizona Branch - 2025-01-18 - Deposit - $9233.42
+Account 230290 - C1264 - Branch: Maryland Branch - 2024-12-11 - Refund - $7616.89
+Account 793552 - C1598 - Branch: Arizona Branch - 2025-10-09 - Payment - $711.72
+Account 722320 - C926 - Branch: Colorado Branch - 2025-01-18 - Online - $18735.65
+Account 954069 - C729 - Branch: Vermont Branch - 2025-08-28 - Online - $17922.85
+Account 781073 - C1175 - Branch: New York Branch - 2025-08-18 - POS - $12318.88
+Account 883118 - C273 - Branch: West Virginia Branch - 2024-12-09 - Transfer - $2471.05
+Account 566759 - C1344 - Branch: Hawaii Branch - 2024-03-02 - ATM - $8027.43
+Account 137546 - C1923 - Branch: Arkansas Branch - 2024-06-03 - Withdrawal - $719.45
+Account 938956 - C227 - Branch: Arkansas Branch - 2024-05-12 - Refund - $6838.3
+Account 514865 - C407 - Branch: Indiana Branch - 2025-07-14 - Payment - $2731.49
+Account 241216 - C1608 - Branch: Delaware Branch - 2024-03-23 - Deposit - $3207.82
+Account 452617 - C473 - Branch: West Virginia Branch - 2024-01-03 - POS - $246.86
+Account 419227 - C1618 - Branch: Ohio Branch - 2025-09-21 - Transfer - $10183.22
+Account 288647 - C225 - Branch: New Mexico Branch - 2025-06-03 - Withdrawal - $3192.14
+Account 632016 - C1328 - Branch: Wyoming Branch - 2024-10-13 - Fee - $6605.34
+Account 380857 - C1673 - Branch: Illinois Branch - 2025-11-12 - Withdrawal - $7412.71
+Account 997744 - C557 - Branch: Pennsylvania Branch - 2025-04-17 - Refund - $11228.21
+Account 370559 - C77 - Branch: New Hampshire Branch - 2025-04-30 - Fee - $14740.58
+Account 436485 - C446 - Branch: Mississippi Branch - 2025-07-11 - ATM - $9876.53
+Account 805340 - C1342 - Branch: Nevada Branch - 2025-02-26 - Deposit - $7259.55
+Account 526882 - C901 - Branch: Wisconsin Branch - 2025-07-13 - Deposit - $11140.8
+Account 389573 - C719 - Branch: Florida Branch - 2024-12-03 - ATM - $15425.45
+Account 209541 - C437 - Branch: Nevada Branch - 2024-06-29 - ATM - $1214.06
+Account 486086 - C485 - Branch: California Branch - 2025-04-04 - Transfer - $19797.18
+Account 278943 - C589 - Branch: California Branch - 2024-04-06 - Refund - $6146.32
+Account 387988 - C1686 - Branch: Delaware Branch - 2025-03-16 - Payment - $379.33
+Account 720116 - C453 - Branch: Rhode Island Branch - 2024-06-07 - ATM - $15968.46
+Account 926657 - C1878 - Branch: South Dakota Branch - 2025-08-24 - Payment - $13432.98
+Account 977322 - C1169 - Branch: New York Branch - 2024-04-11 - Payment - $18126.18
+Account 207770 - C1511 - Branch: Wisconsin Branch - 2024-05-06 - Deposit - $8609.1
+Account 565172 - C373 - Branch: Washington Branch - 2024-11-26 - Withdrawal - $10493.68
+Account 110205 - C542 - Branch: Nebraska Branch - 2025-05-05 - Online - $13505.67
+Account 938695 - C582 - Branch: Maine Branch - 2024-08-01 - Card Purchase - $15003.03
+Account 990491 - C1376 - Branch: South Dakota Branch - 2024-07-15 - ATM - $2781.99
+Account 624383 - C46 - Branch: New Mexico Branch - 2025-03-31 - Withdrawal - $662.99
+Account 812591 - C1485 - Branch: Oklahoma Branch - 2024-03-10 - Withdrawal - $17949.94
+Account 141604 - C1467 - Branch: Alabama Branch - 2024-01-04 - ATM - $16473.25
+Account 330292 - C1657 - Branch: Arkansas Branch - 2025-09-23 - Deposit - $9134.27
+Account 495743 - C154 - Branch: Rhode Island Branch - 2024-03-19 - Deposit - $18432.94
+Account 496972 - C828 - Branch: Nevada Branch - 2025-09-24 - ATM - $7744.86
+Account 842668 - C503 - Branch: Louisiana Branch - 2024-07-19 - ATM - $5693.84
+Account 289737 - C66 - Branch: Connecticut Branch - 2025-11-26 - Card Purchase - $16189.18
+Account 120054 - C938 - Branch: Oregon Branch - 2024-04-02 - ATM - $4491.74
+Account 269926 - C1280 - Branch: Delaware Branch - 2024-09-17 - POS - $3579.11
+Account 437538 - C1671 - Branch: Iowa Branch - 2025-10-19 - Online - $3812.43
+Account 850157 - C1370 - Branch: California Branch - 2024-06-19 - POS - $4140.2
+Account 571852 - C276 - Branch: Idaho Branch - 2024-10-09 - Fee - $6897.71
+Account 592135 - C1530 - Branch: Arizona Branch - 2025-07-31 - Deposit - $4333.4
+Account 435095 - C1308 - Branch: Illinois Branch - 2025-09-09 - Fee - $10790.49
+Account 414531 - C821 - Branch: Arkansas Branch - 2024-11-15 - ATM - $16499.25
+Account 444144 - C300 - Branch: California Branch - 2025-10-23 - Card Purchase - $8407.74
+Account 734696 - C1046 - Branch: New Jersey Branch - 2024-06-15 - Card Purchase - $7399.54
+Account 941448 - C1089 - Branch: Connecticut Branch - 2024-11-07 - Fee - $1397.88
+Account 809251 - C1912 - Branch: Maryland Branch - 2024-04-18 - Card Purchase - $17964.38
+Account 222450 - C1119 - Branch: New Jersey Branch - 2024-02-04 - Card Purchase - $9839.84
+Account 919725 - C95 - Branch: Delaware Branch - 2024-07-18 - Fee - $15462.65
+Account 743453 - C851 - Branch: Louisiana Branch - 2025-07-03 - Online - $16907.0
+Account 409222 - C479 - Branch: Washington Branch - 2024-09-25 - ATM - $18766.03
+Account 279546 - C882 - Branch: Colorado Branch - 2024-12-11 - Deposit - $4539.14
+Account 854306 - C587 - Branch: Massachusetts Branch - 2024-10-28 - ATM - $13926.43
+Account 933608 - C987 - Branch: Michigan Branch - 2025-03-30 - Transfer - $8801.36
+Account 925789 - C1687 - Branch: Wisconsin Branch - 2024-12-04 - ATM - $2082.65
+Account 680904 - C452 - Branch: Delaware Branch - 2025-11-29 - Transfer - $4363.19
+Account 554558 - C290 - Branch: Ohio Branch - 2025-02-23 - Deposit - $257.07
+Account 135582 - C262 - Branch: Missouri Branch - 2024-11-22 - Refund - $17214.95
+Account 605312 - C1718 - Branch: Ohio Branch - 2025-02-23 - Transfer - $705.51
+Account 144780 - C1971 - Branch: Michigan Branch - 2025-09-02 - Transfer - $1899.44
+Account 105158 - C1262 - Branch: Colorado Branch - 2024-11-01 - ATM - $16989.24
+Account 655668 - C242 - Branch: Michigan Branch - 2025-12-25 - Payment - $12196.8
+Account 934631 - C1142 - Branch: South Carolina Branch - 2024-04-19 - Deposit - $16137.73
+Account 407779 - C545 - Branch: Ohio Branch - 2024-09-15 - Deposit - $2518.96
+Account 525893 - C873 - Branch: Arizona Branch - 2024-01-02 - ATM - $10613.78
+Account 171382 - C28 - Branch: Nevada Branch - 2024-04-04 - Fee - $10040.65
+Account 637177 - C332 - Branch: Georgia Branch - 2025-05-27 - Online - $17070.01
+Account 377306 - C470 - Branch: California Branch - 2024-12-14 - Online - $8711.1
+Account 218664 - C1709 - Branch: Delaware Branch - 2025-06-28 - Withdrawal - $15623.32
+Account 929815 - C1674 - Branch: South Carolina Branch - 2024-12-19 - Fee - $18897.24
+Account 188948 - C1035 - Branch: Pennsylvania Branch - 2025-12-27 - Online - $3978.97
+Account 926378 - C819 - Branch: Vermont Branch - 2025-12-04 - POS - $17580.44
+Account 480610 - C381 - Branch: West Virginia Branch - 2025-10-30 - Deposit - $8839.94
+Account 593561 - C1291 - Branch: Nevada Branch - 2024-10-03 - POS - $1745.43
+Account 468594 - C401 - Branch: Delaware Branch - 2025-09-24 - Deposit - $12200.87
+Account 810541 - C1152 - Branch: Kansas Branch - 2025-12-22 - Refund - $-410.28
+Account 692538 - C1532 - Branch: West Virginia Branch - 2025-07-11 - POS - $4275.74
+Account 709419 - C25 - Branch: Indiana Branch - 2024-01-23 - POS - $19235.76
+Account 373320 - C1047 - Branch: Nevada Branch - 2025-10-27 - Online - $12277.26
+Account 839276 - C553 - Branch: Wyoming Branch - 2024-05-04 - Online - $-105.06
+Account 253083 - C359 - Branch: Missouri Branch - 2025-04-13 - ATM - $17926.69
+Account 274548 - C422 - Branch: Wyoming Branch - 2024-12-05 - Refund - $11641.95
+Account 802715 - C1318 - Branch: Kansas Branch - 2025-11-30 - POS - $13414.97
+Account 120348 - C1289 - Branch: Louisiana Branch - 2025-03-13 - Card Purchase - $11630.38
+Account 594777 - C823 - Branch: Florida Branch - 2025-08-09 - Refund - $18795.5
+Account 120457 - C1059 - Branch: Connecticut Branch - 2024-05-23 - Online - $15029.38
+Account 768044 - C693 - Branch: Montana Branch - 2024-12-25 - Card Purchase - $17769.34
+Account 227130 - C1871 - Branch: Illinois Branch - 2024-11-02 - Refund - $10128.25
+Account 765232 - C1600 - Branch: Tennessee Branch - 2024-01-26 - Refund - $17502.72
+Account 762595 - C19 - Branch: Hawaii Branch - 2025-10-17 - Online - $19627.82
+Account 697075 - C1260 - Branch: Montana Branch - 2025-07-18 - Deposit - $15237.8
+Account 995522 - C1238 - Branch: Iowa Branch - 2025-08-20 - POS - $12304.74
+Account 224600 - C1641 - Branch: Wyoming Branch - 2024-08-31 - Deposit - $19931.27
+Account 641204 - C1941 - Branch: Maryland Branch - 2025-06-25 - Refund - $15711.55
+Account 289712 - C242 - Branch: South Dakota Branch - 2025-05-24 - Payment - $10917.32
+Account 570324 - C1211 - Branch: Virginia Branch - 2024-05-27 - Fee - $15625.63
+Account 166919 - C1714 - Branch: Oklahoma Branch - 2025-05-08 - Refund - $4899.22
+Account 210785 - C697 - Branch: Maryland Branch - 2025-04-06 - Card Purchase - $1089.69
+Account 799573 - C910 - Branch: Virginia Branch - 2024-01-28 - Withdrawal - $11658.35
+Account 808425 - C1808 - Branch: New York Branch - 2025-09-11 - Refund - $15641.65
+Account 300496 - C1438 - Branch: Connecticut Branch - 2025-09-28 - Fee - $6115.48
+Account 554558 - C290 - Branch: Pennsylvania Branch - 2024-04-18 - ATM - $11072.09
+Account 998618 - C867 - Branch: Montana Branch - 2024-10-28 - Transfer - $3517.31
+Account 692111 - C734 - Branch: North Carolina Branch - 2025-05-07 - POS - $16082.1
+Account 179909 - C879 - Branch: Hawaii Branch - 2024-05-01 - Refund - $5907.46
+Account 191436 - C152 - Branch: Louisiana Branch - 2024-02-18 - Payment - $5208.73
+Account 597283 - C1885 - Branch: Montana Branch - 2024-08-21 - Deposit - $745.31
+Account 651722 - C297 - Branch: Vermont Branch - 2025-11-04 - Transfer - $7316.8
+Account 776374 - C915 - Branch: Colorado Branch - 2025-05-06 - Card Purchase - $13591.44
+Account 149900 - C810 - Branch: Pennsylvania Branch - 2025-10-21 - Transfer - $4640.95
+Account 617397 - C385 - Branch: Wyoming Branch - 2024-01-25 - ATM - $2511.11
+Account 973443 - C1362 - Branch: Oregon Branch - 2024-01-26 - POS - $18.93
+Account 164763 - C1947 - Branch: West Virginia Branch - 2024-12-20 - ATM - $13559.33
+Account 242101 - C1412 - Branch: Louisiana Branch - 2024-10-09 - POS - $6019.69
+Account 233605 - C1213 - Branch: Georgia Branch - 2025-04-09 - Transfer - $13267.43
+Account 549166 - C904 - Branch: Kentucky Branch - 2024-01-21 - POS - $14545.48
+Account 679771 - C327 - Branch: North Dakota Branch - 2025-05-26 - Payment - $18558.69
+Account 355406 - C1673 - Branch: Florida Branch - 2024-07-02 - Transfer - $-13.09
+Account 329286 - C700 - Branch: North Dakota Branch - 2024-05-31 - Fee - $10896.26
+Account 668785 - C440 - Branch: Ohio Branch - 2025-01-11 - Refund - $16796.08
+Account 660821 - C433 - Branch: North Dakota Branch - 2025-12-04 - Payment - $-161.03
+Account 247128 - C1078 - Branch: North Dakota Branch - 2024-05-23 - Deposit - $13871.39
+Account 321003 - C1988 - Branch: New York Branch - 2024-12-07 - Card Purchase - $8801.76
+Account 825315 - C77 - Branch: Montana Branch - 2024-08-27 - Online - $2932.66
+Account 752568 - C216 - Branch: Illinois Branch - 2025-06-24 - Fee - $-234.64
+Account 416167 - C76 - Branch: Louisiana Branch - 2024-12-28 - Fee - $18627.21
+Account 252328 - C739 - Branch: Illinois Branch - 2025-11-12 - Card Purchase - $5071.62
+Account 951221 - C1563 - Branch: Maine Branch - 2024-05-22 - Transfer - $7008.61
+Account 934501 - C1188 - Branch: Washington Branch - 2025-12-17 - Refund - $12134.19
+Account 217315 - C279 - Branch: Oklahoma Branch - 2024-01-04 - Payment - $4057.24
+Account 982895 - C927 - Branch: Indiana Branch - 2025-10-29 - Card Purchase - $3148.52
+Account 186151 - C215 - Branch: Idaho Branch - 2024-09-26 - Payment - $16543.21
+Account 630232 - C1756 - Branch: Colorado Branch - 2025-07-01 - Deposit - $16327.02
+Account 991440 - C1827 - Branch: Maryland Branch - 2024-05-25 - Fee - $16633.44
+Account 697316 - C1624 - Branch: Pennsylvania Branch - 2024-07-07 - Withdrawal - $8265.2
+Account 605159 - C1303 - Branch: Washington Branch - 2024-07-27 - POS - $14711.04
+Account 262081 - C1872 - Branch: Maine Branch - 2024-12-28 - Refund - $119.15
+Account 540524 - C301 - Branch: Arizona Branch - 2025-03-15 - Fee - $16792.02
+Account 997865 - C563 - Branch: Delaware Branch - 2024-02-29 - Payment - $10604.65
+Account 491033 - C1824 - Branch: Connecticut Branch - 2025-09-24 - Payment - $4746.87
+Account 733451 - C1546 - Branch: Michigan Branch - 2024-09-18 - Card Purchase - $5966.75
+Account 297241 - C1115 - Branch: West Virginia Branch - 2024-12-04 - Online - $17720.41
+Account 126865 - C1098 - Branch: Ohio Branch - 2025-12-14 - Transfer - $10028.84
+Account 222762 - C960 - Branch: Washington Branch - 2024-07-16 - Card Purchase - $7084.12
+Account 615091 - C180 - Branch: Wisconsin Branch - 2025-12-04 - Deposit - $12102.63
+Account 280040 - C1219 - Branch: Kentucky Branch - 2024-01-31 - Deposit - $10988.25
+Account 761469 - C458 - Branch: Montana Branch - 2025-05-14 - Withdrawal - $5534.17
+Account 590631 - C648 - Branch: South Dakota Branch - 2025-09-20 - Card Purchase - $1180.14
+Account 362223 - C377 - Branch: Indiana Branch - 2024-09-04 - Withdrawal - $19937.88
+Account 470907 - C1771 - Branch: Kentucky Branch - 2024-10-22 - Transfer - $15573.42
+Account 948041 - C1085 - Branch: Georgia Branch - 2024-02-25 - ATM - $5786.0
+Account 799588 - C843 - Branch: Alabama Branch - 2024-11-29 - Deposit - $18316.82
+Account 443484 - C1154 - Branch: West Virginia Branch - 2024-12-17 - Refund - $9336.15
+Account 587077 - C1282 - Branch: Nebraska Branch - 2024-07-05 - Transfer - $2024.96
+Account 541199 - C1241 - Branch: Tennessee Branch - 2025-11-24 - POS - $11207.19
+Account 294162 - C1747 - Branch: Hawaii Branch - 2024-07-11 - ATM - $7795.52
+Account 382694 - C878 - Branch: Delaware Branch - 2024-04-14 - Deposit - $6125.72
+Account 713898 - C235 - Branch: Maine Branch - 2024-06-14 - Withdrawal - $19670.72
+Account 231484 - C1320 - Branch: South Dakota Branch - 2024-04-20 - POS - $19309.09
+Account 723439 - C60 - Branch: West Virginia Branch - 2024-12-30 - Refund - $4946.4
+Account 367439 - C810 - Branch: Georgia Branch - 2025-10-03 - Card Purchase - $5672.76
+Account 611350 - C672 - Branch: Wyoming Branch - 2024-09-18 - Withdrawal - $6137.58
+Account 705858 - C46 - Branch: Michigan Branch - 2025-08-12 - POS - $1563.42
+Account 600581 - C1787 - Branch: Iowa Branch - 2024-05-22 - Payment - $13476.96
+Account 232674 - C1470 - Branch: Kentucky Branch - 2025-03-01 - Refund - $2106.23
+Account 136490 - C1979 - Branch: Washington Branch - 2024-03-10 - Refund - $17813.66
+Account 147051 - C53 - Branch: Oklahoma Branch - 2025-05-04 - Fee - $16286.87
+Account 369783 - C1515 - Branch: Michigan Branch - 2025-09-18 - Refund - $1267.83
+Account 575631 - C606 - Branch: South Carolina Branch - 2025-04-01 - Transfer - $19040.21
+Account 977322 - C1169 - Branch: Kentucky Branch - 2025-06-13 - Fee - $10011.26
+Account 677946 - C632 - Branch: New Hampshire Branch - 2024-10-17 - Card Purchase - $12977.03
+Account 992089 - C53 - Branch: Utah Branch - 2025-12-08 - Fee - $15978.13
+Account 658334 - C580 - Branch: Nebraska Branch - 2025-05-01 - ATM - $16777.86
+Account 576966 - C858 - Branch: Oregon Branch - 2025-02-04 - POS - $3608.36
+Account 730087 - C1212 - Branch: Washington Branch - 2025-10-22 - POS - $14937.27
+Account 680906 - C1535 - Branch: Iowa Branch - 2024-11-13 - Transfer - $17826.12
+Account 659742 - C661 - Branch: Iowa Branch - 2025-01-27 - Online - $11043.38
+Account 303643 - C178 - Branch: Pennsylvania Branch - 2025-05-04 - Deposit - $3646.79
+Account 799573 - C910 - Branch: Connecticut Branch - 2024-08-03 - Deposit - $2474.56
+Account 733019 - C1545 - Branch: Utah Branch - 2025-06-04 - Payment - $11408.36
+Account 449451 - C1002 - Branch: Colorado Branch - 2024-04-18 - Fee - $255.65
+Account 288175 - C698 - Branch: Massachusetts Branch - 2025-10-27 - Payment - $13272.08
+Account 430582 - C676 - Branch: Tennessee Branch - 2024-10-05 - POS - $19507.05
+Account 766136 - C896 - Branch: New Mexico Branch - 2024-03-09 - Payment - $13675.56
+Account 259805 - C157 - Branch: Idaho Branch - 2025-12-11 - Transfer - $16234.56
+Account 111794 - C721 - Branch: Vermont Branch - 2024-06-05 - ATM - $18348.67
+Account 288647 - C225 - Branch: Washington Branch - 2025-07-10 - POS - $6389.76
+Account 561472 - C1057 - Branch: Montana Branch - 2024-09-20 - Refund - $17756.78
+Account 927308 - C1178 - Branch: Utah Branch - 2025-08-10 - Card Purchase - $8002.96
+Account 323571 - C539 - Branch: California Branch - 2024-03-07 - Withdrawal - $17175.34
+Account 719097 - C277 - Branch: South Dakota Branch - 2024-11-14 - Card Purchase - $5396.14
+Account 878652 - C591 - Branch: Kansas Branch - 2024-10-18 - Transfer - $13272.34
+Account 380518 - C1841 - Branch: Wyoming Branch - 2025-08-26 - Fee - $17379.7
+Account 729775 - C433 - Branch: Kentucky Branch - 2025-06-21 - Transfer - $448.75
+Account 608501 - C1415 - Branch: Connecticut Branch - 2024-01-24 - Refund - $19397.7
+Account 755302 - C956 - Branch: Idaho Branch - 2025-04-07 - Transfer - $19371.23
+Account 904571 - C1160 - Branch: New York Branch - 2024-02-05 - Transfer - $6759.32
+Account 515605 - C525 - Branch: Oregon Branch - 2024-10-12 - Deposit - $7252.68
+Account 888483 - C930 - Branch: Nebraska Branch - 2024-03-09 - Online - $1695.06
+Account 239259 - C764 - Branch: Wisconsin Branch - 2024-02-22 - Withdrawal - $3093.17
+Account 140291 - C1113 - Branch: South Carolina Branch - 2025-11-20 - Transfer - $14252.08
+Account 766488 - C349 - Branch: Vermont Branch - 2024-03-12 - Card Purchase - $14803.56
+Account 861844 - C1104 - Branch: Illinois Branch - 2025-12-26 - Fee - $14628.25
+Account 214661 - C1519 - Branch: South Dakota Branch - 2025-04-09 - Deposit - $15950.03
+Account 731834 - C1177 - Branch: New York Branch - 2025-04-30 - Refund - $3215.88
+Account 889461 - C1503 - Branch: Massachusetts Branch - 2024-11-21 - POS - $3373.95
+Account 280040 - C1219 - Branch: Tennessee Branch - 2024-10-08 - POS - $17673.39
+Account 506741 - C1766 - Branch: Indiana Branch - 2024-04-25 - Deposit - $15343.49
+Account 961390 - C42 - Branch: North Carolina Branch - 2024-12-23 - Transfer - $13751.24
+Account 516564 - C1670 - Branch: Delaware Branch - 2025-12-10 - Fee - $1205.25
+Account 269817 - C785 - Branch: Michigan Branch - 2024-04-29 - Withdrawal - $17925.42
+Account 458757 - C456 - Branch: Idaho Branch - 2025-01-22 - Payment - $620.18
+Account 247056 - C880 - Branch: Maryland Branch - 2024-02-09 - Transfer - $2610.75
+Account 450113 - C948 - Branch: Mississippi Branch - 2025-07-03 - Card Purchase - $15935.52
+Account 479321 - C1068 - Branch: Ohio Branch - 2024-09-19 - ATM - $17857.11
+Account 484272 - C1425 - Branch: Oklahoma Branch - 2024-11-21 - Refund - $18174.84
+Account 255748 - C1315 - Branch: Maryland Branch - 2024-11-04 - Deposit - $8921.12
+Account 257289 - C1372 - Branch: Kansas Branch - 2024-03-22 - POS - $15294.69
+Account 270274 - C298 - Branch: Mississippi Branch - 2024-05-03 - Card Purchase - $16516.97
+Account 250294 - C1278 - Branch: Alabama Branch - 2025-09-27 - POS - $13721.9
+Account 711616 - C1456 - Branch: Montana Branch - 2025-11-09 - POS - $14329.67
+Account 401173 - C1079 - Branch: Delaware Branch - 2025-03-10 - Online - $8163.71
+Account 191084 - C653 - Branch: Maryland Branch - 2025-07-18 - POS - $4427.17
+Account 742088 - C1887 - Branch: Nevada Branch - 2025-12-30 - Fee - $10372.4
+Account 903278 - C1835 - Branch: Oregon Branch - 2024-06-28 - Deposit - $16790.74
+Account 751173 - C384 - Branch: Ohio Branch - 2024-08-09 - ATM - $8013.39
+Account 667294 - C1440 - Branch: Minnesota Branch - 2024-08-13 - Transfer - $16642.83
+Account 928576 - C461 - Branch: Washington Branch - 2024-04-03 - Card Purchase - $11327.16
+Account 229169 - C647 - Branch: Iowa Branch - 2024-06-19 - POS - $831.05
+Account 799588 - C843 - Branch: Virginia Branch - 2025-01-13 - Card Purchase - $-344.92
+Account 156392 - C1336 - Branch: Arkansas Branch - 2024-08-25 - Payment - $1232.43
+Account 130717 - C370 - Branch: Colorado Branch - 2025-09-09 - Deposit - $7367.94
+Account 590631 - C648 - Branch: California Branch - 2024-09-28 - POS - $16012.43
+Account 531259 - C750 - Branch: Iowa Branch - 2025-06-18 - Deposit - $6809.09
+Account 434349 - C969 - Branch: Nebraska Branch - 2024-02-13 - Refund - $5866.45
+Account 890780 - C132 - Branch: Missouri Branch - 2025-10-20 - ATM - $17238.15
+Account 143346 - C423 - Branch: New York Branch - 2025-12-01 - ATM - $4210.25
+Account 245576 - C1457 - Branch: Vermont Branch - 2025-01-04 - Online - $2721.89
+Account 304497 - C1802 - Branch: Massachusetts Branch - 2025-04-13 - ATM - $12669.99
+Account 777592 - C1807 - Branch: New Mexico Branch - 2025-07-06 - Withdrawal - $11353.72
+Account 551200 - C1168 - Branch: South Dakota Branch - 2025-07-22 - ATM - $4477.84
+Account 951335 - C1564 - Branch: New Hampshire Branch - 2024-10-10 - POS - $927.61
+Account 969501 - C1803 - Branch: Rhode Island Branch - 2024-10-03 - Refund - $10223.49
+Account 674244 - C184 - Branch: Idaho Branch - 2024-05-14 - Card Purchase - $17702.33
+Account 147737 - C49 - Branch: Colorado Branch - 2024-12-29 - Card Purchase - $13624.65
+Account 722796 - C675 - Branch: Montana Branch - 2025-09-30 - Payment - $6055.38
+Account 224780 - C1751 - Branch: Florida Branch - 2024-03-01 - Transfer - $1933.14
+Account 484497 - C368 - Branch: Alabama Branch - 2024-01-20 - Fee - $11702.58
+Account 878663 - C36 - Branch: Missouri Branch - 2025-11-16 - Payment - $12589.7
+Account 630837 - C70 - Branch: South Carolina Branch - 2024-01-09 - Card Purchase - $3067.05
+Account 616578 - C1424 - Branch: New York Branch - 2025-06-22 - Transfer - $16318.28
+Account 587944 - C996 - Branch: South Carolina Branch - 2025-12-06 - Transfer - $8851.62
+Account 216865 - C292 - Branch: Kentucky Branch - 2025-02-26 - Payment - $2071.91
+Account 293785 - C1310 - Branch: Pennsylvania Branch - 2025-02-15 - Withdrawal - $9585.08
+Account 931261 - C1524 - Branch: Missouri Branch - 2025-06-27 - Card Purchase - $11657.21
+Account 466377 - C644 - Branch: Iowa Branch - 2024-04-14 - Transfer - $15800.11
+Account 569125 - C679 - Branch: Colorado Branch - 2025-06-12 - Card Purchase - $6457.19
+Account 472972 - C1903 - Branch: California Branch - 2025-03-23 - Transfer - $804.43
+Account 569357 - C1003 - Branch: Kansas Branch - 2025-07-29 - Fee - $14939.94
+Account 828024 - C1963 - Branch: Colorado Branch - 2024-01-13 - Withdrawal - $5433.75
+Account 956257 - C1420 - Branch: Oklahoma Branch - 2025-07-15 - Refund - $5162.14
+Account 613309 - C796 - Branch: Colorado Branch - 2024-05-13 - POS - $4052.87
+Account 385625 - C1312 - Branch: Illinois Branch - 2024-02-06 - ATM - $19689.95
+Account 615798 - C848 - Branch: Kentucky Branch - 2024-07-19 - Refund - $4208.69
+Account 675898 - C340 - Branch: Kansas Branch - 2024-05-26 - Card Purchase - $10892.55
+Account 109171 - C272 - Branch: New York Branch - 2025-10-02 - Withdrawal - $12014.84
+Account 904571 - C1160 - Branch: Illinois Branch - 2024-04-04 - ATM - $16944.48
+Account 552691 - C291 - Branch: Iowa Branch - 2025-12-23 - Refund - $14062.39
+Account 265192 - C1909 - Branch: Oregon Branch - 2024-09-06 - Payment - $16122.99
+Account 508547 - C1599 - Branch: Colorado Branch - 2025-07-08 - Transfer - $6488.9
+Account 620805 - C1579 - Branch: Arizona Branch - 2024-03-08 - Transfer - $18208.3
+Account 375059 - C1273 - Branch: Maryland Branch - 2024-09-17 - Fee - $11409.66
+Account 934052 - C1803 - Branch: New Jersey Branch - 2025-02-23 - Payment - $13548.98
+Account 648682 - C1181 - Branch: Vermont Branch - 2024-10-11 - Transfer - $19902.95
+Account 199171 - C1605 - Branch: Minnesota Branch - 2024-08-29 - Payment - $8842.49
+Account 401700 - C528 - Branch: Minnesota Branch - 2025-01-06 - Online - $14533.97
+Account 130919 - C1778 - Branch: California Branch - 2024-04-30 - Deposit - $6922.62
+Account 773140 - C665 - Branch: Mississippi Branch - 2025-08-26 - Deposit - $15963.87
+Account 151138 - C1927 - Branch: Wisconsin Branch - 2025-08-31 - Card Purchase - $13977.86
+Account 341186 - C1975 - Branch: Florida Branch - 2024-02-08 - Transfer - $16238.5
+Account 105584 - C217 - Branch: New Jersey Branch - 2024-06-27 - Refund - $8176.16
+Account 132546 - C1694 - Branch: Washington Branch - 2024-12-20 - Online - $591.41
+Account 935022 - C1153 - Branch: Arizona Branch - 2025-05-04 - Fee - $2317.95
+Account 311625 - C795 - Branch: Nebraska Branch - 2025-01-09 - Fee - $16855.1
+Account 711047 - C1273 - Branch: California Branch - 2025-10-22 - ATM - $13888.75
+Account 401700 - C528 - Branch: Colorado Branch - 2024-09-30 - ATM - $8410.69
+Account 776533 - C83 - Branch: Arizona Branch - 2024-05-06 - Online - $8339.01
+Account 770750 - C1446 - Branch: Indiana Branch - 2025-06-06 - Withdrawal - $2083.17
+Account 503769 - C815 - Branch: Delaware Branch - 2025-02-06 - Fee - $19103.27
+Account 207363 - C1124 - Branch: Wisconsin Branch - 2025-11-12 - POS - $3376.28
+Account 321294 - C1253 - Branch: Alaska Branch - 2025-01-17 - POS - $15030.95
+Account 766136 - C896 - Branch: Iowa Branch - 2024-05-04 - Payment - $1185.2
+Account 345638 - C362 - Branch: New Mexico Branch - 2025-02-08 - Fee - $19819.08
+Account 301228 - C23 - Branch: Idaho Branch - 2025-07-05 - ATM - $3747.27
+Account 651820 - C1790 - Branch: Illinois Branch - 2024-03-26 - POS - $12984.01
+Account 204083 - C499 - Branch: Connecticut Branch - 2025-01-31 - Transfer - $7022.21
+Account 337070 - C236 - Branch: California Branch - 2024-09-15 - Payment - $17413.19
+Account 890604 - C212 - Branch: Kentucky Branch - 2024-01-03 - Withdrawal - $17139.94
+Account 629041 - C494 - Branch: Colorado Branch - 2025-01-12 - ATM - $14143.86
+Account 264618 - C702 - Branch: Illinois Branch - 2024-11-25 - Online - $12633.92
+Account 174614 - C394 - Branch: West Virginia Branch - 2024-04-30 - Deposit - $2553.26
+Account 997865 - C563 - Branch: Wisconsin Branch - 2025-09-02 - Online - $15040.23
+Account 997744 - C557 - Branch: Alabama Branch - 2025-07-06 - Online - $14129.46
+Account 400851 - C50 - Branch: New Mexico Branch - 2025-05-10 - Withdrawal - $9334.73
+Account 331121 - C645 - Branch: Indiana Branch - 2025-09-29 - Deposit - $19993.99
+Account 388174 - C1873 - Branch: Oregon Branch - 2024-11-24 - POS - $2813.43
+Account 211354 - C1972 - Branch: Wyoming Branch - 2024-10-04 - ATM - $11063.57
+Account 680906 - C1535 - Branch: Nevada Branch - 2024-04-02 - Card Purchase - $14953.03
+Account 963880 - C599 - Branch: Florida Branch - 2025-02-17 - Card Purchase - $7649.02
+Account 627890 - C275 - Branch: Iowa Branch - 2024-01-23 - Online - $19987.62
+Account 878652 - C591 - Branch: California Branch - 2024-05-28 - ATM - $9250.92
+Account 715130 - C1364 - Branch: New Mexico Branch - 2025-05-07 - Withdrawal - $13795.59
+Account 104197 - C62 - Branch: Alabama Branch - 2025-12-29 - Card Purchase - $7287.95
+Account 856069 - C505 - Branch: Indiana Branch - 2025-04-09 - Deposit - $9452.05
+Account 253694 - C376 - Branch: Delaware Branch - 2024-04-16 - Deposit - $18790.37
+Account 848594 - C833 - Branch: Arizona Branch - 2024-07-20 - Withdrawal - $4535.4
+Account 609335 - C1399 - Branch: South Carolina Branch - 2024-02-10 - Online - $3544.49
+Account 879234 - C1149 - Branch: West Virginia Branch - 2024-05-19 - Fee - $5233.87
+Account 466449 - C251 - Branch: Illinois Branch - 2024-09-26 - Online - $19261.31
+Account 346404 - C1830 - Branch: South Carolina Branch - 2024-03-25 - Card Purchase - $3592.35
+Account 949301 - C99 - Branch: Missouri Branch - 2025-06-09 - ATM - $12474.95
+Account 379697 - C207 - Branch: Louisiana Branch - 2025-12-05 - Payment - $14307.84
+Account 463717 - C1172 - Branch: Michigan Branch - 2024-05-27 - Refund - $10510.67
+Account 318175 - C1054 - Branch: Kansas Branch - 2025-04-06 - ATM - $7546.02
+Account 823714 - C295 - Branch: Montana Branch - 2024-12-20 - Online - $9137.32
+Account 900064 - C798 - Branch: Delaware Branch - 2024-08-09 - Online - $5138.46
+Account 222492 - C284 - Branch: Nebraska Branch - 2024-10-23 - POS - $12038.79
+Account 581346 - C722 - Branch: Rhode Island Branch - 2025-09-02 - Card Purchase - $6578.12
+Account 258683 - C1917 - Branch: Nebraska Branch - 2024-02-28 - Transfer - $5534.42
+Account 980066 - C971 - Branch: Utah Branch - 2025-03-30 - Refund - $19709.75
+Account 423420 - C1792 - Branch: Montana Branch - 2025-07-10 - ATM - $9536.29
+Account 747263 - C181 - Branch: Wisconsin Branch - 2024-02-09 - Deposit - $6940.61
+Account 625400 - C432 - Branch: Wyoming Branch - 2025-08-27 - Refund - $18192.65
+Account 933120 - C270 - Branch: Indiana Branch - 2025-10-23 - Transfer - $9709.37
+Account 188558 - C1233 - Branch: Delaware Branch - 2024-01-26 - ATM - $14956.14
+Account 979414 - C633 - Branch: Alaska Branch - 2024-09-18 - POS - $3098.49
+Account 824078 - C521 - Branch: Ohio Branch - 2025-01-04 - Fee - $16602.87
+Account 479411 - C1824 - Branch: Missouri Branch - 2024-11-06 - Card Purchase - $17425.6
+Account 730237 - C1179 - Branch: New Jersey Branch - 2024-10-01 - Transfer - $14981.65
+Account 444144 - C300 - Branch: South Carolina Branch - 2024-11-23 - Payment - $-154.98
+Account 240191 - C74 - Branch: Rhode Island Branch - 2024-07-15 - Payment - $13427.94
+Account 832729 - C1398 - Branch: Arizona Branch - 2025-10-19 - Withdrawal - $2616.83
+Account 367439 - C810 - Branch: Arkansas Branch - 2024-04-17 - Deposit - $18428.39
+Account 106658 - C1010 - Branch: Texas Branch - 2024-06-04 - ATM - $3512.01
+Account 227467 - C300 - Branch: Florida Branch - 2025-10-18 - Card Purchase - $8151.26
+Account 511041 - C153 - Branch: New Hampshire Branch - 2024-05-30 - Payment - $14087.5
+Account 409491 - C2000 - Branch: Illinois Branch - 2025-11-11 - Card Purchase - $4480.27
+Account 156392 - C1336 - Branch: Florida Branch - 2025-07-07 - Withdrawal - $5943.63
+Account 183383 - C352 - Branch: Arkansas Branch - 2025-12-12 - Online - $11306.36
+Account 669677 - C568 - Branch: Idaho Branch - 2024-03-12 - Withdrawal - $10794.8
+Account 367593 - C977 - Branch: Alaska Branch - 2025-09-27 - Card Purchase - $8431.39
+Account 857666 - C1117 - Branch: Ohio Branch - 2024-04-07 - Card Purchase - $11337.69
+Account 601696 - C1980 - Branch: North Carolina Branch - 2024-10-21 - Card Purchase - $18358.62
+Account 908598 - C747 - Branch: Kansas Branch - 2024-06-02 - Payment - $2532.3
+Account 370379 - C174 - Branch: Alaska Branch - 2025-08-09 - Fee - $16579.04
+Account 205550 - C1644 - Branch: Oregon Branch - 2024-11-16 - ATM - $853.22
+Account 795899 - C1655 - Branch: Nebraska Branch - 2025-02-20 - ATM - $6505.26
+Account 103070 - C483 - Branch: Alaska Branch - 2025-09-12 - Online - $16735.94
+Account 717738 - C1793 - Branch: Vermont Branch - 2024-10-23 - Deposit - $7740.29
+Account 823714 - C295 - Branch: Idaho Branch - 2024-08-30 - Refund - $2646.0
+Account 168469 - C1171 - Branch: Nevada Branch - 2024-09-13 - Fee - $14365.46
+Account 430582 - C676 - Branch: New York Branch - 2025-02-24 - ATM - $17719.91
+Account 183141 - C1230 - Branch: Missouri Branch - 2025-05-26 - Refund - $8410.71
+Account 660353 - C265 - Branch: Wisconsin Branch - 2025-12-24 - Withdrawal - $14784.77
+Account 905753 - C1304 - Branch: Kansas Branch - 2024-10-07 - POS - $41.93
+Account 736793 - C1170 - Branch: Louisiana Branch - 2024-05-24 - POS - $7732.28
+Account 810834 - C1441 - Branch: Oregon Branch - 2025-04-07 - ATM - $3711.27
+Account 514716 - C1009 - Branch: Missouri Branch - 2025-07-14 - POS - $4613.42
+Account 693381 - C388 - Branch: Utah Branch - 2025-02-16 - Withdrawal - $4633.51
+Account 832729 - C1398 - Branch: Hawaii Branch - 2024-07-04 - Refund - $16891.21
+Account 409222 - C479 - Branch: Wisconsin Branch - 2024-07-25 - Fee - $10560.39
+Account 925322 - C1204 - Branch: Florida Branch - 2024-08-02 - ATM - $15586.63
+Account 666867 - C374 - Branch: Florida Branch - 2025-01-25 - Online - $1304.48
+Account 654867 - C861 - Branch: Rhode Island Branch - 2025-08-25 - Transfer - $15547.02
+Account 665283 - C955 - Branch: Pennsylvania Branch - 2024-07-14 - Transfer - $-207.86
+Account 233605 - C1213 - Branch: New Hampshire Branch - 2024-03-10 - Fee - $11553.49
+Account 620872 - C45 - Branch: Vermont Branch - 2024-02-01 - Transfer - $15950.35
+Account 847123 - C1975 - Branch: New Mexico Branch - 2025-07-11 - Refund - $2138.33
+Account 680936 - C1965 - Branch: Utah Branch - 2025-01-16 - Refund - $17755.1
+Account 165341 - C968 - Branch: Virginia Branch - 2025-02-09 - Deposit - $7255.64
+Account 597522 - C442 - Branch: Maryland Branch - 2024-06-28 - Online - $7448.33
+Account 345036 - C1677 - Branch: Minnesota Branch - 2025-10-30 - Payment - $5325.97
+Account 905581 - C676 - Branch: Pennsylvania Branch - 2025-05-12 - Card Purchase - $10952.32
+Account 651722 - C297 - Branch: Georgia Branch - 2024-03-31 - Deposit - $1265.84
+Account 817276 - C114 - Branch: Vermont Branch - 2024-03-06 - ATM - $-164.29
+Account 147737 - C49 - Branch: New York Branch - 2024-07-02 - Card Purchase - $1512.26
+Account 589585 - C1314 - Branch: Alaska Branch - 2025-06-19 - Card Purchase - $11767.11
+Account 189526 - C282 - Branch: Arkansas Branch - 2024-11-30 - Card Purchase - $2363.89
+Account 965387 - C1082 - Branch: Florida Branch - 2024-05-21 - Payment - $7418.13
+Account 477750 - C635 - Branch: Iowa Branch - 2025-01-13 - Deposit - $2355.18
+Account 167973 - C1337 - Branch: South Carolina Branch - 2025-12-04 - Fee - $9558.2
+Account 517984 - C816 - Branch: Idaho Branch - 2025-10-27 - Online - $1791.97
+Account 489262 - C550 - Branch: New Hampshire Branch - 2024-02-26 - ATM - $7225.45
+Account 132011 - C985 - Branch: Michigan Branch - 2024-01-15 - Withdrawal - $4843.35
+Account 398291 - C946 - Branch: Kansas Branch - 2024-03-24 - Online - $13630.53
+Account 712159 - C720 - Branch: Colorado Branch - 2025-03-12 - Transfer - $16777.2
+Account 940689 - C1473 - Branch: Michigan Branch - 2025-08-19 - Card Purchase - $9324.59
+Account 125379 - C1820 - Branch: Indiana Branch - 2025-08-15 - Payment - $10629.79
+Account 654867 - C861 - Branch: Oklahoma Branch - 2025-11-08 - ATM - $16984.76
+Account 356876 - C671 - Branch: Wyoming Branch - 2025-07-03 - Fee - $13996.96
+Account 214584 - C1070 - Branch: Utah Branch - 2025-10-25 - Card Purchase - $8365.31
+Account 851367 - C58 - Branch: California Branch - 2025-10-14 - Card Purchase - $8901.81
+Account 935022 - C1153 - Branch: Florida Branch - 2024-01-10 - Withdrawal - $18502.02
+Account 938555 - C670 - Branch: Pennsylvania Branch - 2024-05-23 - Refund - $18743.44
+Account 717459 - C1377 - Branch: Utah Branch - 2025-09-29 - ATM - $19709.55
+Account 877279 - C1800 - Branch: Alabama Branch - 2024-04-15 - Card Purchase - $-153.55
+Account 933687 - C1630 - Branch: Hawaii Branch - 2024-03-02 - Fee - $11508.84
+Account 289737 - C66 - Branch: Nebraska Branch - 2025-07-15 - Payment - $8373.91
+Account 210051 - C1541 - Branch: California Branch - 2024-11-02 - Deposit - $10826.78
+Account 387473 - C1826 - Branch: New Hampshire Branch - 2025-05-12 - Refund - $2587.13
+Account 660414 - C54 - Branch: Washington Branch - 2025-10-13 - Withdrawal - $19407.31
+Account 380477 - C547 - Branch: Washington Branch - 2024-10-17 - Fee - $-281.11
+Account 567284 - C1501 - Branch: Texas Branch - 2025-10-28 - Deposit - $3556.67
+Account 221940 - C357 - Branch: Illinois Branch - 2025-01-06 - Deposit - $9894.02
+Account 960575 - C1205 - Branch: Nevada Branch - 2024-03-03 - Refund - $6538.22
+Account 418743 - C540 - Branch: Arkansas Branch - 2025-06-04 - ATM - $5307.59
+Account 636120 - C1327 - Branch: New Mexico Branch - 2024-01-24 - Refund - $2098.52
+Account 207770 - C1511 - Branch: Wisconsin Branch - 2025-05-19 - Online - $13334.12
+Account 824236 - C1317 - Branch: South Dakota Branch - 2024-12-01 - Fee - $10521.4
+Account 448741 - C315 - Branch: Montana Branch - 2025-07-28 - ATM - $16109.94
+Account 258182 - C1590 - Branch: Virginia Branch - 2024-01-16 - Withdrawal - $7874.16
+Account 321048 - C259 - Branch: Ohio Branch - 2024-01-28 - Transfer - $18719.96
+Account 563261 - C219 - Branch: Missouri Branch - 2024-04-08 - ATM - $12935.65
+Account 785302 - C435 - Branch: Hawaii Branch - 2024-09-05 - Refund - $4549.81
+Account 698727 - C1071 - Branch: Ohio Branch - 2024-12-12 - Refund - $5058.07
+Account 553286 - C998 - Branch: Rhode Island Branch - 2025-08-05 - POS - $12041.68
+Account 876537 - C755 - Branch: Idaho Branch - 2025-09-23 - Withdrawal - $8008.73
+Account 589481 - C1141 - Branch: Montana Branch - 2024-05-22 - Payment - $13412.57
+Account 394178 - C830 - Branch: Oregon Branch - 2025-12-22 - Fee - $2145.06
+Account 778141 - C1831 - Branch: Montana Branch - 2025-10-28 - POS - $16512.9
+Account 970863 - C840 - Branch: Louisiana Branch - 2024-12-05 - Online - $7817.88
+Account 971859 - C1571 - Branch: Kentucky Branch - 2025-09-20 - Online - $14280.48
+Account 988122 - C615 - Branch: Kentucky Branch - 2025-02-02 - Refund - $3458.24
+Account 231664 - C340 - Branch: West Virginia Branch - 2024-06-11 - Refund - $18465.71
+Account 965432 - C1322 - Branch: Texas Branch - 2024-05-23 - ATM - $8411.59
+Account 170890 - C619 - Branch: Rhode Island Branch - 2024-02-25 - Withdrawal - $12210.53
+Account 285125 - C1722 - Branch: Arizona Branch - 2024-08-01 - Payment - $18048.7
+Account 847990 - C1427 - Branch: Wisconsin Branch - 2025-09-13 - Transfer - $11452.12
+Account 226901 - C1936 - Branch: Nevada Branch - 2024-10-25 - Transfer - $11856.94
+Account 118187 - C1076 - Branch: Wisconsin Branch - 2024-05-27 - POS - $3301.16
+Account 854401 - C815 - Branch: Washington Branch - 2024-04-21 - Transfer - $11590.31
+Account 101070 - C1694 - Branch: South Carolina Branch - 2024-04-26 - Refund - $19693.35
+Account 528214 - C1143 - Branch: Michigan Branch - 2024-05-10 - POS - $871.13
+Account 347839 - C1397 - Branch: Montana Branch - 2025-11-07 - Payment - $2199.79
+Account 121686 - C1352 - Branch: Idaho Branch - 2025-06-01 - Online - $1592.46
+Account 517984 - C816 - Branch: Nebraska Branch - 2025-03-09 - Transfer - $16742.22
+Account 988121 - C1866 - Branch: Massachusetts Branch - 2024-03-16 - Payment - $18656.22
+Account 887619 - C1145 - Branch: Wyoming Branch - 2025-03-11 - ATM - $10804.75
+Account 687919 - C804 - Branch: Virginia Branch - 2025-02-25 - Fee - $19953.03
+Account 978354 - C1659 - Branch: Wisconsin Branch - 2024-10-29 - ATM - $1205.93
+Account 936659 - C732 - Branch: New Hampshire Branch - 2024-02-11 - Fee - $4412.19
+Account 553899 - C24 - Branch: Arizona Branch - 2025-11-20 - ATM - $5211.42
+Account 511227 - C430 - Branch: New Hampshire Branch - 2025-06-29 - POS - $2865.53
+Account 351467 - C1151 - Branch: South Carolina Branch - 2025-02-18 - Payment - $18563.15
+Account 494172 - C844 - Branch: Alabama Branch - 2024-04-19 - Transfer - $18759.86
+Account 769500 - C1678 - Branch: Illinois Branch - 2025-08-14 - Online - $9259.44
+Account 711498 - C1558 - Branch: California Branch - 2025-01-22 - Payment - $8277.83
+Account 933938 - C1359 - Branch: Texas Branch - 2024-01-17 - Withdrawal - $2270.59
+Account 490246 - C508 - Branch: Rhode Island Branch - 2025-09-16 - Withdrawal - $5754.94
+Account 360648 - C1791 - Branch: Idaho Branch - 2024-09-20 - Card Purchase - $15636.76
+Account 762229 - C1074 - Branch: Kansas Branch - 2025-09-08 - Withdrawal - $1970.4
+Account 174614 - C394 - Branch: Michigan Branch - 2025-09-13 - Refund - $17716.52
+Account 939440 - C267 - Branch: Minnesota Branch - 2024-03-19 - Deposit - $9224.64
+Account 741385 - C686 - Branch: Louisiana Branch - 2024-07-07 - ATM - $12209.95
+Account 485630 - C1408 - Branch: Massachusetts Branch - 2025-04-27 - ATM - $7128.54
+Account 226719 - C1026 - Branch: Michigan Branch - 2025-04-20 - Online - $1274.24
+Account 641204 - C1941 - Branch: Oregon Branch - 2025-12-17 - Payment - $15095.12
+Account 812379 - C457 - Branch: Arizona Branch - 2024-10-15 - ATM - $2733.1
+Account 288975 - C13 - Branch: Washington Branch - 2024-11-14 - Deposit - $11205.18
+Account 833495 - C1186 - Branch: South Dakota Branch - 2025-09-09 - Fee - $9967.55
+Account 434087 - C1248 - Branch: Wyoming Branch - 2024-06-27 - Fee - $14381.78
+Account 939222 - C1879 - Branch: Pennsylvania Branch - 2024-05-17 - ATM - $17315.1
+Account 941448 - C1089 - Branch: California Branch - 2025-06-15 - Refund - $10440.05
+Account 116811 - C1865 - Branch: Mississippi Branch - 2024-06-11 - ATM - $5170.24
+Account 282646 - C135 - Branch: Utah Branch - 2025-12-10 - POS - $16275.17
+Account 491654 - C688 - Branch: Virginia Branch - 2024-07-29 - Withdrawal - $3311.16
+Account 928154 - C1092 - Branch: Texas Branch - 2025-09-21 - Payment - $13359.97
+Account 613056 - C1215 - Branch: Texas Branch - 2024-12-09 - Refund - $7968.44
+Account 876500 - C1458 - Branch: North Carolina Branch - 2025-01-21 - Deposit - $3891.28
+Account 567041 - C1880 - Branch: Tennessee Branch - 2025-12-31 - ATM - $17977.77
+Account 434316 - C674 - Branch: Montana Branch - 2025-11-27 - Fee - $6751.25
+Account 451331 - C1395 - Branch: Nebraska Branch - 2024-02-25 - Online - $17678.29
+Account 961233 - C1097 - Branch: Nevada Branch - 2024-10-12 - Online - $18281.14
+Account 859435 - C995 - Branch: Maine Branch - 2024-01-06 - Online - $3183.83
+Account 949044 - C1601 - Branch: Georgia Branch - 2025-03-25 - POS - $5936.56
+Account 285356 - C1883 - Branch: Minnesota Branch - 2024-01-24 - Deposit - $14453.26
+Account 585287 - C1096 - Branch: Alabama Branch - 2024-04-19 - Online - $16747.14
+Account 258714 - C361 - Branch: North Carolina Branch - 2024-09-28 - Withdrawal - $8166.76
+Account 133473 - C1180 - Branch: Alabama Branch - 2024-02-16 - Deposit - $16204.93
+Account 979414 - C633 - Branch: Massachusetts Branch - 2024-06-27 - Card Purchase - $5140.96
+Account 770750 - C1446 - Branch: Washington Branch - 2024-01-02 - Withdrawal - $10411.04
+Account 541837 - C869 - Branch: Vermont Branch - 2024-12-20 - POS - $14660.34
+Account 612619 - C1638 - Branch: Delaware Branch - 2025-08-17 - Fee - $9012.26
+Account 999758 - C1855 - Branch: Georgia Branch - 2025-03-12 - ATM - $17442.06
+Account 408033 - C182 - Branch: Kentucky Branch - 2025-06-24 - Online - $16054.98
+Account 160985 - C1454 - Branch: Nebraska Branch - 2025-09-17 - Payment - $2403.65
+Account 827986 - C1620 - Branch: Virginia Branch - 2025-11-17 - Refund - $5964.89
+Account 413673 - C1746 - Branch: Mississippi Branch - 2025-09-12 - Card Purchase - $19883.83
+Account 352869 - C1769 - Branch: Alabama Branch - 2025-03-05 - Payment - $-13.14
+Account 974011 - C713 - Branch: Maryland Branch - 2025-02-23 - ATM - $5937.77
+Account 253694 - C376 - Branch: Nevada Branch - 2024-02-03 - Transfer - $7086.84
+Account 647550 - C136 - Branch: Hawaii Branch - 2024-04-14 - Card Purchase - $17423.1
+Account 598927 - C78 - Branch: Arizona Branch - 2025-01-26 - Online - $17414.53
+Account 432514 - C126 - Branch: Colorado Branch - 2024-12-15 - Deposit - $3989.82
+Account 917433 - C1060 - Branch: Tennessee Branch - 2024-06-14 - POS - $12179.2
+Account 506728 - C1989 - Branch: New Hampshire Branch - 2025-10-13 - Transfer - $2992.66
+Account 496006 - C182 - Branch: Ohio Branch - 2025-12-31 - Withdrawal - $13526.99
+Account 106946 - C1903 - Branch: Michigan Branch - 2025-02-13 - Deposit - $12509.07
+Account 397107 - C1833 - Branch: Connecticut Branch - 2024-02-25 - Card Purchase - $-304.46
+Account 899416 - C1131 - Branch: Iowa Branch - 2024-11-24 - Card Purchase - $16388.02
+Account 515469 - C669 - Branch: Nebraska Branch - 2025-04-23 - Deposit - $14147.41
+Account 765232 - C1600 - Branch: Texas Branch - 2025-03-22 - Payment - $12127.06
+Account 847013 - C1159 - Branch: Alaska Branch - 2025-01-02 - Card Purchase - $12668.23
+Account 504465 - C150 - Branch: Louisiana Branch - 2024-12-02 - Card Purchase - $7165.28
+Account 812379 - C457 - Branch: Missouri Branch - 2025-10-08 - Online - $3729.34
+Account 473956 - C1869 - Branch: Colorado Branch - 2024-06-13 - ATM - $17771.54
+Account 377920 - C1123 - Branch: Washington Branch - 2024-03-12 - Deposit - $16018.57
+Account 721922 - C1336 - Branch: New Hampshire Branch - 2025-12-06 - Payment - $12313.0
+Account 587944 - C996 - Branch: Illinois Branch - 2024-09-15 - Fee - $19019.95
+Account 467737 - C218 - Branch: Oregon Branch - 2025-04-05 - Refund - $10335.38
+Account 837554 - C392 - Branch: Georgia Branch - 2024-08-24 - Withdrawal - $13146.4
+Account 368475 - C976 - Branch: Oklahoma Branch - 2025-11-06 - Fee - $1554.55
+Account 890780 - C132 - Branch: Illinois Branch - 2025-02-23 - Online - $12912.27
+Account 384316 - C1801 - Branch: Iowa Branch - 2024-03-24 - Transfer - $16441.54
+Account 861884 - C1835 - Branch: Utah Branch - 2024-04-11 - Withdrawal - $13456.4
+Account 194901 - C1900 - Branch: North Carolina Branch - 2025-05-11 - Transfer - $7129.88
+Account 411887 - C143 - Branch: South Dakota Branch - 2024-06-20 - Refund - $662.2
+Account 829704 - C101 - Branch: South Dakota Branch - 2025-01-14 - ATM - $12831.83
+Account 536133 - C1209 - Branch: Oklahoma Branch - 2024-06-08 - Fee - $17105.54
+Account 564846 - C517 - Branch: Arizona Branch - 2025-07-16 - Card Purchase - $13604.93
+Account 780476 - C81 - Branch: California Branch - 2024-09-20 - Transfer - $11324.22
+Account 436479 - C270 - Branch: Kansas Branch - 2024-02-17 - Fee - $5264.12
+Account 979873 - C159 - Branch: Missouri Branch - 2024-05-03 - Fee - $18078.95
+Account 214801 - C380 - Branch: Texas Branch - 2025-07-06 - Refund - $17317.77
+Account 842841 - C570 - Branch: Oklahoma Branch - 2024-05-30 - Fee - $7601.3
+Account 978077 - C1159 - Branch: Vermont Branch - 2024-08-06 - Transfer - $6798.82
+Account 433210 - C803 - Branch: North Dakota Branch - 2024-05-13 - Deposit - $2787.64
+Account 784368 - C1166 - Branch: North Carolina Branch - 2025-04-08 - Payment - $3059.9
+Account 565460 - C899 - Branch: Colorado Branch - 2025-10-29 - ATM - $7954.25
+Account 674248 - C1356 - Branch: New Hampshire Branch - 2025-04-20 - Fee - $5486.73
+Account 204083 - C499 - Branch: Vermont Branch - 2025-03-30 - Withdrawal - $1934.88
+Account 743453 - C851 - Branch: Vermont Branch - 2025-08-14 - Card Purchase - $3679.91
+Account 346478 - C1229 - Branch: West Virginia Branch - 2024-01-30 - Refund - $16791.09
+Account 438628 - C876 - Branch: Arkansas Branch - 2024-07-10 - Transfer - $18332.45
+Account 554558 - C290 - Branch: Maryland Branch - 2024-02-14 - Deposit - $12659.54
+Account 286512 - C1716 - Branch: Virginia Branch - 2024-08-09 - Deposit - $12584.57
+Account 580574 - C1346 - Branch: South Dakota Branch - 2025-08-01 - Fee - $-407.5
+Account 333100 - C1014 - Branch: New Hampshire Branch - 2025-07-28 - Online - $4918.96
+Account 281372 - C802 - Branch: Maryland Branch - 2025-09-08 - Payment - $10105.77
+Account 381750 - C405 - Branch: Indiana Branch - 2024-09-17 - POS - $15615.54
+Account 698722 - C1753 - Branch: Ohio Branch - 2025-02-28 - Transfer - $10972.43
+Account 870171 - C636 - Branch: Kansas Branch - 2024-03-22 - Deposit - $18508.35
+Account 589585 - C1314 - Branch: Georgia Branch - 2025-05-08 - Payment - $9931.08
+Account 297955 - C1246 - Branch: New Jersey Branch - 2024-11-14 - POS - $6370.67
+Account 448520 - C582 - Branch: Florida Branch - 2024-07-22 - Online - $18711.35
+Account 957647 - C682 - Branch: North Dakota Branch - 2025-06-30 - Withdrawal - $12548.09
+Account 183542 - C1825 - Branch: Virginia Branch - 2024-05-03 - Refund - $3176.12
+Account 967286 - C1120 - Branch: Louisiana Branch - 2025-11-11 - Card Purchase - $10640.96
+Account 326164 - C520 - Branch: Pennsylvania Branch - 2024-11-02 - POS - $1936.61
+Account 575631 - C606 - Branch: North Carolina Branch - 2025-05-04 - Deposit - $15438.25
+Account 370379 - C174 - Branch: Michigan Branch - 2025-10-09 - Transfer - $4.05
+Account 563306 - C871 - Branch: Alabama Branch - 2024-07-12 - Withdrawal - $11217.7
+Account 303961 - C640 - Branch: North Carolina Branch - 2024-12-07 - Payment - $15317.13
+Account 865797 - C449 - Branch: New York Branch - 2025-11-23 - ATM - $15856.01
+Account 805340 - C1342 - Branch: Florida Branch - 2024-10-05 - Fee - $8106.11
+Account 169096 - C1471 - Branch: Florida Branch - 2025-08-21 - Card Purchase - $15842.33
+Account 219878 - C448 - Branch: Iowa Branch - 2024-02-22 - Payment - $19777.02
+Account 592093 - C243 - Branch: Wisconsin Branch - 2025-03-10 - Card Purchase - $8834.98
+Account 347721 - C673 - Branch: Kansas Branch - 2025-08-11 - Online - $12806.93
+Account 243790 - C1986 - Branch: North Dakota Branch - 2024-02-14 - Card Purchase - $14724.27
+Account 514716 - C1009 - Branch: Tennessee Branch - 2024-06-23 - Online - $3111.16
+Account 951588 - C529 - Branch: Texas Branch - 2024-02-22 - Withdrawal - $4334.15
+Account 693164 - C149 - Branch: Utah Branch - 2024-06-14 - Transfer - $10572.97
+Account 819706 - C123 - Branch: Michigan Branch - 2024-03-23 - Transfer - $7240.72
+Account 817894 - C969 - Branch: Arizona Branch - 2025-01-03 - Online - $12215.12
+Account 169870 - C1363 - Branch: Colorado Branch - 2025-07-24 - Transfer - $3217.06
+Account 602286 - C825 - Branch: Colorado Branch - 2024-05-26 - Online - $5205.68
+Account 392239 - C638 - Branch: Wyoming Branch - 2024-05-25 - Payment - $15038.14
+Account 839122 - C644 - Branch: Wyoming Branch - 2024-03-27 - Payment - $7389.46
+Account 357196 - C426 - Branch: Georgia Branch - 2024-09-22 - Online - $18477.35
+Account 166989 - C1611 - Branch: New Mexico Branch - 2025-01-26 - ATM - $10088.03
+Account 610831 - C1102 - Branch: Oklahoma Branch - 2024-11-19 - Withdrawal - $6677.47
+Account 384316 - C1801 - Branch: Tennessee Branch - 2025-05-01 - Withdrawal - $16311.61
+Account 346478 - C1229 - Branch: Connecticut Branch - 2024-01-09 - Transfer - $2382.63
+Account 645063 - C754 - Branch: Nebraska Branch - 2025-03-05 - Card Purchase - $-374.96
+Account 308045 - C52 - Branch: Arizona Branch - 2025-01-07 - Deposit - $7502.71
+Account 439602 - C1058 - Branch: Connecticut Branch - 2024-11-14 - Transfer - $17085.23
+Account 752568 - C216 - Branch: Illinois Branch - 2025-05-08 - Online - $15897.27
+Account 865147 - C355 - Branch: New York Branch - 2024-01-04 - Deposit - $9638.44
+Account 825797 - C127 - Branch: Wisconsin Branch - 2024-08-06 - Refund - $15137.26
+Account 917090 - C1378 - Branch: Kentucky Branch - 2024-01-30 - Fee - $19039.02
+Account 569801 - C214 - Branch: Maryland Branch - 2025-01-15 - Payment - $6853.35
+Account 183213 - C329 - Branch: Arizona Branch - 2025-09-17 - POS - $1600.52
+Account 187108 - C1383 - Branch: Connecticut Branch - 2025-03-30 - Online - $3331.53
+Account 454441 - C1586 - Branch: Michigan Branch - 2025-09-25 - Refund - $15021.48
+Account 333720 - C1093 - Branch: South Carolina Branch - 2024-05-17 - Withdrawal - $11168.13
+Account 390769 - C1534 - Branch: Vermont Branch - 2025-05-01 - POS - $18235.84
+Account 991003 - C1316 - Branch: Arkansas Branch - 2025-08-26 - Online - $6463.44
+Account 364719 - C936 - Branch: Michigan Branch - 2025-04-14 - POS - $19810.45
+Account 679472 - C230 - Branch: West Virginia Branch - 2025-03-03 - Transfer - $14775.4
+Account 577855 - C1931 - Branch: Washington Branch - 2025-08-21 - Online - $5900.73
+Account 257616 - C1864 - Branch: Louisiana Branch - 2025-06-30 - Refund - $17385.11
+Account 496006 - C182 - Branch: Indiana Branch - 2025-09-21 - ATM - $11578.1
+Account 980510 - C41 - Branch: New Mexico Branch - 2024-01-22 - ATM - $11411.62
+Account 329245 - C1550 - Branch: Maryland Branch - 2024-01-07 - Transfer - $2442.49
+Account 239642 - C1129 - Branch: Rhode Island Branch - 2024-09-03 - Transfer - $7999.55
+Account 463490 - C428 - Branch: New Mexico Branch - 2025-09-28 - Card Purchase - $18387.29
+Account 379832 - C694 - Branch: Missouri Branch - 2024-05-09 - POS - $8018.16
+Account 884263 - C1852 - Branch: New Hampshire Branch - 2025-08-24 - Transfer - $3872.81
+Account 667777 - C1384 - Branch: Louisiana Branch - 2024-05-31 - POS - $6342.11
+Account 517496 - C496 - Branch: Alabama Branch - 2024-10-23 - Transfer - $17540.98
+Account 514000 - C389 - Branch: Oklahoma Branch - 2024-09-29 - Withdrawal - $17722.24
+Account 865309 - C470 - Branch: Wyoming Branch - 2025-05-29 - Refund - $9236.94
+Account 340313 - C1907 - Branch: Wyoming Branch - 2024-09-09 - POS - $9733.14
+Account 369297 - C1115 - Branch: Nevada Branch - 2025-04-12 - Payment - $7764.74
+Account 407958 - C1039 - Branch: Nebraska Branch - 2025-10-07 - Refund - $4890.71
+Account 627477 - C772 - Branch: Arkansas Branch - 2024-03-15 - Refund - $4941.35
+Account 960866 - C1475 - Branch: West Virginia Branch - 2024-01-28 - POS - $14833.97
+Account 527530 - C1782 - Branch: Mississippi Branch - 2024-02-19 - Refund - $1200.06
+Account 942363 - C1067 - Branch: Maryland Branch - 2024-06-14 - Withdrawal - $19797.34
+Account 918433 - C1576 - Branch: Texas Branch - 2025-07-05 - Refund - $15693.21
+Account 353914 - C986 - Branch: Maine Branch - 2024-09-18 - Deposit - $12784.06
+Account 150739 - C1929 - Branch: Montana Branch - 2025-04-10 - POS - $10266.85
+Account 183141 - C1230 - Branch: Mississippi Branch - 2025-01-10 - POS - $5393.91
+Account 214928 - C1939 - Branch: New Hampshire Branch - 2024-12-28 - Fee - $13422.39
+Account 753503 - C429 - Branch: New Jersey Branch - 2025-01-25 - Card Purchase - $19144.58
+Account 245590 - C331 - Branch: Oregon Branch - 2024-08-09 - Online - $19889.98
+Account 500161 - C655 - Branch: Tennessee Branch - 2025-11-03 - ATM - $2476.41
+Account 605759 - C896 - Branch: Connecticut Branch - 2024-11-24 - Withdrawal - $8992.95
+Account 711018 - C463 - Branch: Arizona Branch - 2024-05-30 - Card Purchase - $5916.81
+Account 395302 - C1313 - Branch: Kansas Branch - 2025-11-04 - ATM - $6350.89
+Account 975936 - C1931 - Branch: Georgia Branch - 2024-06-17 - POS - $6274.03
+Account 144890 - C1955 - Branch: Idaho Branch - 2025-04-07 - Payment - $9939.5
+Account 713340 - C1724 - Branch: Tennessee Branch - 2025-04-25 - Payment - $19675.39
+Account 323869 - C1231 - Branch: Kentucky Branch - 2024-03-26 - Online - $1678.7
+Account 605530 - C1679 - Branch: Missouri Branch - 2024-03-22 - POS - $4337.35
+Account 395302 - C1313 - Branch: Colorado Branch - 2025-12-05 - Payment - $2465.3
+Account 947455 - C509 - Branch: Virginia Branch - 2024-10-31 - Deposit - $14554.28
+Account 375830 - C1036 - Branch: Ohio Branch - 2024-12-25 - Refund - $15013.44
+Account 105584 - C217 - Branch: Colorado Branch - 2024-11-07 - Fee - $14049.72
+Account 803805 - C881 - Branch: Nevada Branch - 2024-10-18 - Transfer - $6500.66
+Account 901986 - C1193 - Branch: Idaho Branch - 2025-08-19 - Online - $8670.47
+Account 265322 - C966 - Branch: New Jersey Branch - 2024-06-11 - POS - $11917.1
+Account 823680 - C1594 - Branch: Kentucky Branch - 2024-07-20 - Withdrawal - $628.51
+Account 384291 - C1840 - Branch: New Jersey Branch - 2024-09-01 - Payment - $7935.75
+Account 270478 - C1602 - Branch: Wyoming Branch - 2024-11-13 - Transfer - $3414.85
+Account 137509 - C523 - Branch: Rhode Island Branch - 2024-07-19 - Card Purchase - $2956.9
+Account 515605 - C525 - Branch: Maryland Branch - 2024-12-31 - Card Purchase - $6901.67
+Account 533457 - C727 - Branch: Indiana Branch - 2024-01-26 - Card Purchase - $-176.28
+Account 990453 - C828 - Branch: New Mexico Branch - 2025-05-22 - Payment - $14719.76
+Account 820571 - C1585 - Branch: Nevada Branch - 2024-09-05 - Transfer - $9799.06
+Account 900591 - C1487 - Branch: New York Branch - 2024-10-02 - POS - $3277.27
+Account 198700 - C35 - Branch: Louisiana Branch - 2024-02-27 - POS - $-476.05
+Account 438783 - C1651 - Branch: Ohio Branch - 2024-08-13 - Card Purchase - $4795.55
+Account 374787 - C204 - Branch: North Dakota Branch - 2025-12-24 - Payment - $4038.63
+Account 928108 - C1451 - Branch: Wyoming Branch - 2025-12-23 - Deposit - $5448.42
+Account 523079 - C251 - Branch: Michigan Branch - 2025-07-17 - Payment - $15123.01
+Account 665950 - C603 - Branch: Arkansas Branch - 2025-01-05 - Transfer - $4247.27
+Account 324550 - C1436 - Branch: Tennessee Branch - 2025-09-24 - POS - $7763.97
+Account 899282 - C1770 - Branch: Connecticut Branch - 2024-09-09 - Transfer - $4547.9
+Account 904691 - C82 - Branch: Kentucky Branch - 2025-05-07 - Fee - $1955.25
+Account 536133 - C1209 - Branch: Pennsylvania Branch - 2025-05-03 - Withdrawal - $19386.35
+Account 861844 - C1104 - Branch: West Virginia Branch - 2024-07-14 - ATM - $1640.39
+Account 850385 - C1375 - Branch: Missouri Branch - 2025-03-10 - POS - $5809.11
+Account 436485 - C446 - Branch: Rhode Island Branch - 2024-01-15 - Transfer - $3201.2
+Account 387018 - C167 - Branch: Idaho Branch - 2025-04-22 - Payment - $18670.14
+Account 260448 - C1534 - Branch: Arkansas Branch - 2024-06-19 - Transfer - $5679.93
+Account 657233 - C1416 - Branch: Arkansas Branch - 2024-10-15 - Withdrawal - $277.44
+Account 516564 - C1670 - Branch: Rhode Island Branch - 2025-11-11 - Transfer - $-399.96
+Account 533099 - C328 - Branch: Georgia Branch - 2024-01-29 - Online - $12088.49
+Account 198700 - C35 - Branch: Minnesota Branch - 2025-02-09 - Refund - $14676.55
+Account 644081 - C1083 - Branch: North Carolina Branch - 2025-10-28 - Online - $1825.91
+Account 650193 - C1088 - Branch: Colorado Branch - 2024-06-14 - Withdrawal - $17677.14
+Account 998180 - C1707 - Branch: North Carolina Branch - 2025-04-02 - POS - $13067.77
+Account 282646 - C135 - Branch: Nebraska Branch - 2024-04-01 - POS - $16639.48
+Account 722258 - C39 - Branch: Iowa Branch - 2024-10-06 - POS - $14564.29
+Account 400851 - C50 - Branch: Colorado Branch - 2024-03-15 - Online - $1358.35
+Account 508547 - C1599 - Branch: Missouri Branch - 2025-02-05 - Deposit - $12809.74
+Account 115318 - C109 - Branch: New Jersey Branch - 2024-12-03 - Online - $9487.45
+Account 867290 - C168 - Branch: Texas Branch - 2025-09-15 - Payment - $3600.24
+Account 425677 - C782 - Branch: Connecticut Branch - 2025-05-09 - Refund - $13555.65
+Account 991003 - C1316 - Branch: Georgia Branch - 2024-01-01 - Withdrawal - $4543.81
+Account 749330 - C1565 - Branch: Missouri Branch - 2025-03-24 - ATM - $16852.49
+Account 215201 - C93 - Branch: Michigan Branch - 2025-12-13 - Fee - $506.39
+Account 137509 - C523 - Branch: Oregon Branch - 2024-10-06 - Fee - $-402.05
+Account 183383 - C352 - Branch: Iowa Branch - 2025-07-06 - Card Purchase - $8689.18
+Account 842841 - C570 - Branch: Texas Branch - 2024-12-25 - Fee - $14764.24
+Account 340204 - C1663 - Branch: California Branch - 2025-12-28 - Transfer - $1282.78
+Account 471684 - C1563 - Branch: Wyoming Branch - 2024-04-07 - Card Purchase - $10465.37
+Account 855270 - C1804 - Branch: South Dakota Branch - 2024-01-07 - ATM - $2051.78
+Account 438924 - C1379 - Branch: North Dakota Branch - 2024-03-11 - Withdrawal - $10130.06
+Account 964547 - C1491 - Branch: New York Branch - 2025-09-27 - Payment - $10691.91
+Account 672312 - C1857 - Branch: Washington Branch - 2025-04-13 - ATM - $10722.61
+Account 496043 - C417 - Branch: Hawaii Branch - 2025-12-16 - Fee - $1252.07
+Account 605469 - C813 - Branch: North Dakota Branch - 2024-03-31 - Fee - $-371.23
+Account 482671 - C480 - Branch: Arkansas Branch - 2024-08-04 - Card Purchase - $9916.77
+Account 575647 - C125 - Branch: Washington Branch - 2025-09-29 - Withdrawal - $8656.46
+Account 990491 - C1376 - Branch: Nebraska Branch - 2025-02-14 - Transfer - $14490.08
+Account 569357 - C1003 - Branch: Maine Branch - 2024-09-06 - Transfer - $10789.86
+Account 801337 - C246 - Branch: Wyoming Branch - 2024-07-18 - POS - $15726.32
+Account 917030 - C1675 - Branch: Rhode Island Branch - 2025-02-26 - ATM - $4345.65
+Account 627215 - C1203 - Branch: Alaska Branch - 2025-12-28 - POS - $3490.85
+Account 873169 - C920 - Branch: Minnesota Branch - 2025-11-07 - Payment - $19273.08
+Account 401930 - C1562 - Branch: Iowa Branch - 2024-10-25 - Fee - $18967.28
+Account 193172 - C1300 - Branch: Oklahoma Branch - 2024-08-15 - POS - $14092.42
+Account 754198 - C1956 - Branch: Montana Branch - 2024-02-28 - Payment - $14383.45
+Account 359457 - C1445 - Branch: Florida Branch - 2025-04-09 - Refund - $4286.8
+Account 475920 - C196 - Branch: Wisconsin Branch - 2025-04-25 - POS - $6259.6
+Account 934303 - C900 - Branch: West Virginia Branch - 2024-12-19 - Deposit - $18707.71
+Account 530305 - C538 - Branch: California Branch - 2025-07-31 - Transfer - $6816.37
+Account 974167 - C1775 - Branch: Ohio Branch - 2025-06-26 - Deposit - $3910.65
+Account 496006 - C182 - Branch: Nebraska Branch - 2024-08-01 - Transfer - $12400.98
+Account 697356 - C1743 - Branch: Arizona Branch - 2024-12-03 - Card Purchase - $8140.16
+Account 747263 - C181 - Branch: Delaware Branch - 2024-02-07 - Online - $3515.98
+Account 145474 - C1966 - Branch: Georgia Branch - 2025-11-11 - Payment - $11847.49
+Account 217023 - C1485 - Branch: Mississippi Branch - 2025-12-08 - Payment - $12856.35
+Account 747263 - C181 - Branch: Mississippi Branch - 2024-04-28 - Online - $7212.73
+Account 884263 - C1852 - Branch: Pennsylvania Branch - 2025-09-14 - Online - $909.43
+Account 581189 - C1256 - Branch: Massachusetts Branch - 2025-10-19 - Deposit - $6762.77
+Account 762751 - C1301 - Branch: North Dakota Branch - 2024-04-12 - ATM - $1530.71
+Account 765322 - C621 - Branch: Pennsylvania Branch - 2025-10-17 - ATM - $4290.84
+Account 855270 - C1804 - Branch: Kansas Branch - 2025-12-13 - Deposit - $158.32
+Account 924396 - C413 - Branch: Iowa Branch - 2024-11-21 - Card Purchase - $3991.8
+Account 998180 - C1707 - Branch: New Hampshire Branch - 2024-11-28 - POS - $7295.51
+Account 352092 - C1460 - Branch: Kansas Branch - 2025-03-30 - Card Purchase - $11883.86
+Account 951332 - C1295 - Branch: Virginia Branch - 2025-12-30 - Transfer - $13431.84
+Account 307090 - C1023 - Branch: Iowa Branch - 2025-12-09 - Deposit - $14389.61
+Account 120054 - C938 - Branch: Rhode Island Branch - 2025-04-21 - POS - $9457.95
+Account 179627 - C932 - Branch: Vermont Branch - 2024-09-11 - Refund - $15644.58
+Account 971062 - C79 - Branch: Hawaii Branch - 2025-10-01 - Online - $15771.69
+Account 146725 - C663 - Branch: Idaho Branch - 2024-06-10 - Refund - $13742.52
+Account 434117 - C1551 - Branch: Ohio Branch - 2025-07-14 - Deposit - $16442.45
+Account 809251 - C1912 - Branch: Vermont Branch - 2025-01-15 - Fee - $19010.4
+Account 678856 - C1845 - Branch: New Hampshire Branch - 2025-09-14 - Deposit - $11104.93
+Account 105379 - C92 - Branch: Tennessee Branch - 2024-02-05 - Deposit - $5499.91
+Account 450838 - C751 - Branch: Arizona Branch - 2025-08-15 - POS - $16005.25
+Account 659991 - C1669 - Branch: North Dakota Branch - 2024-12-07 - ATM - $13020.63
+Account 219558 - C140 - Branch: Rhode Island Branch - 2025-05-18 - ATM - $4065.28
+Account 314620 - C484 - Branch: Wyoming Branch - 2024-01-08 - Payment - $8772.32
+Account 165636 - C1616 - Branch: Florida Branch - 2025-06-28 - Fee - $14691.2
+Account 315543 - C854 - Branch: Arkansas Branch - 2024-07-07 - Withdrawal - $6508.75
+Account 702844 - C1886 - Branch: Ohio Branch - 2024-07-30 - POS - $5799.24
+Account 585980 - C1448 - Branch: Michigan Branch - 2025-10-11 - POS - $15553.22
+Account 662021 - C369 - Branch: Washington Branch - 2025-06-12 - ATM - $11170.81
+Account 555359 - C625 - Branch: Missouri Branch - 2024-04-07 - Fee - $10492.04
+Account 746307 - C1632 - Branch: Utah Branch - 2024-03-04 - Transfer - $5646.39
+Account 298995 - C1414 - Branch: South Dakota Branch - 2024-05-02 - ATM - $7796.43
+Account 210161 - C768 - Branch: Georgia Branch - 2025-02-10 - Fee - $-334.07
+Account 326844 - C1128 - Branch: Wisconsin Branch - 2024-11-27 - Card Purchase - $15571.72
+Account 462352 - C1982 - Branch: Nevada Branch - 2025-06-17 - Payment - $5992.02
+Account 221940 - C357 - Branch: Missouri Branch - 2025-09-04 - Refund - $4058.88
+Account 655185 - C1208 - Branch: Pennsylvania Branch - 2024-04-04 - Transfer - $351.18
+Account 279046 - C395 - Branch: Oregon Branch - 2025-03-29 - Deposit - $3657.62
+Account 130717 - C370 - Branch: Indiana Branch - 2025-02-24 - Refund - $6168.96
+Account 806853 - C1547 - Branch: Tennessee Branch - 2024-08-25 - Withdrawal - $-110.24
+Account 538540 - C964 - Branch: Vermont Branch - 2025-11-04 - Fee - $18476.07
+Account 828715 - C1538 - Branch: New York Branch - 2025-05-28 - POS - $16509.75
+Account 318036 - C961 - Branch: Arizona Branch - 2025-04-19 - POS - $7404.71
+Account 191429 - C231 - Branch: Colorado Branch - 2024-09-03 - Card Purchase - $2719.89
+Account 838022 - C955 - Branch: Massachusetts Branch - 2024-10-13 - Fee - $7222.57
+Account 825635 - C564 - Branch: Idaho Branch - 2025-07-29 - Online - $8804.94
+Account 775098 - C893 - Branch: Maryland Branch - 2025-07-30 - Fee - $12486.08
+Account 313770 - C1029 - Branch: Missouri Branch - 2025-10-12 - ATM - $2080.99
+Account 251931 - C63 - Branch: Virginia Branch - 2024-03-12 - ATM - $18047.02
+Account 814906 - C1773 - Branch: Louisiana Branch - 2024-06-12 - Online - $7285.67
+Account 183261 - C1512 - Branch: Tennessee Branch - 2024-03-16 - Online - $19845.71
+Account 628340 - C631 - Branch: Montana Branch - 2025-08-20 - Refund - $4317.11
+Account 995775 - C1479 - Branch: Kentucky Branch - 2025-11-29 - Refund - $6641.42
+Account 177570 - C1270 - Branch: Rhode Island Branch - 2025-04-14 - ATM - $17643.29
+Account 662185 - C1121 - Branch: New Jersey Branch - 2024-05-30 - Deposit - $10876.85
+Account 961502 - C84 - Branch: Kentucky Branch - 2025-11-20 - Transfer - $19148.42
+Account 984577 - C865 - Branch: Montana Branch - 2024-11-25 - Fee - $4380.94
+Account 289737 - C66 - Branch: Kansas Branch - 2024-07-24 - Deposit - $2950.56
+Account 927509 - C1409 - Branch: Montana Branch - 2025-12-30 - Payment - $14372.94
+Account 933814 - C412 - Branch: Tennessee Branch - 2025-03-16 - Online - $6224.5
+Account 761341 - C1140 - Branch: Wisconsin Branch - 2024-07-07 - Transfer - $12522.83
+Account 887619 - C1145 - Branch: Texas Branch - 2024-03-15 - Online - $8057.54
+Account 536133 - C1209 - Branch: Florida Branch - 2024-01-24 - Refund - $14536.31
+Account 729682 - C958 - Branch: Florida Branch - 2024-08-14 - Payment - $4326.06
+Account 122123 - C261 - Branch: Maine Branch - 2024-01-02 - ATM - $19548.65
+Account 845689 - C352 - Branch: Georgia Branch - 2024-03-09 - Transfer - $7148.69
+Account 439580 - C16 - Branch: Idaho Branch - 2025-03-05 - Transfer - $17578.14
+Account 427872 - C652 - Branch: Montana Branch - 2024-04-20 - Withdrawal - $16723.58
+Account 167973 - C1337 - Branch: Mississippi Branch - 2024-01-09 - Card Purchase - $1746.92
+Account 983759 - C58 - Branch: Indiana Branch - 2025-01-12 - Fee - $2329.17
+Account 407779 - C545 - Branch: North Carolina Branch - 2025-04-09 - Deposit - $7839.26
+Account 963895 - C740 - Branch: Nebraska Branch - 2025-09-13 - Card Purchase - $8495.79
+Account 997865 - C563 - Branch: Idaho Branch - 2025-09-28 - Online - $6231.94
+Account 910363 - C438 - Branch: Louisiana Branch - 2025-11-09 - Online - $13000.64
+Account 946700 - C1643 - Branch: Texas Branch - 2024-04-24 - POS - $19221.67
+Account 214309 - C993 - Branch: Missouri Branch - 2024-03-21 - ATM - $14944.69
+Account 645556 - C962 - Branch: Kansas Branch - 2025-03-21 - Card Purchase - $17833.35
+Account 576603 - C551 - Branch: Connecticut Branch - 2024-02-28 - Fee - $19655.03
+Account 886649 - C117 - Branch: Tennessee Branch - 2025-10-21 - Fee - $12026.01
+Account 131206 - C1861 - Branch: South Dakota Branch - 2025-11-29 - Fee - $18016.2
+Account 566759 - C1344 - Branch: West Virginia Branch - 2024-09-16 - Card Purchase - $14007.84
+Account 992126 - C898 - Branch: Utah Branch - 2025-10-26 - Refund - $4951.09
+Account 379874 - C1227 - Branch: Alabama Branch - 2024-04-27 - Online - $4240.23
+Account 943310 - C1957 - Branch: Idaho Branch - 2024-10-12 - Payment - $2691.39
+Account 656555 - C682 - Branch: New York Branch - 2025-12-13 - Fee - $12125.69
+Account 413532 - C175 - Branch: Louisiana Branch - 2024-04-27 - Card Purchase - $11270.43
+Account 188558 - C1233 - Branch: Washington Branch - 2024-12-26 - ATM - $16063.4
+Account 420546 - C1975 - Branch: South Dakota Branch - 2025-05-07 - Card Purchase - $17775.06
+Account 581189 - C1256 - Branch: West Virginia Branch - 2025-12-06 - ATM - $1878.69
+Account 799799 - C967 - Branch: Indiana Branch - 2025-06-10 - ATM - $10945.19
+Account 256540 - C891 - Branch: Connecticut Branch - 2025-09-14 - Payment - $6223.97
+Account 605312 - C1718 - Branch: Kentucky Branch - 2024-07-06 - Fee - $9710.52
+Account 398291 - C946 - Branch: Maryland Branch - 2024-03-13 - Payment - $15263.4
+Account 973443 - C1362 - Branch: Kentucky Branch - 2025-05-07 - POS - $4332.77
+Account 489682 - C1873 - Branch: New Mexico Branch - 2025-04-04 - Withdrawal - $3980.05
+Account 243580 - C86 - Branch: Nevada Branch - 2025-04-21 - Deposit - $17125.15
+Account 397145 - C293 - Branch: North Dakota Branch - 2024-05-05 - ATM - $9611.81
+Account 620805 - C1579 - Branch: Missouri Branch - 2025-11-02 - POS - $15734.09
+Account 783283 - C1495 - Branch: Maryland Branch - 2024-08-16 - Deposit - $6451.22
+Account 131006 - C354 - Branch: West Virginia Branch - 2025-04-17 - Card Purchase - $19052.62
+Account 611350 - C672 - Branch: Utah Branch - 2024-06-24 - Card Purchase - $1073.83
+Account 258164 - C1652 - Branch: Mississippi Branch - 2024-09-12 - Online - $15380.09
+Account 239088 - C850 - Branch: Michigan Branch - 2024-09-19 - Card Purchase - $8531.46
+Account 183496 - C1745 - Branch: Nebraska Branch - 2025-02-22 - POS - $12984.04
+Account 883158 - C1665 - Branch: North Carolina Branch - 2024-07-01 - Card Purchase - $766.66
+Account 776533 - C83 - Branch: Indiana Branch - 2024-12-01 - Fee - $5035.21
+Account 949517 - C1334 - Branch: New York Branch - 2024-08-25 - Deposit - $1774.47
+Account 788309 - C1687 - Branch: North Dakota Branch - 2024-02-27 - POS - $19222.05
+Account 753695 - C1398 - Branch: Rhode Island Branch - 2025-01-14 - Online - $10774.13
+Account 153110 - C401 - Branch: Kentucky Branch - 2024-12-02 - Deposit - $10638.71
+Account 239088 - C850 - Branch: Delaware Branch - 2024-12-05 - Deposit - $8969.84
+Account 704641 - C406 - Branch: Massachusetts Branch - 2025-09-08 - Refund - $5800.62
+Account 898384 - C508 - Branch: New Mexico Branch - 2024-05-25 - Deposit - $12864.91
+Account 526882 - C901 - Branch: Virginia Branch - 2024-05-21 - Transfer - $9380.43
+Account 949517 - C1334 - Branch: Delaware Branch - 2025-01-27 - Deposit - $3068.98
+Account 850980 - C1649 - Branch: Missouri Branch - 2025-12-28 - Fee - $13331.93
+Account 705858 - C46 - Branch: Washington Branch - 2025-04-25 - Payment - $18061.21
+Account 260448 - C1534 - Branch: Hawaii Branch - 2025-11-13 - Fee - $19731.99
+Account 929069 - C504 - Branch: Nevada Branch - 2025-09-23 - Refund - $12848.41
+Account 568978 - C843 - Branch: Missouri Branch - 2024-01-10 - Withdrawal - $11251.85
+Account 959152 - C943 - Branch: Massachusetts Branch - 2025-08-13 - ATM - $3805.34
+Account 577565 - C1823 - Branch: Alaska Branch - 2024-01-01 - Deposit - $12430.58
+Account 608501 - C1415 - Branch: Hawaii Branch - 2024-11-27 - Transfer - $12043.19
+Account 222492 - C284 - Branch: South Dakota Branch - 2025-06-02 - POS - $16612.32
+Account 798765 - C849 - Branch: South Dakota Branch - 2024-11-27 - Refund - $7306.32
+Account 648682 - C1181 - Branch: Missouri Branch - 2024-06-28 - POS - $17595.94
+Account 839690 - C1206 - Branch: Vermont Branch - 2024-11-14 - ATM - $3308.5
+Account 108715 - C1999 - Branch: South Carolina Branch - 2024-05-29 - Payment - $16468.89
+Account 987676 - C1480 - Branch: Oregon Branch - 2025-05-24 - Deposit - $3332.15
+Account 847110 - C793 - Branch: South Dakota Branch - 2024-07-18 - Deposit - $18004.68
+Account 777123 - C1228 - Branch: Idaho Branch - 2024-01-30 - Transfer - $1115.5
+Account 883547 - C1387 - Branch: Oklahoma Branch - 2025-05-20 - Transfer - $13684.28
+Account 272249 - C818 - Branch: Florida Branch - 2024-08-10 - Withdrawal - $4709.4
+Account 415735 - C923 - Branch: Oregon Branch - 2024-01-31 - Online - $18380.62
+Account 856069 - C505 - Branch: Michigan Branch - 2024-11-28 - Transfer - $11015.51
+Account 860505 - C630 - Branch: Arizona Branch - 2025-09-04 - Transfer - $16932.09
+Account 298597 - C1459 - Branch: Nebraska Branch - 2025-06-09 - POS - $2616.52
+Account 802297 - C1564 - Branch: Colorado Branch - 2025-09-25 - Card Purchase - $16818.43
+Account 938916 - C774 - Branch: Arizona Branch - 2024-07-30 - POS - $3400.49
+Account 813950 - C659 - Branch: Oklahoma Branch - 2024-03-22 - Withdrawal - $11220.94
+Account 179357 - C96 - Branch: South Carolina Branch - 2024-10-27 - ATM - $4333.33
+Account 785743 - C30 - Branch: Wisconsin Branch - 2025-09-21 - Online - $19747.94
+Account 608831 - C522 - Branch: Idaho Branch - 2024-10-02 - Fee - $3615.68
+Account 364181 - C1144 - Branch: Hawaii Branch - 2024-03-17 - ATM - $17108.4
+Account 144755 - C1521 - Branch: South Carolina Branch - 2024-06-01 - Payment - $905.95
+Account 128152 - C701 - Branch: Utah Branch - 2025-05-17 - Online - $10464.04
+Account 965432 - C1322 - Branch: Virginia Branch - 2025-04-13 - Withdrawal - $19370.11
+Account 185226 - C837 - Branch: Delaware Branch - 2025-01-16 - Online - $19239.18
+Account 627381 - C1683 - Branch: Maryland Branch - 2024-03-27 - Card Purchase - $14325.79
+Account 854401 - C815 - Branch: Pennsylvania Branch - 2024-10-04 - POS - $538.04
+Account 101957 - C743 - Branch: North Dakota Branch - 2024-12-26 - Refund - $13237.78
+Account 976248 - C450 - Branch: Rhode Island Branch - 2024-08-07 - Withdrawal - $2685.76
+Account 771794 - C181 - Branch: Connecticut Branch - 2024-01-24 - Transfer - $9701.65
+Account 442036 - C1572 - Branch: Florida Branch - 2025-01-31 - Refund - $2017.92
+Account 566831 - C1266 - Branch: Idaho Branch - 2025-07-21 - POS - $1030.33
+Account 281090 - C1251 - Branch: Indiana Branch - 2025-07-21 - Deposit - $9921.11
+Account 158894 - C299 - Branch: Kansas Branch - 2024-01-20 - ATM - $19195.2
+Account 247309 - C1214 - Branch: Oregon Branch - 2025-08-25 - POS - $8887.93
+Account 605759 - C896 - Branch: West Virginia Branch - 2025-11-21 - Refund - $13325.93
+Account 978214 - C226 - Branch: Illinois Branch - 2025-08-29 - Card Purchase - $7661.73
+Account 288975 - C13 - Branch: Florida Branch - 2025-02-14 - Online - $5964.26
+Account 508412 - C1607 - Branch: North Carolina Branch - 2025-10-20 - Payment - $14600.92
+Account 753966 - C1928 - Branch: Michigan Branch - 2025-09-30 - ATM - $16444.05
+Account 801925 - C726 - Branch: Maryland Branch - 2024-04-03 - Fee - $18139.53
+Account 371515 - C1672 - Branch: Oregon Branch - 2024-07-29 - Card Purchase - $12147.93
+Account 630525 - C1834 - Branch: Oregon Branch - 2025-03-20 - Deposit - $12219.14
+Account 644949 - C232 - Branch: Wisconsin Branch - 2025-04-05 - Withdrawal - $15556.13
+Account 842750 - C431 - Branch: Missouri Branch - 2025-01-02 - Online - $17525.52
+Account 201746 - C991 - Branch: Nevada Branch - 2024-10-16 - Withdrawal - $17556.68
+Account 220776 - C1165 - Branch: Michigan Branch - 2025-04-14 - Fee - $922.81
+Account 928108 - C1451 - Branch: North Dakota Branch - 2025-02-11 - Deposit - $14663.68
+Account 786477 - C981 - Branch: Minnesota Branch - 2024-03-05 - Payment - $17620.09
+Account 624572 - C642 - Branch: Utah Branch - 2025-01-24 - Payment - $4266.07
+Account 659902 - C119 - Branch: New Jersey Branch - 2025-11-08 - Online - $4715.18
+Account 401930 - C1562 - Branch: Hawaii Branch - 2025-12-29 - Fee - $1286.4
+Account 531411 - C1453 - Branch: Hawaii Branch - 2025-11-10 - Card Purchase - $17788.4
+Account 609933 - C1106 - Branch: West Virginia Branch - 2024-07-18 - POS - $16679.51
+Account 165280 - C694 - Branch: Nebraska Branch - 2025-01-03 - Payment - $2117.56
+Account 740103 - C1012 - Branch: Oregon Branch - 2025-03-12 - Fee - $17652.26
+Account 700906 - C206 - Branch: Montana Branch - 2024-08-07 - POS - $13370.92
+Account 181618 - C1250 - Branch: Pennsylvania Branch - 2025-10-08 - Transfer - $1045.08
+Account 452080 - C338 - Branch: Oklahoma Branch - 2024-03-03 - Deposit - $16819.67
+Account 833495 - C1186 - Branch: Tennessee Branch - 2024-07-16 - Fee - $6912.5
+Account 221677 - C1279 - Branch: South Dakota Branch - 2025-01-30 - ATM - $149.38
+Account 550100 - C163 - Branch: New Jersey Branch - 2025-08-21 - Deposit - $15024.69
+Account 613056 - C1215 - Branch: Delaware Branch - 2025-01-13 - Fee - $18877.81
+Account 758622 - C269 - Branch: Georgia Branch - 2024-08-05 - Transfer - $6831.69
+Account 240230 - C100 - Branch: Kansas Branch - 2025-01-31 - ATM - $11988.23
+Account 417639 - C1381 - Branch: Pennsylvania Branch - 2025-11-13 - Card Purchase - $2123.75
+Account 308514 - C1103 - Branch: Nebraska Branch - 2024-01-06 - POS - $19674.45
+Account 571687 - C506 - Branch: Maryland Branch - 2025-10-14 - Withdrawal - $2787.43
+Account 638737 - C695 - Branch: Connecticut Branch - 2024-12-05 - Card Purchase - $11448.92
+Account 416805 - C1881 - Branch: Kentucky Branch - 2025-05-11 - Withdrawal - $8660.29
+Account 839276 - C553 - Branch: Kentucky Branch - 2024-10-17 - Payment - $15956.38
+Account 171382 - C28 - Branch: Kansas Branch - 2024-07-04 - Payment - $7545.63
+Account 572625 - C1586 - Branch: Mississippi Branch - 2024-12-09 - POS - $5546.16
+Account 777592 - C1807 - Branch: Missouri Branch - 2025-10-29 - Payment - $6864.21
+Account 592644 - C5 - Branch: Pennsylvania Branch - 2025-04-23 - Payment - $6073.41
+Account 119208 - C1496 - Branch: South Carolina Branch - 2025-11-26 - Withdrawal - $5166.91
+Account 524648 - C109 - Branch: North Carolina Branch - 2025-03-10 - ATM - $10205.05
+Account 386360 - C193 - Branch: Washington Branch - 2025-11-21 - ATM - $12364.36
+Account 587892 - C104 - Branch: Wisconsin Branch - 2025-03-17 - POS - $3571.25
+Account 762595 - C19 - Branch: Georgia Branch - 2024-11-27 - Withdrawal - $9983.9
+Account 583318 - C1688 - Branch: Oklahoma Branch - 2024-11-17 - Transfer - $9272.58
+Account 120695 - C1210 - Branch: North Dakota Branch - 2024-03-11 - Card Purchase - $7803.85
+Account 406128 - C491 - Branch: Maine Branch - 2025-06-20 - Withdrawal - $3616.3
+Account 285356 - C1883 - Branch: Illinois Branch - 2025-01-26 - Withdrawal - $9970.99
+Account 479408 - C933 - Branch: South Dakota Branch - 2025-04-07 - Transfer - $17422.65
+Account 790216 - C1593 - Branch: Alabama Branch - 2024-05-12 - ATM - $6120.41
+Account 889838 - C1403 - Branch: Wisconsin Branch - 2024-07-20 - Online - $-245.2
+Account 156817 - C1698 - Branch: Florida Branch - 2024-11-29 - Online - $4369.37
+Account 527530 - C1782 - Branch: Virginia Branch - 2025-05-10 - Deposit - $115.28
+Account 908598 - C747 - Branch: West Virginia Branch - 2024-04-07 - Refund - $7115.97
+Account 798986 - C745 - Branch: Delaware Branch - 2024-09-24 - Fee - $-238.29
+Account 252024 - C267 - Branch: Maryland Branch - 2024-03-17 - ATM - $1919.43
+Account 878652 - C591 - Branch: Nebraska Branch - 2024-07-11 - Withdrawal - $4015.19
+Account 197583 - C1633 - Branch: Virginia Branch - 2025-01-27 - Deposit - $14614.24
+Account 315577 - C1739 - Branch: Oregon Branch - 2024-01-12 - POS - $2261.04
+Account 937486 - C1636 - Branch: Wisconsin Branch - 2025-10-01 - Card Purchase - $1938.25
+Account 953793 - C811 - Branch: Vermont Branch - 2025-03-29 - Fee - $1127.08
+Account 860505 - C630 - Branch: Nevada Branch - 2025-01-27 - Online - $5626.71
+Account 469620 - C817 - Branch: Illinois Branch - 2025-04-13 - Online - $1177.84
+Account 511599 - C565 - Branch: New Hampshire Branch - 2025-05-17 - POS - $11151.63
+Account 715194 - C1240 - Branch: Wyoming Branch - 2025-04-21 - POS - $9626.53
+Account 876537 - C755 - Branch: Florida Branch - 2024-03-22 - Deposit - $460.9
+Account 882691 - C731 - Branch: Maryland Branch - 2025-11-09 - Card Purchase - $17658.78
+Account 177570 - C1270 - Branch: Washington Branch - 2024-01-27 - ATM - $19661.47
+Account 639452 - C252 - Branch: Indiana Branch - 2024-12-06 - Transfer - $16374.99
+Account 660414 - C54 - Branch: New York Branch - 2025-11-13 - POS - $17183.69
+Account 692423 - C1451 - Branch: Alaska Branch - 2025-08-07 - Deposit - $19081.32
+Account 978354 - C1659 - Branch: Washington Branch - 2024-01-30 - Card Purchase - $18931.45
+Account 527960 - C1007 - Branch: California Branch - 2025-11-17 - ATM - $14286.8
+Account 712428 - C1306 - Branch: Nevada Branch - 2024-01-20 - Transfer - $2878.04
+Account 240271 - C480 - Branch: Wyoming Branch - 2025-03-20 - ATM - $11434.13
+Account 821601 - C1763 - Branch: Oregon Branch - 2025-07-27 - Online - $5920.51
+Account 464214 - C699 - Branch: Texas Branch - 2024-11-07 - Online - $8969.13
+Account 569395 - C1909 - Branch: Colorado Branch - 2024-12-02 - Deposit - $10762.76
+Account 597118 - C1817 - Branch: Alaska Branch - 2024-07-03 - POS - $1130.21
+Account 726337 - C37 - Branch: Iowa Branch - 2025-03-10 - Transfer - $3277.69
+Account 484988 - C1470 - Branch: Delaware Branch - 2024-04-12 - Withdrawal - $12010.68
+Account 729381 - C96 - Branch: Utah Branch - 2024-11-02 - Deposit - $818.42
+Account 619375 - C1908 - Branch: Texas Branch - 2024-10-23 - Card Purchase - $16551.97
+Account 547291 - C456 - Branch: Washington Branch - 2025-07-27 - Card Purchase - $-371.83
+Account 699463 - C48 - Branch: Louisiana Branch - 2024-12-14 - POS - $12353.72
+Account 356228 - C1754 - Branch: North Carolina Branch - 2024-06-02 - Deposit - $5871.64
+Account 419227 - C1618 - Branch: Wyoming Branch - 2025-02-12 - Online - $7925.57
+Account 566759 - C1344 - Branch: Kentucky Branch - 2025-01-21 - Fee - $8209.54
+Account 576603 - C551 - Branch: Mississippi Branch - 2025-03-19 - ATM - $5947.8
+Account 193298 - C1054 - Branch: New Jersey Branch - 2024-09-10 - Online - $11470.31
+Account 793677 - C664 - Branch: Maine Branch - 2025-08-26 - Transfer - $15409.07
+Account 141604 - C1467 - Branch: Idaho Branch - 2025-03-19 - Refund - $14911.48
+Account 997744 - C557 - Branch: New Hampshire Branch - 2025-11-12 - Withdrawal - $15054.66
+Account 193172 - C1300 - Branch: Mississippi Branch - 2024-06-03 - ATM - $12216.52
+Account 107008 - C652 - Branch: Utah Branch - 2024-08-13 - Online - $4977.43
+Account 583608 - C1029 - Branch: Delaware Branch - 2025-06-29 - Payment - $3659.94
+Account 289712 - C242 - Branch: Michigan Branch - 2024-01-04 - ATM - $9430.18
+Account 949301 - C99 - Branch: Alaska Branch - 2024-03-15 - Card Purchase - $7283.65
+Account 345632 - C1727 - Branch: Illinois Branch - 2024-08-20 - Refund - $5278.97
+Account 414868 - C1933 - Branch: Vermont Branch - 2025-12-10 - Card Purchase - $14731.41
+Account 265032 - C1946 - Branch: Kansas Branch - 2024-11-14 - POS - $14357.89
+Account 336875 - C527 - Branch: South Dakota Branch - 2024-05-20 - Fee - $880.2
+Account 197881 - C1283 - Branch: Colorado Branch - 2024-03-06 - POS - $2336.55
+Account 984932 - C21 - Branch: Kansas Branch - 2024-04-28 - Fee - $19136.49
+Account 243790 - C1986 - Branch: Connecticut Branch - 2024-12-19 - Payment - $3316.36
+Account 779361 - C353 - Branch: Minnesota Branch - 2025-10-24 - POS - $1206.6
+Account 687436 - C380 - Branch: Maryland Branch - 2025-09-18 - Payment - $5029.07
+Account 382798 - C1019 - Branch: Colorado Branch - 2025-12-10 - POS - $12334.44
+Account 155039 - C1729 - Branch: Arizona Branch - 2025-09-25 - ATM - $8260.28
+Account 865309 - C470 - Branch: Iowa Branch - 2024-08-07 - Payment - $8271.9
+Account 799573 - C910 - Branch: New Mexico Branch - 2025-05-23 - Withdrawal - $17691.73
+Account 369389 - C831 - Branch: Oregon Branch - 2024-12-06 - Online - $8707.6
+Account 526304 - C69 - Branch: Connecticut Branch - 2025-08-20 - Card Purchase - $8579.62
+Account 387986 - C1196 - Branch: Nevada Branch - 2025-07-10 - ATM - $1866.88
+Account 876500 - C1458 - Branch: Kansas Branch - 2024-05-12 - Transfer - $5788.31
+Account 764967 - C90 - Branch: South Dakota Branch - 2025-07-12 - Deposit - $11206.12
+Account 976684 - C1157 - Branch: Wisconsin Branch - 2024-08-05 - POS - $7271.6
+Account 677946 - C632 - Branch: Arkansas Branch - 2025-03-05 - Online - $3247.43
+Account 281090 - C1251 - Branch: Illinois Branch - 2024-06-16 - Online - $12990.01
+Account 971859 - C1571 - Branch: North Dakota Branch - 2024-08-25 - Fee - $15050.92
+Account 576603 - C551 - Branch: South Dakota Branch - 2024-09-20 - Withdrawal - $1048.92
+Account 347959 - C944 - Branch: Delaware Branch - 2025-10-31 - Card Purchase - $1187.74
+Account 993174 - C1497 - Branch: Colorado Branch - 2025-04-10 - Online - $10737.5
+Account 569759 - C1935 - Branch: North Carolina Branch - 2025-02-05 - Deposit - $5767.23
+Account 900064 - C798 - Branch: Kentucky Branch - 2025-01-07 - Deposit - $19636.86
+Account 678391 - C871 - Branch: Vermont Branch - 2024-08-08 - Transfer - $14240.9
+Account 270286 - C1161 - Branch: Arkansas Branch - 2025-09-07 - Payment - $6412.14
+Account 901986 - C1193 - Branch: Michigan Branch - 2024-12-15 - Refund - $9599.83
+Account 729682 - C958 - Branch: South Dakota Branch - 2024-06-29 - Transfer - $14365.46
+Account 247309 - C1214 - Branch: Wyoming Branch - 2024-03-24 - Deposit - $1794.93
+Account 571074 - C1505 - Branch: California Branch - 2025-11-30 - Fee - $15032.77
+Account 819706 - C123 - Branch: Maryland Branch - 2024-07-29 - Card Purchase - $11097.98
+Account 364719 - C936 - Branch: Montana Branch - 2025-08-03 - POS - $9266.08
+Account 766488 - C349 - Branch: Virginia Branch - 2024-05-14 - POS - $13781.37
+Account 851144 - C1084 - Branch: Missouri Branch - 2025-12-23 - Payment - $418.5
+Account 709354 - C1664 - Branch: Indiana Branch - 2024-07-08 - POS - $17543.66
+Account 801925 - C726 - Branch: Kansas Branch - 2024-05-31 - Card Purchase - $18605.65
+Account 656555 - C682 - Branch: Montana Branch - 2024-01-21 - POS - $13817.93
+Account 959152 - C943 - Branch: Hawaii Branch - 2025-03-24 - ATM - $10427.39
+Account 237583 - C1004 - Branch: Utah Branch - 2024-08-18 - Online - $4778.45
+Account 395430 - C445 - Branch: South Carolina Branch - 2025-11-03 - Refund - $4078.37
+Account 218543 - C354 - Branch: Virginia Branch - 2024-04-27 - Card Purchase - $6094.99
+Account 217495 - C878 - Branch: Connecticut Branch - 2024-11-21 - ATM - $15522.21
+Account 781073 - C1175 - Branch: New York Branch - 2024-09-24 - Refund - $9071.95
+Account 569759 - C1935 - Branch: Massachusetts Branch - 2025-03-18 - Refund - $13981.2
+Account 811093 - C1609 - Branch: Alaska Branch - 2025-12-30 - POS - $2582.03
+Account 463055 - C1607 - Branch: Iowa Branch - 2025-05-24 - Transfer - $13055.21
+Account 166989 - C1611 - Branch: Mississippi Branch - 2025-04-10 - Withdrawal - $12284.39
+Account 356832 - C1710 - Branch: New Mexico Branch - 2024-11-04 - Card Purchase - $-201.69
+Account 504566 - C1223 - Branch: New Mexico Branch - 2024-02-05 - Transfer - $10395.65
+Account 230495 - C783 - Branch: Georgia Branch - 2025-09-05 - Refund - $9106.84
+Account 717671 - C1766 - Branch: Illinois Branch - 2025-09-06 - Online - $2296.3
+Account 948219 - C934 - Branch: Nevada Branch - 2025-03-27 - Fee - $7945.85
+Account 473070 - C705 - Branch: Texas Branch - 2024-02-06 - Online - $19427.1
+Account 924396 - C413 - Branch: Connecticut Branch - 2024-04-05 - Card Purchase - $10549.93
+Account 101957 - C743 - Branch: Minnesota Branch - 2024-08-29 - Card Purchase - $5091.94
+Account 936659 - C732 - Branch: Wyoming Branch - 2025-06-17 - Card Purchase - $17946.24
+Account 950523 - C670 - Branch: Florida Branch - 2025-12-13 - Payment - $8279.28
+Account 311930 - C994 - Branch: Missouri Branch - 2024-01-25 - ATM - $19618.15
+Account 557806 - C65 - Branch: Vermont Branch - 2025-12-08 - Payment - $157.92
+Account 627890 - C275 - Branch: Minnesota Branch - 2024-04-18 - Withdrawal - $9701.74
+Account 827986 - C1620 - Branch: North Dakota Branch - 2024-04-17 - POS - $15837.21
+Account 524648 - C109 - Branch: Colorado Branch - 2025-03-17 - Transfer - $9940.13
+Account 297245 - C1122 - Branch: Virginia Branch - 2024-03-24 - Fee - $15279.03
+Account 305584 - C1554 - Branch: Vermont Branch - 2025-01-21 - Online - $14477.84
+Account 467612 - C1493 - Branch: Pennsylvania Branch - 2024-09-08 - Payment - $1555.47
+Account 217608 - C335 - Branch: Virginia Branch - 2025-05-29 - Transfer - $7216.41
+Account 736767 - C1158 - Branch: New York Branch - 2024-08-09 - ATM - $10899.65
+Account 802297 - C1564 - Branch: Utah Branch - 2024-02-03 - Deposit - $6327.67
+Account 839138 - C213 - Branch: South Carolina Branch - 2025-05-18 - Withdrawal - $1463.75
+Account 166989 - C1611 - Branch: Florida Branch - 2024-07-30 - POS - $18757.89
+Account 717119 - C1490 - Branch: Iowa Branch - 2024-01-05 - Deposit - $2315.95
+Account 221823 - C805 - Branch: Alabama Branch - 2024-08-07 - Transfer - $4447.93
+Account 723439 - C60 - Branch: New York Branch - 2025-07-29 - Refund - $384.69
+Account 784583 - C279 - Branch: Arizona Branch - 2025-09-12 - Online - $13872.4
+Account 383429 - C1567 - Branch: Mississippi Branch - 2024-09-06 - ATM - $18708.79
+Account 799403 - C1468 - Branch: Nebraska Branch - 2024-11-27 - Online - $-245.51
+Account 288647 - C225 - Branch: South Dakota Branch - 2025-11-06 - POS - $10300.35
+Account 109171 - C272 - Branch: Connecticut Branch - 2024-04-02 - Deposit - $7449.99
+Account 496043 - C417 - Branch: Maine Branch - 2024-10-06 - Transfer - $3624.67
+Account 314977 - C172 - Branch: North Dakota Branch - 2024-05-10 - Payment - $244.89
+Account 972001 - C270 - Branch: New Mexico Branch - 2024-01-06 - Refund - $15146.04
+Account 617468 - C1653 - Branch: Montana Branch - 2024-08-31 - Transfer - $495.05
+Account 240271 - C480 - Branch: Texas Branch - 2024-08-21 - Deposit - $9560.69
+Account 594722 - C702 - Branch: Washington Branch - 2025-08-14 - POS - $14301.44
+Account 755302 - C956 - Branch: Wyoming Branch - 2025-05-17 - Deposit - $16804.0
+Account 524012 - C319 - Branch: Wisconsin Branch - 2024-01-14 - Payment - $18172.65
+Account 618768 - C611 - Branch: Kentucky Branch - 2025-01-12 - Transfer - $1072.6
+Account 237106 - C1765 - Branch: Ohio Branch - 2025-10-02 - Payment - $13831.76
+Account 159374 - C288 - Branch: Mississippi Branch - 2025-08-01 - Deposit - $8667.68
+Account 633179 - C719 - Branch: Tennessee Branch - 2025-07-25 - Online - $15974.5
+Account 776254 - C188 - Branch: Wyoming Branch - 2025-09-13 - POS - $16275.35
+Account 865147 - C355 - Branch: New Jersey Branch - 2025-10-26 - Deposit - $13674.22
+Account 624674 - C519 - Branch: Montana Branch - 2025-02-21 - Payment - $-51.78
+Account 401930 - C1562 - Branch: Montana Branch - 2025-10-25 - Fee - $6471.89
+Account 162038 - C170 - Branch: Massachusetts Branch - 2024-12-09 - Refund - $11590.54
+Account 141604 - C1467 - Branch: Missouri Branch - 2025-07-08 - Card Purchase - $11393.69
+Account 785587 - C1783 - Branch: Michigan Branch - 2025-03-01 - Payment - $17910.79
+Account 318984 - C465 - Branch: New York Branch - 2024-09-12 - Fee - $19251.01
+Account 839122 - C644 - Branch: Georgia Branch - 2024-08-10 - Card Purchase - $6543.66
+Account 351467 - C1151 - Branch: Mississippi Branch - 2024-08-08 - Card Purchase - $19189.61
+Account 567041 - C1880 - Branch: Oklahoma Branch - 2024-08-12 - Deposit - $1152.44
+Account 436485 - C446 - Branch: New Hampshire Branch - 2024-02-12 - POS - $12504.6
+Account 733993 - C1098 - Branch: New York Branch - 2025-08-17 - Fee - $1926.57
+Account 175913 - C1071 - Branch: New Hampshire Branch - 2024-06-14 - Fee - $3086.98
+Account 856069 - C505 - Branch: New Jersey Branch - 2025-11-28 - Payment - $606.14
+Account 827008 - C662 - Branch: Arkansas Branch - 2024-11-18 - Card Purchase - $15425.72
+Account 103070 - C483 - Branch: Ohio Branch - 2025-02-01 - Online - $17484.46
+Account 344915 - C854 - Branch: Oklahoma Branch - 2025-12-16 - Transfer - $4311.03
+Account 630597 - C1164 - Branch: Kentucky Branch - 2024-02-26 - Fee - $4927.78
+Account 679771 - C327 - Branch: Iowa Branch - 2024-06-04 - Online - $12295.41
+Account 976248 - C450 - Branch: North Carolina Branch - 2025-02-10 - Online - $19063.06
+Account 785859 - C1719 - Branch: New York Branch - 2025-06-02 - Refund - $1183.72
+Account 520898 - C228 - Branch: Alaska Branch - 2024-04-05 - Transfer - $3308.09
+Account 292533 - C1941 - Branch: Minnesota Branch - 2025-09-11 - Fee - $12899.73
+Account 258182 - C1590 - Branch: Kansas Branch - 2025-05-04 - Transfer - $7786.04
+Account 823714 - C295 - Branch: Hawaii Branch - 2025-06-02 - ATM - $7591.72
+Account 846127 - C1110 - Branch: New Hampshire Branch - 2024-12-27 - Payment - $16489.89
+Account 677946 - C632 - Branch: Michigan Branch - 2025-05-31 - Online - $14315.68
+Account 240230 - C100 - Branch: Texas Branch - 2024-01-18 - Withdrawal - $16262.69
+Account 423609 - C190 - Branch: Indiana Branch - 2024-12-21 - Card Purchase - $13584.8
+Account 602981 - C1836 - Branch: Georgia Branch - 2024-11-04 - Payment - $3644.4
+Account 174270 - C1569 - Branch: Colorado Branch - 2025-03-22 - Payment - $2043.28
+Account 602286 - C825 - Branch: Mississippi Branch - 2025-03-16 - Transfer - $14583.81
+Account 887619 - C1145 - Branch: Iowa Branch - 2024-06-28 - Online - $4987.38
+Account 839724 - C1476 - Branch: West Virginia Branch - 2025-05-02 - Payment - $19404.91
+Account 383429 - C1567 - Branch: Montana Branch - 2025-04-26 - Transfer - $13876.66
+Account 670754 - C1811 - Branch: Idaho Branch - 2024-01-02 - POS - $3372.08
+Account 352869 - C1769 - Branch: Michigan Branch - 2025-12-22 - Online - $2625.68
+Account 525373 - C855 - Branch: Idaho Branch - 2025-03-27 - Fee - $6665.72
+Account 434353 - C1335 - Branch: Wisconsin Branch - 2024-07-27 - Card Purchase - $6148.84
+Account 264448 - C1065 - Branch: Nebraska Branch - 2025-01-19 - Refund - $9195.46
+Account 183141 - C1230 - Branch: Missouri Branch - 2025-02-25 - Deposit - $18411.11
+Account 109081 - C929 - Branch: New Mexico Branch - 2024-01-22 - Payment - $3436.59
+Account 948213 - C646 - Branch: Montana Branch - 2025-10-27 - Refund - $19041.97
+Account 310644 - C1439 - Branch: Pennsylvania Branch - 2025-07-30 - ATM - $7262.99
+Account 851995 - C939 - Branch: Pennsylvania Branch - 2024-02-09 - Deposit - $18993.69
+Account 790883 - C1311 - Branch: Georgia Branch - 2025-06-17 - Transfer - $5724.4
+Account 942363 - C1067 - Branch: Hawaii Branch - 2025-07-15 - Transfer - $3755.17
+Account 852582 - C1682 - Branch: New Mexico Branch - 2024-01-23 - Withdrawal - $17264.42
+Account 106946 - C1903 - Branch: Michigan Branch - 2025-05-15 - ATM - $10689.04
+Account 718434 - C762 - Branch: New Hampshire Branch - 2025-08-30 - Online - $8745.63
+Account 429051 - C264 - Branch: Pennsylvania Branch - 2025-09-26 - POS - $16445.12
+Account 853367 - C1649 - Branch: Nevada Branch - 2024-06-06 - Transfer - $7868.13
+Account 928154 - C1092 - Branch: Vermont Branch - 2024-01-19 - Fee - $5706.76
+Account 705858 - C46 - Branch: Idaho Branch - 2024-10-31 - Deposit - $8192.19
+Account 392249 - C1944 - Branch: Wyoming Branch - 2024-08-11 - ATM - $12421.1
+Account 194901 - C1900 - Branch: Michigan Branch - 2025-09-02 - Payment - $14226.99
+Account 847990 - C1427 - Branch: Kansas Branch - 2025-06-15 - POS - $10897.52
+Account 730130 - C199 - Branch: New Hampshire Branch - 2025-03-08 - Payment - $14285.14
+Account 788220 - C567 - Branch: Wisconsin Branch - 2025-08-05 - ATM - $9676.79
+Account 651820 - C1790 - Branch: Mississippi Branch - 2025-11-10 - Transfer - $8549.67
+Account 900064 - C798 - Branch: Ohio Branch - 2024-03-21 - POS - $19468.5
+Account 838022 - C955 - Branch: Arizona Branch - 2024-12-03 - Transfer - $15252.82
+Account 951080 - C92 - Branch: Texas Branch - 2024-07-08 - Card Purchase - $9995.02
+Account 164565 - C875 - Branch: New York Branch - 2024-02-09 - Fee - $12551.86
+Account 734567 - C1437 - Branch: Georgia Branch - 2025-07-16 - Online - $11985.92
+Account 423356 - C754 - Branch: South Dakota Branch - 2024-03-18 - Transfer - $9721.67
+Account 867971 - C1305 - Branch: New Mexico Branch - 2024-10-06 - Deposit - $10803.14
+Account 394178 - C830 - Branch: Tennessee Branch - 2025-06-26 - ATM - $13984.75
+Account 273631 - C1060 - Branch: Colorado Branch - 2025-11-16 - Refund - $5453.4
+Account 765221 - C1434 - Branch: California Branch - 2024-11-03 - Online - $12019.19
+Account 831800 - C1812 - Branch: Kansas Branch - 2024-08-11 - POS - $1474.61
+Account 438021 - C1220 - Branch: Maine Branch - 2025-03-19 - Card Purchase - $13735.85
+Account 254934 - C1355 - Branch: Florida Branch - 2024-05-12 - Transfer - $9917.94
+Account 352920 - C1296 - Branch: New York Branch - 2024-04-03 - Online - $3352.23
+Account 992892 - C1925 - Branch: New Hampshire Branch - 2024-01-06 - ATM - $5153.26
+Account 369389 - C831 - Branch: South Dakota Branch - 2024-04-11 - Deposit - $4137.96
+Account 281574 - C1225 - Branch: Connecticut Branch - 2024-06-17 - Online - $3866.11
+Account 347839 - C1397 - Branch: Kansas Branch - 2024-12-03 - Payment - $11534.11
+Account 299673 - C1115 - Branch: Idaho Branch - 2024-10-05 - Card Purchase - $7033.62
+Account 601696 - C1980 - Branch: Indiana Branch - 2024-06-28 - Online - $19935.8
+Account 231664 - C340 - Branch: Kansas Branch - 2025-05-03 - Card Purchase - $-381.31
+Account 199335 - C1488 - Branch: New Jersey Branch - 2024-12-18 - Online - $14458.83
+Account 781572 - C687 - Branch: Michigan Branch - 2024-04-13 - Refund - $17053.54
+Account 231381 - C1184 - Branch: Arizona Branch - 2024-03-11 - ATM - $19042.6
+Account 209393 - C932 - Branch: Indiana Branch - 2024-08-29 - POS - $17645.29
+Account 514865 - C407 - Branch: Maryland Branch - 2025-04-13 - Deposit - $4908.52
+Account 432500 - C1761 - Branch: Kentucky Branch - 2025-10-14 - Card Purchase - $11604.19
+Account 624572 - C642 - Branch: North Dakota Branch - 2024-02-02 - Fee - $268.13
+Account 775801 - C604 - Branch: Minnesota Branch - 2024-09-05 - Online - $15407.22
+Account 667402 - C1902 - Branch: Maryland Branch - 2024-04-05 - POS - $15598.03
+Account 831800 - C1812 - Branch: Kentucky Branch - 2024-10-30 - Deposit - $9881.26
+Account 959502 - C1625 - Branch: Virginia Branch - 2025-06-03 - Refund - $9921.01
+Account 253083 - C359 - Branch: Iowa Branch - 2025-05-18 - Card Purchase - $6437.32
+Account 619943 - C774 - Branch: Vermont Branch - 2024-02-25 - Deposit - $8811.72
+Account 361024 - C935 - Branch: Pennsylvania Branch - 2024-07-17 - Refund - $7675.92
+Account 733019 - C1545 - Branch: Iowa Branch - 2024-12-24 - Refund - $7420.8
+Account 600661 - C816 - Branch: Tennessee Branch - 2024-09-06 - Deposit - $18005.34
+Account 702940 - C1790 - Branch: Illinois Branch - 2025-03-15 - Transfer - $4630.55
+Account 536133 - C1209 - Branch: Delaware Branch - 2024-06-13 - ATM - $1933.34
+Account 722258 - C39 - Branch: California Branch - 2024-03-24 - Refund - $11552.14
+Account 910363 - C438 - Branch: South Dakota Branch - 2025-12-07 - Transfer - $6837.29
+Account 994846 - C1063 - Branch: Georgia Branch - 2025-08-19 - Withdrawal - $12828.29
+Account 672299 - C753 - Branch: Minnesota Branch - 2025-05-10 - Deposit - $16094.85
+Account 901029 - C420 - Branch: South Dakota Branch - 2025-05-09 - Deposit - $3622.48
+Account 383429 - C1567 - Branch: South Carolina Branch - 2025-07-11 - Transfer - $11978.1
+Account 193261 - C432 - Branch: Vermont Branch - 2024-02-07 - Online - $2819.23
+Account 341582 - C628 - Branch: Michigan Branch - 2025-06-29 - Payment - $10907.04
+Account 191358 - C197 - Branch: Maine Branch - 2025-05-16 - POS - $15080.34
+Account 736046 - C379 - Branch: New York Branch - 2025-07-28 - Fee - $10787.13
+Account 250078 - C1656 - Branch: West Virginia Branch - 2024-02-20 - Card Purchase - $9169.43
+Account 934303 - C900 - Branch: Maine Branch - 2024-03-22 - Fee - $270.57
+Account 755052 - C725 - Branch: Oregon Branch - 2025-10-29 - Card Purchase - $8772.64
+Account 658334 - C580 - Branch: New Mexico Branch - 2025-04-27 - Transfer - $14764.5
+Account 542668 - C1559 - Branch: Florida Branch - 2025-08-27 - Transfer - $5903.51
+Account 809220 - C1638 - Branch: Maryland Branch - 2025-07-28 - POS - $7546.76
+Account 393270 - C1020 - Branch: Alabama Branch - 2024-08-13 - Card Purchase - $4281.26
+Account 326135 - C753 - Branch: Colorado Branch - 2025-09-28 - ATM - $4408.35
+Account 778058 - C128 - Branch: North Dakota Branch - 2024-07-03 - Fee - $15040.89
+Account 214661 - C1519 - Branch: Mississippi Branch - 2024-08-29 - Deposit - $1596.01
+Account 967678 - C1607 - Branch: North Carolina Branch - 2024-12-11 - Transfer - $12537.51
+Account 820011 - C124 - Branch: Arkansas Branch - 2024-08-18 - POS - $15488.4
+Account 982336 - C1849 - Branch: Wyoming Branch - 2025-09-15 - Online - $15979.08
+Account 808662 - C484 - Branch: Rhode Island Branch - 2025-11-05 - Online - $13284.07
+Account 217321 - C1063 - Branch: Massachusetts Branch - 2024-07-26 - Transfer - $15637.68
+Account 250926 - C1691 - Branch: Michigan Branch - 2025-03-29 - Payment - $2325.87
+Account 784868 - C1940 - Branch: North Carolina Branch - 2025-07-10 - Online - $3791.01
+Account 145357 - C71 - Branch: Iowa Branch - 2024-01-17 - Fee - $3498.44
+Account 670709 - C846 - Branch: Iowa Branch - 2025-01-05 - Payment - $7135.94
+Account 924396 - C413 - Branch: South Dakota Branch - 2025-01-03 - POS - $4451.33
+Account 552655 - C806 - Branch: Florida Branch - 2024-09-18 - ATM - $13261.15
+Account 695165 - C1383 - Branch: Louisiana Branch - 2024-07-16 - Deposit - $2606.0
+Account 171540 - C210 - Branch: Washington Branch - 2025-05-08 - Withdrawal - $3800.5
+Account 821601 - C1763 - Branch: Arkansas Branch - 2025-02-24 - POS - $2075.22
+Account 982328 - C1705 - Branch: New Hampshire Branch - 2024-12-14 - Withdrawal - $18837.88
+Account 648262 - C860 - Branch: Missouri Branch - 2024-02-07 - Online - $3427.72
+Account 897545 - C1531 - Branch: Maryland Branch - 2025-12-23 - Refund - $14037.8
+Account 486347 - C1034 - Branch: Idaho Branch - 2025-08-23 - POS - $4748.96
+Account 310960 - C747 - Branch: Kentucky Branch - 2024-10-16 - Deposit - $19838.99
+Account 983759 - C58 - Branch: Massachusetts Branch - 2025-05-03 - ATM - $15728.25
+Account 747776 - C1713 - Branch: Louisiana Branch - 2025-12-25 - ATM - $11856.09
+Account 290351 - C317 - Branch: Louisiana Branch - 2025-09-29 - Refund - $4704.01
+Account 197709 - C1961 - Branch: North Dakota Branch - 2025-09-30 - Transfer - $12757.01
+Account 432354 - C1314 - Branch: Kansas Branch - 2024-09-26 - Online - $13903.12
+Account 727499 - C1938 - Branch: New Hampshire Branch - 2025-02-27 - POS - $6691.12
+Account 239259 - C764 - Branch: Nevada Branch - 2025-03-29 - Card Purchase - $12550.33
+Account 770750 - C1446 - Branch: Alabama Branch - 2025-07-10 - Fee - $2797.93
+Account 727277 - C1502 - Branch: Oregon Branch - 2024-11-30 - Card Purchase - $19157.84
+Account 323724 - C691 - Branch: Iowa Branch - 2025-10-16 - Deposit - $3248.29
+Account 648262 - C860 - Branch: Tennessee Branch - 2024-04-16 - ATM - $8895.0
+Account 964959 - C1064 - Branch: Oregon Branch - 2025-10-12 - POS - $5728.78
+Account 561213 - C1428 - Branch: Alaska Branch - 2024-07-18 - Payment - $16977.49
+Account 836310 - C1732 - Branch: Rhode Island Branch - 2025-01-29 - Card Purchase - $10190.72
+Account 168991 - C187 - Branch: Kentucky Branch - 2024-12-22 - ATM - $13920.95
+Account 205550 - C1644 - Branch: Ohio Branch - 2024-06-08 - Payment - $12951.85
+Account 416735 - C784 - Branch: South Dakota Branch - 2025-12-27 - ATM - $10306.53
+Account 965432 - C1322 - Branch: Montana Branch - 2025-07-02 - Refund - $8054.88
+Account 300937 - C1847 - Branch: Virginia Branch - 2025-12-04 - Payment - $19985.58
+Account 210161 - C768 - Branch: North Carolina Branch - 2024-10-28 - Online - $18772.61
+Account 106658 - C1010 - Branch: Vermont Branch - 2025-09-27 - ATM - $6689.49
+Account 527960 - C1007 - Branch: Indiana Branch - 2024-08-08 - Card Purchase - $298.97
+Account 602328 - C1427 - Branch: Virginia Branch - 2024-07-18 - Transfer - $13253.14
+Account 346051 - C410 - Branch: Utah Branch - 2025-03-04 - Payment - $6120.05
+Account 900814 - C622 - Branch: Ohio Branch - 2025-10-04 - ATM - $8785.9
+Account 475414 - C983 - Branch: Mississippi Branch - 2024-07-06 - Payment - $17962.79
+Account 406669 - C1577 - Branch: Missouri Branch - 2025-02-09 - Withdrawal - $19365.79
+Account 780041 - C1021 - Branch: California Branch - 2024-06-19 - Fee - $15390.21
+Account 122461 - C691 - Branch: Wyoming Branch - 2024-10-18 - ATM - $918.88
+Account 302681 - C733 - Branch: New Mexico Branch - 2025-07-17 - Refund - $7494.91
+Account 495265 - C613 - Branch: Rhode Island Branch - 2025-09-23 - Fee - $5484.49
+Account 766488 - C349 - Branch: Iowa Branch - 2025-03-23 - Payment - $19184.29
+Account 285894 - C524 - Branch: Virginia Branch - 2025-06-05 - Transfer - $647.6
+Account 930101 - C825 - Branch: Alabama Branch - 2024-07-06 - Withdrawal - $17378.04
+Account 637177 - C332 - Branch: Virginia Branch - 2024-02-01 - Deposit - $9588.32
+Account 927626 - C1244 - Branch: Texas Branch - 2024-07-18 - Deposit - $7084.89
+Account 523079 - C251 - Branch: Michigan Branch - 2025-12-13 - Deposit - $6033.86
+Account 792611 - C1041 - Branch: California Branch - 2024-04-21 - Transfer - $17486.74
+Account 609335 - C1399 - Branch: Tennessee Branch - 2025-10-15 - Online - $6635.56
+Account 734567 - C1437 - Branch: Oklahoma Branch - 2025-02-28 - Withdrawal - $14344.47
+Account 511227 - C430 - Branch: Missouri Branch - 2025-06-19 - Refund - $3206.19
+Account 190138 - C543 - Branch: Illinois Branch - 2025-03-19 - POS - $6627.83
+Account 758622 - C269 - Branch: South Dakota Branch - 2025-05-29 - Deposit - $6262.71
+Account 647624 - C139 - Branch: Rhode Island Branch - 2024-12-11 - POS - $13352.82
+Account 311625 - C795 - Branch: Connecticut Branch - 2024-08-17 - Withdrawal - $19039.92
+Account 354966 - C593 - Branch: Virginia Branch - 2024-05-19 - POS - $14249.96
+Account 164349 - C313 - Branch: Indiana Branch - 2025-12-04 - Deposit - $2610.19
+Account 281372 - C802 - Branch: Iowa Branch - 2024-06-28 - Fee - $12733.99
+Account 374844 - C1895 - Branch: Hawaii Branch - 2024-06-09 - Transfer - $11163.01
+Account 882693 - C627 - Branch: South Carolina Branch - 2025-03-20 - Online - $15982.25
+Account 969735 - C735 - Branch: Alaska Branch - 2025-04-24 - Fee - $16258.16
+Account 711616 - C1456 - Branch: Mississippi Branch - 2024-04-17 - Transfer - $15286.78
+Account 933194 - C537 - Branch: New Mexico Branch - 2025-11-25 - Payment - $11031.75
+Account 827617 - C1652 - Branch: Washington Branch - 2024-12-08 - Card Purchase - $12880.92
+Account 874763 - C1243 - Branch: Colorado Branch - 2024-07-03 - POS - $6401.51
+Account 229136 - C238 - Branch: Maine Branch - 2024-09-05 - ATM - $4800.68
+Account 525373 - C855 - Branch: North Carolina Branch - 2024-12-27 - Withdrawal - $1407.47
+Account 188558 - C1233 - Branch: Arkansas Branch - 2024-03-15 - Card Purchase - $976.92
+Account 673344 - C689 - Branch: Maryland Branch - 2025-06-22 - POS - $2912.25
+Account 469620 - C817 - Branch: Kentucky Branch - 2025-07-13 - Fee - $16782.58
+Account 567389 - C1658 - Branch: Hawaii Branch - 2025-09-13 - Payment - $1987.25
+Account 250649 - C51 - Branch: Oregon Branch - 2024-07-26 - POS - $11845.55
+Account 912338 - C512 - Branch: Washington Branch - 2025-07-11 - ATM - $19265.95
+Account 245943 - C1324 - Branch: Florida Branch - 2024-12-20 - Deposit - $14342.25
+Account 194507 - C1539 - Branch: Florida Branch - 2025-01-25 - Refund - $17914.37
+Account 697702 - C1635 - Branch: Georgia Branch - 2024-03-16 - Withdrawal - $11676.41
+Account 977322 - C1169 - Branch: California Branch - 2025-02-01 - Transfer - $14220.34
+Account 562309 - C1401 - Branch: Virginia Branch - 2024-01-07 - Online - $8328.82
+Account 240484 - C1492 - Branch: Massachusetts Branch - 2024-04-20 - Withdrawal - $8121.78
+Account 789692 - C629 - Branch: New Mexico Branch - 2025-03-10 - POS - $4914.67
+Account 405263 - C1786 - Branch: Louisiana Branch - 2025-04-29 - ATM - $14066.43
+Account 910026 - C106 - Branch: North Carolina Branch - 2024-11-05 - ATM - $11359.68
+Account 669545 - C1693 - Branch: Wisconsin Branch - 2025-02-13 - Deposit - $5240.84
+Account 207363 - C1124 - Branch: Arizona Branch - 2025-04-02 - Deposit - $7333.92
+Account 780041 - C1021 - Branch: Iowa Branch - 2025-06-09 - Withdrawal - $5599.86
+Account 931217 - C1633 - Branch: Tennessee Branch - 2025-12-17 - POS - $17022.22
+Account 874410 - C1819 - Branch: North Dakota Branch - 2025-01-29 - ATM - $1190.05
+Account 214309 - C993 - Branch: Pennsylvania Branch - 2025-01-11 - ATM - $14915.84
+Account 345588 - C780 - Branch: Ohio Branch - 2024-12-25 - Online - $4077.74
+Account 183496 - C1745 - Branch: Kansas Branch - 2024-04-23 - Transfer - $15587.54
+Account 949391 - C157 - Branch: Arkansas Branch - 2025-04-08 - Payment - $5099.53
+Account 150287 - C228 - Branch: Hawaii Branch - 2025-01-18 - POS - $1332.38
+Account 842750 - C431 - Branch: California Branch - 2025-08-24 - ATM - $7382.45
+Account 672862 - C244 - Branch: Oregon Branch - 2025-08-05 - Card Purchase - $17830.61
+Account 460636 - C169 - Branch: Wisconsin Branch - 2024-02-07 - Card Purchase - $19889.96
+Account 812927 - C1794 - Branch: Alabama Branch - 2025-08-13 - Fee - $3003.59
+Account 901354 - C1339 - Branch: Pennsylvania Branch - 2025-10-09 - POS - $18864.44
+Account 681351 - C1111 - Branch: Pennsylvania Branch - 2024-02-26 - Fee - $1054.23
+Account 343868 - C1950 - Branch: Connecticut Branch - 2025-08-26 - Transfer - $19972.85
+Account 964793 - C1976 - Branch: Kentucky Branch - 2025-09-19 - ATM - $10831.75
+Account 239263 - C1697 - Branch: Mississippi Branch - 2025-12-23 - POS - $15444.77
+Account 432514 - C126 - Branch: Mississippi Branch - 2024-06-12 - ATM - $5046.91
+Account 632575 - C1267 - Branch: Vermont Branch - 2024-08-08 - Card Purchase - $7592.49
+Account 133528 - C408 - Branch: North Carolina Branch - 2024-08-17 - ATM - $11472.88
+Account 576603 - C551 - Branch: Virginia Branch - 2025-10-03 - Card Purchase - $19964.1
+Account 605258 - C1628 - Branch: Rhode Island Branch - 2025-07-21 - Fee - $1272.91
+Account 345632 - C1727 - Branch: Pennsylvania Branch - 2025-10-26 - Transfer - $19675.15
+Account 494134 - C1336 - Branch: Pennsylvania Branch - 2024-06-01 - Online - $5355.99
+Account 722258 - C39 - Branch: Maine Branch - 2024-10-11 - Payment - $13951.05
+Account 199171 - C1605 - Branch: Alaska Branch - 2024-11-18 - Payment - $8658.74
+Account 652193 - C97 - Branch: Tennessee Branch - 2025-10-15 - POS - $14330.2
+Account 551732 - C216 - Branch: Rhode Island Branch - 2025-06-10 - Online - $14904.47
+Account 716722 - C477 - Branch: South Carolina Branch - 2024-12-13 - POS - $11769.74
+Account 279546 - C882 - Branch: South Dakota Branch - 2025-07-29 - Deposit - $13955.55
+Account 109873 - C1892 - Branch: Montana Branch - 2025-01-31 - Transfer - $5615.0
+Account 547648 - C1931 - Branch: Florida Branch - 2024-01-29 - Online - $-252.05
+Account 433210 - C803 - Branch: Rhode Island Branch - 2025-02-26 - Online - $14995.29
+Account 778468 - C875 - Branch: Minnesota Branch - 2024-04-30 - ATM - $15415.03
+Account 405263 - C1786 - Branch: Connecticut Branch - 2024-05-30 - Deposit - $16985.75
+Account 948041 - C1085 - Branch: Alabama Branch - 2024-11-01 - Fee - $647.11
+Account 267407 - C863 - Branch: Iowa Branch - 2025-07-29 - Payment - $3359.51
+Account 374787 - C204 - Branch: Virginia Branch - 2025-12-30 - Fee - $13526.22
+Account 313520 - C1275 - Branch: Massachusetts Branch - 2025-06-25 - Transfer - $16384.85
+Account 584646 - C1013 - Branch: Oregon Branch - 2025-05-28 - Withdrawal - $19211.09
+Account 615863 - C490 - Branch: Texas Branch - 2025-03-18 - Refund - $7897.45
+Account 343868 - C1950 - Branch: Maine Branch - 2025-11-10 - Online - $9770.62
+Account 278236 - C1358 - Branch: Florida Branch - 2025-09-29 - Card Purchase - $11274.25
+Account 507485 - C1642 - Branch: North Dakota Branch - 2025-09-05 - Card Purchase - $7948.28
+Account 360648 - C1791 - Branch: Arkansas Branch - 2025-07-13 - Fee - $16520.25
+Account 690850 - C1976 - Branch: Oregon Branch - 2024-01-18 - Fee - $-447.0
+Account 863459 - C1574 - Branch: Texas Branch - 2024-05-15 - POS - $15194.95
+Account 901354 - C1339 - Branch: Utah Branch - 2024-05-17 - Fee - $3324.43
+Account 192636 - C248 - Branch: Ohio Branch - 2024-07-28 - Payment - $13424.57
+Account 877905 - C9 - Branch: Minnesota Branch - 2025-02-21 - ATM - $11649.57
+Account 995775 - C1479 - Branch: Maine Branch - 2024-08-12 - Refund - $1063.87
+Account 231797 - C576 - Branch: Montana Branch - 2025-06-30 - Card Purchase - $10463.88
+Account 306208 - C1232 - Branch: Kentucky Branch - 2025-08-20 - POS - $6722.91
+Account 644180 - C1921 - Branch: Nebraska Branch - 2024-05-09 - POS - $13235.61
+Account 514865 - C407 - Branch: Mississippi Branch - 2025-11-27 - Fee - $3949.13
+Account 632575 - C1267 - Branch: Illinois Branch - 2025-07-25 - Refund - $8773.96
+Account 167973 - C1337 - Branch: Arizona Branch - 2024-10-22 - Online - $9213.9
+Account 597118 - C1817 - Branch: Michigan Branch - 2025-09-13 - Fee - $19653.62
+Account 144882 - C111 - Branch: Indiana Branch - 2025-09-25 - Payment - $2375.91
+Account 244313 - C201 - Branch: Alaska Branch - 2024-11-15 - Payment - $17275.23
+Account 694413 - C1065 - Branch: Utah Branch - 2025-06-13 - Refund - $6921.87
+Account 778058 - C128 - Branch: New Jersey Branch - 2024-06-18 - Payment - $4445.52
+Account 589481 - C1141 - Branch: Indiana Branch - 2024-03-15 - Deposit - $4014.38
+Account 930135 - C944 - Branch: Minnesota Branch - 2024-08-01 - Online - $17700.13
+Account 681351 - C1111 - Branch: Pennsylvania Branch - 2025-06-25 - Fee - $19196.16
+Account 273923 - C424 - Branch: Wisconsin Branch - 2025-05-01 - Payment - $9041.15
+Account 146319 - C1221 - Branch: Utah Branch - 2025-08-05 - Payment - $4610.38
+Account 352092 - C1460 - Branch: Nevada Branch - 2024-08-08 - ATM - $3635.28
+Account 253083 - C359 - Branch: California Branch - 2024-09-21 - Card Purchase - $12241.23
+Account 617468 - C1653 - Branch: Oklahoma Branch - 2025-10-26 - Deposit - $18917.73
+Account 980369 - C1144 - Branch: Maine Branch - 2024-09-12 - Withdrawal - $3157.87
+Account 999753 - C108 - Branch: Idaho Branch - 2024-04-03 - Card Purchase - $15003.79
+Account 899130 - C333 - Branch: Nevada Branch - 2024-03-23 - Online - $9316.73
+Account 195108 - C1476 - Branch: Oklahoma Branch - 2025-05-16 - Card Purchase - $14114.37
+Account 691931 - C1000 - Branch: Kansas Branch - 2024-05-06 - Transfer - $3310.44
+Account 475920 - C196 - Branch: New Jersey Branch - 2025-02-14 - Deposit - $17984.65
+Account 587474 - C1423 - Branch: Arizona Branch - 2025-03-23 - ATM - $840.22
+Account 566831 - C1266 - Branch: Arkansas Branch - 2025-12-31 - Withdrawal - $11571.32
+Account 351316 - C1275 - Branch: Nebraska Branch - 2024-01-21 - Transfer - $2437.93
+Account 436709 - C1373 - Branch: Vermont Branch - 2024-10-29 - POS - $14112.08
+Account 715194 - C1240 - Branch: Maine Branch - 2024-03-14 - Online - $16070.5
+Account 671585 - C61 - Branch: Oklahoma Branch - 2024-09-09 - Fee - $17998.82
+Account 997865 - C563 - Branch: Connecticut Branch - 2025-06-02 - Fee - $12839.43
+Account 556738 - C1173 - Branch: North Carolina Branch - 2024-05-16 - Card Purchase - $1110.8
+Account 908211 - C265 - Branch: Massachusetts Branch - 2024-05-06 - Deposit - $3473.39
+Account 146685 - C253 - Branch: Arizona Branch - 2025-08-20 - Withdrawal - $8877.99
+Account 553799 - C1829 - Branch: Massachusetts Branch - 2025-02-03 - Card Purchase - $616.33
+Account 180513 - C209 - Branch: Louisiana Branch - 2025-06-17 - Transfer - $8997.35
+Account 727339 - C526 - Branch: New Jersey Branch - 2024-09-05 - ATM - $7264.38
+Account 432089 - C1138 - Branch: Kentucky Branch - 2025-07-16 - Fee - $11648.64
+Account 901029 - C420 - Branch: Vermont Branch - 2024-10-14 - Transfer - $14789.78
+Account 532004 - C1321 - Branch: Mississippi Branch - 2025-01-04 - Online - $7168.13
+Account 381750 - C405 - Branch: Wisconsin Branch - 2024-11-11 - Transfer - $5018.5
+Account 297245 - C1122 - Branch: New Hampshire Branch - 2025-12-22 - POS - $11553.37
+Account 697075 - C1260 - Branch: Kansas Branch - 2025-12-14 - Fee - $19704.96
+Account 165351 - C1922 - Branch: Maine Branch - 2024-01-03 - ATM - $18544.45
+Account 485930 - C1582 - Branch: Tennessee Branch - 2025-11-30 - POS - $12214.99
+Account 857365 - C1438 - Branch: Missouri Branch - 2025-09-28 - Card Purchase - $19890.92
+Account 419710 - C314 - Branch: Maine Branch - 2024-10-22 - Fee - $952.13
+Account 762229 - C1074 - Branch: Kansas Branch - 2025-12-11 - Deposit - $8726.09
+Account 831302 - C421 - Branch: Texas Branch - 2024-10-02 - Refund - $15465.53
+Account 774519 - C1907 - Branch: Idaho Branch - 2025-07-15 - Transfer - $3656.36
+Account 146725 - C663 - Branch: Virginia Branch - 2025-03-12 - Fee - $16968.89
+Account 494172 - C844 - Branch: Mississippi Branch - 2024-05-05 - Fee - $17465.98
+Account 471684 - C1563 - Branch: Minnesota Branch - 2025-05-04 - Online - $13098.97
+Account 158590 - C1183 - Branch: Alaska Branch - 2024-07-19 - Card Purchase - $7787.79
+Account 120220 - C1156 - Branch: Minnesota Branch - 2025-04-18 - Fee - $19036.59
+Account 165351 - C1922 - Branch: Washington Branch - 2024-04-23 - ATM - $6012.61
+Account 326844 - C1128 - Branch: Maine Branch - 2025-02-26 - Deposit - $4922.88
+Account 493419 - C398 - Branch: Tennessee Branch - 2024-04-04 - Withdrawal - $9941.73
+Account 115390 - C1920 - Branch: Missouri Branch - 2025-11-26 - Payment - $19554.2
+Account 630524 - C1595 - Branch: Connecticut Branch - 2025-09-25 - Card Purchase - $9914.52
+Account 304958 - C1198 - Branch: New Mexico Branch - 2024-05-07 - Withdrawal - $13830.14
+Account 492394 - C75 - Branch: North Carolina Branch - 2025-11-14 - Card Purchase - $14531.02
+Account 112547 - C267 - Branch: Michigan Branch - 2025-12-19 - Withdrawal - $12209.73
+Account 572625 - C1586 - Branch: Nevada Branch - 2024-06-05 - Refund - $19548.27
+Account 252328 - C739 - Branch: Florida Branch - 2024-03-16 - Online - $5918.12
+Account 499110 - C351 - Branch: New Hampshire Branch - 2025-06-09 - Refund - $163.16
+Account 852981 - C531 - Branch: Louisiana Branch - 2024-01-04 - Deposit - $7819.58
+Account 197709 - C1961 - Branch: Maine Branch - 2025-04-02 - ATM - $3554.68
+Account 507174 - C1508 - Branch: Washington Branch - 2024-08-25 - Deposit - $3842.18
+Account 591389 - C759 - Branch: Michigan Branch - 2025-10-26 - Online - $18076.46
+Account 568426 - C171 - Branch: Utah Branch - 2025-09-21 - Payment - $10285.03
+Account 932931 - C343 - Branch: Nevada Branch - 2025-11-17 - Transfer - $4058.58
+Account 475920 - C196 - Branch: Kansas Branch - 2024-05-19 - Payment - $8905.25
+Account 951588 - C529 - Branch: Minnesota Branch - 2024-02-05 - Deposit - $8297.21
+Account 449396 - C911 - Branch: North Dakota Branch - 2024-09-26 - Withdrawal - $6272.71
+Account 525798 - C1199 - Branch: Hawaii Branch - 2024-05-14 - Online - $4708.96
+Account 661988 - C1968 - Branch: Iowa Branch - 2025-10-26 - Online - $14353.62
+Account 765221 - C1434 - Branch: Indiana Branch - 2024-04-23 - Card Purchase - $12182.06
+Account 746307 - C1632 - Branch: Connecticut Branch - 2025-06-23 - Card Purchase - $6691.05
+Account 550524 - C112 - Branch: Maine Branch - 2025-06-02 - ATM - $14979.1
+Account 983670 - C115 - Branch: New Jersey Branch - 2024-08-10 - Withdrawal - $12620.32
+Account 717738 - C1793 - Branch: Georgia Branch - 2025-05-13 - ATM - $1254.39
+Account 587772 - C284 - Branch: Idaho Branch - 2025-12-12 - Deposit - $2471.37
+Account 917090 - C1378 - Branch: Ohio Branch - 2025-03-23 - Fee - $17004.35
+Account 764304 - C1712 - Branch: North Carolina Branch - 2025-03-25 - Payment - $17820.71
+Account 355746 - C280 - Branch: Oklahoma Branch - 2024-08-24 - ATM - $5249.07
+Account 742088 - C1887 - Branch: New Jersey Branch - 2025-10-29 - Deposit - $9429.95
+Account 931217 - C1633 - Branch: Arkansas Branch - 2025-01-25 - ATM - $13324.92
+Account 767030 - C1146 - Branch: Hawaii Branch - 2024-02-16 - Online - $16043.49
+Account 723322 - C1149 - Branch: New Jersey Branch - 2024-04-28 - ATM - $13608.74
+Account 342067 - C1895 - Branch: California Branch - 2025-03-20 - Withdrawal - $434.04
+Account 951332 - C1295 - Branch: Maine Branch - 2025-10-02 - Card Purchase - $10268.07
+Account 583489 - C1837 - Branch: Oregon Branch - 2024-08-06 - Refund - $-144.92
+Account 525365 - C1473 - Branch: New York Branch - 2025-10-09 - POS - $2245.32
+Account 397107 - C1833 - Branch: Kansas Branch - 2024-06-16 - Online - $11150.28
+Account 823714 - C295 - Branch: North Carolina Branch - 2025-05-23 - Deposit - $18269.66
+Account 799403 - C1468 - Branch: Oklahoma Branch - 2024-09-13 - Payment - $17795.7
+Account 900814 - C622 - Branch: Kentucky Branch - 2024-08-29 - ATM - $6656.45
+Account 928154 - C1092 - Branch: New Mexico Branch - 2025-08-19 - Fee - $10134.83
+Account 696223 - C1500 - Branch: Massachusetts Branch - 2024-04-17 - Withdrawal - $16513.71
+Account 312130 - C1088 - Branch: Utah Branch - 2025-12-01 - Fee - $18071.05
+Account 255523 - C35 - Branch: Michigan Branch - 2024-07-09 - POS - $15754.08
+Account 817969 - C455 - Branch: Oregon Branch - 2025-06-01 - Deposit - $13038.82
+Account 194985 - C766 - Branch: South Dakota Branch - 2024-01-20 - Online - $14264.99
+Account 623734 - C1783 - Branch: North Carolina Branch - 2025-12-17 - Deposit - $8453.63
+Account 742088 - C1887 - Branch: Hawaii Branch - 2025-06-30 - Card Purchase - $12498.41
+Account 114714 - C341 - Branch: Washington Branch - 2025-02-23 - Fee - $12966.43
+Account 283247 - C1289 - Branch: North Carolina Branch - 2024-07-26 - Card Purchase - $15469.43
+Account 304462 - C1911 - Branch: Wisconsin Branch - 2025-05-12 - ATM - $10682.23
+Account 584646 - C1013 - Branch: Idaho Branch - 2024-06-19 - Payment - $8829.01
+Account 276929 - C1684 - Branch: North Dakota Branch - 2024-07-11 - POS - $16417.11
+Account 428088 - C683 - Branch: Massachusetts Branch - 2025-09-10 - Withdrawal - $17549.92
+Account 121431 - C538 - Branch: Connecticut Branch - 2024-05-26 - Withdrawal - $6820.78
+Account 928154 - C1092 - Branch: Rhode Island Branch - 2025-09-30 - Payment - $14287.39
+Account 455046 - C308 - Branch: West Virginia Branch - 2024-08-26 - Card Purchase - $8388.39
+Account 629041 - C494 - Branch: West Virginia Branch - 2025-07-04 - Deposit - $13431.31
+Account 119234 - C1293 - Branch: Alaska Branch - 2024-04-19 - ATM - $9986.32
+Account 196644 - C594 - Branch: Wyoming Branch - 2024-02-22 - Fee - $8586.47
+Account 615863 - C490 - Branch: Pennsylvania Branch - 2024-02-26 - POS - $4077.23
+Account 970863 - C840 - Branch: Montana Branch - 2024-03-20 - POS - $15348.49
+Account 484464 - C240 - Branch: Virginia Branch - 2025-02-12 - Refund - $936.63
+Account 546152 - C514 - Branch: Massachusetts Branch - 2024-03-07 - Withdrawal - $3396.31
+Account 230290 - C1264 - Branch: Colorado Branch - 2024-11-21 - ATM - $10533.71
+Account 790656 - C263 - Branch: Hawaii Branch - 2025-04-13 - ATM - $15736.38
+Account 183678 - C997 - Branch: New Hampshire Branch - 2024-12-27 - Online - $5600.01
+Account 866620 - C464 - Branch: Missouri Branch - 2024-04-24 - Online - $10917.88
+Account 255523 - C35 - Branch: Virginia Branch - 2025-07-05 - Online - $14020.99
+Account 842750 - C431 - Branch: Hawaii Branch - 2025-10-15 - Deposit - $-149.62
+Account 901854 - C1237 - Branch: Idaho Branch - 2024-12-17 - Card Purchase - $1967.27
